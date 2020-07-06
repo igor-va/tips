@@ -1,0 +1,183 @@
+# Начало работы
+git init  # Инициализация
+git add [file1]  # Добавлять по файлам
+git commit -m "message"  # Добавить коммит
+git remote add [remote_server] [URL]  # Например - git remote add origin https://github.com/igor-va/repo.git
+git push -u [remote_server] [branch]  # Например - git push -u origin master, где параметр -u это краткое обозначение параметра --setupstream, который устанавливает конфигурацию ветки, облегчающую дальнейшую отправку данных на сервер и скачивание их оттуда
+
+# Клонирование существующего репозитория
+git clone [URL]  # Клонирование репозитория [URL] в текущую папку
+git clone [URL] [PATH]  # Клонирование репозитория [URL] в папку [PATH]
+
+# Настройка Git
+/etc/gitconfig  # Файл содержит значения, действующие для всех пользователей системы и всех их репозиториев
+git config --system  # Чтения и запись для этого конкретного в файл /etc/gitconfig
+~/.gitconfig или ~/.config/git/config  # Файл связан с конкретным пользователем
+git config --global  # Чтение и запись для файла ~/.gitconfig инициируются передачей параметра --global
+--global  # Если для конкретного проекта требуется указать другое имя или адрес электронной почты, войдите в папку с проектом и выполните эту команду без параметра --global
+C:\Users\$USER  # Путь в Windows
+git config --list  # Вывод список всех обнаруженных в текущий момент параметров
+git config [key]  # Проверка значения конкретного ключа, например - git config user.name
+
+# Идентификатор и настройки
+git config --global user.name "Igor Andreev"
+git config --global user.email igoryan16031991@gmail.com
+git config user.name  # Проверка значения имени пользователя
+git config --global credential.helper cache  # Настройте «кэш учетных данных»
+git config --global rerere.enabled true  # Программный компонент rerere
+
+# Псевдонимы в Git
+git config --global alias.co checkout
+git config --global alias.br branch
+git config --global alias.ci commit
+git config --global alias.st status
+git config --global alias.last 'log -1 HEAD'  # Команда, выводящая последние коммиты
+
+# Получение справочной информации
+git help [command]  # Например - git help config
+git [command] --help
+man git-[command]
+
+# .gitignore, стр 41
+*.[oa]  # Игнорировать любые файлы, заканчивающиеся на «.o»или «.a»
+*.a  # Игнорировать файлы, заканчивающиеся на «.a»
+*~  # Игнорировать файлы, заканчивающиеся на тильду (временные файлы)
+!lib.a  # Отслеживать файлы lib.a, несмотря на пропуск файлов на .a
+/TODO  # Игнорировать только корневой файл TODO, а не файлы вида subdir/TODO
+build/  # Игнорировать все файлы в папке build/
+doc/*.txt  # Игнорировать doc/notes.txt, но не doc/server/arch.txt
+
+# Работа с файлами
+git status  # Проверка состояния файлов
+git status -s/--short  # Краткий отчет о состоянии
+git add [file1] [file2]  # Добавлять по файлам
+git add .  # Добавить все файлы
+
+# Команды фиксации
+git commit
+git commit -m "message"
+git commit -v  # Показать список изменений, включаемых в новые фиксируемые данные
+git commit -a -m "message"  # Позволяет обойтись без команды git add, индексирует все отслеживаемые файлы
+
+# Удаление файлов, стра 46
+git rm [file]  # Индексирует удаление файла
+git rm -f [file]  # Принудительное удаление файла из области индексирования, если уже добавили его
+
+# Перемещение файлов
+git mv [file_from] [file_to]  # Перемещение файл, с сохранением индексации
+
+# История версий, стр 50-54
+git log
+git log -p -2  # -p показывает разницу, внесенную каждым коммитом; -2 ограничение вывода
+git log --stat  # Получение краткой статистики по каждой версии
+git log --pretty=oneline  # Выводит каждый коммит в одну строку
+git log --pretty=format:"%h - %an, %ar : %s"  # стр 50
+git log --pretty=format:"%h %s" --graph  # история ветвлений и слияний
+git log --no-merges [local_branch]..[remote_server]/[remote_branch]  # отображать нужно только те коммиты из последней ветки [remote_server]/[remote_branch], которых нет в первой ветке [local_branch]
+git log [branch_master]..[branch_add]  #  это означает все коммиты из ветки [branch_add], отсутствующие в ветке [branch_master]
+git log --since=2.weeks  # Вывод список зафиксированных за последние две недели версий
+git log [branch_add] --not [branch_master]  # Вывод коммитов, присутствующие в ветке [branch_add], но отсутствующие в вашей ветке [branch_master]
+git log -p [branch_add] --not [branch_master]  # -/- + к каким изменениям приведет каждый коммит
+
+# Что именно изменилось
+git diff  # Что было изменено, но пока не проиндексировано
+git diff --staged  # Эта команда сравнивает индексированные изменения с содержимым последней зафиксированной версии
+git diff --cached  # Эта команда покажет проиндексированные изменения
+git diff --word-diff
+git diff [commit1] [commit2]  # Разница между коммитами
+git diff [branch_master]...[branch_add]  # Разница между последним коммитом ветки, в которой вы находитесь, и ее общим предком с другой веткой
+
+# Отмена изменений, команда --amend
+git commit -m "message"
+git add [file]
+git commit --amend  # В итоге останется единственный коммит — второй коммит заменит результат первого
+
+# Отмена внесенных в файл изменений
+git checkout -- [file]
+
+# Отмена индексирования/отмена изменений
+git reset HEAD [file]  # Отмена файла из области индексирования
+git reset HEAD~1  # Отменяет изменения, перенося ссылку на ветку назад, на более старый коммит
+git revert HEAD  # Отменить изменения и поделиться отменёнными изменениями с остальными на сервере
+git reset --hard  # Сброс всех изменений к текущему коммиту
+
+# Удаленные репозитории
+git remote  # Cписок коротких имен удаленных серверов
+git remote -v  # Список URL-адресов
+git remote add [remote_server] [url]  # Добавление репозитория [url] под коротким именем [remote_server]
+git fetch [remote_server/url]  # Скачивания всей информации с удаленного сервера, без автоматического слияния, например - git fetch origin
+git pull  # Извлекает данные с сервера и автоматически пытается слить их с вашим текущим рабочим кодом
+git pull [url]  # Возможность выполнить однократное скачивание данных без сохранения URL-адреса в списке удаленных репозиториев
+git push [remote_server/url] [branch]  # Отправка ветки на сервер, например - git push origin master
+git push -u [remote_server/url] [branch]  # Например - git push -u origin master, где параметр -u это краткое обозначение параметра --setupstream, который устанавливает конфигурацию ветки, облегчающую дальнейшую отправку данных на сервер и скачивание их оттуда
+git push -f [remote_server/url] [branch]  # 
+git remote show [remote_server/url]  # Информация о конкретном удаленном репозитории
+git remote rename [old_remote_server] [new_remote_server]  # Переименование сокращенных имен удаленных репозиториев
+git remote rm [remote_server]  # Удалить ссылку на удаленный репозиторий
+git fetch --all  # Извлечь данные со всех удаленных серверов
+git push -u origin [local_branch]:[remote_branch]  # Полученные после слияния данные из ветки [local_branch] можно выложить в ветку [remote_branch] на сервере
+git push [remote_server] --delete [branch]  # Удаление ветки [branch] с сервера [remote_server]
+
+# Теги
+git tag  # Просмотр списка доступных тегов
+git tag [tag]  # Легковесный тег
+git tag -a [tag] -m 'message'  # Тег, снабженный комментарием
+git show [tag]  # Просмотр данных тега вместе с помеченным им коммитом
+git tag -a [tag] [commit]  # Снабдить тегом версию проекта соответствующим коммитом
+git push origin [tag]  # Отправить на сервер отдельный тег
+git push origin --tags  # Отправить на сервер все теги
+
+# Ветвление/слияние
+git branch  # Список имеющихся веток
+git branch -v  # Последний коммит, выполненный в каждой ветке
+git branch [branch]  # Создание новой ветки на текущем коммите
+git branch [new_branch] [old_branch]  #  Создать ветку [new_branch] на основе вашей ветки [old_branch]
+git checkout [branch]  # Переход на существующую ветку
+git checkout -b [branch]  # Создать ветку и сразу перейти туда
+git checkout -b [branch] [remote_server/branch]  # Создание собственной копии ветки [branch], взяв за основу удаленную ветку [remote_server/branch], и сразу перейти в нее
+git checkout --track [remote_server/branch]  # -/-
+git log --oneline --decorate  # Узнать, куда именно нацелены указатели веток
+git log --oneline --decorate --graph --all  # История коммитов, места расположения указателей и точки расхождения
+git merge [branch]  # Объединить ветку [branch] с текущей веткой, в которую будут сливаться данные
+git merge [remote_server/branch]  # Объединить скачанную с удаленного репозитория ветку [remote_server/branch] с текущей веткой, в которую будут сливаться данные
+git branch -d [branch]  # Удаление ветки
+git branch --merged  # Список только тех веток, которые слиты с текущей веткой
+git branch --no-merged  # Список только тех веток, которые не слиты с текущей веткой
+git branch -vv  # список веток наблюдения
+
+# Запросом на включение (pull request)
+git request-pull [remote_server/branch] [myfork]  # Пример - git request-pull origin/master myfork
+
+# Конфликты при слиянии
+git mergetool  # Для разрешения конфликтов
+
+# Перемещение данных
+git rebase [branch]  # Перемещение изменений из текущей ветки в ветку [branch]
+git rebase [main_branch] [theme_branch]  # Переместить ветку [theme_branch] в ветку [main_branch] вне зависимости от того, в какой ветке вы сейчас находитесь
+git rebase -i  # Позволяет объединить все наработки в один коммит
+
+# Рекомендации по созданию коммитов
+Documentation/SubmittingPatches  # Документация с хорошими советами по созданию коммитов
+git diff --chec  # Команда, позволяющая проверить наличие пробелов
+
+# Индексации файлов по частям
+git add --patch
+
+# Относительные ссылки
+git checkout master^  # Первый родитель ветки master
+git checkout master^^  # Прародитель ветки master (родитель родителя)
+git checkout HEAD^  # Первый родитель коммита HEAD
+git checkout HEAD~4  # Число коммитов (например 4), через которые надо пройти
+git branch -f master HEAD~3  # Переместит (принудительно) ветку master на три родителя назад от HEAD (HEAD м.б. в любом месте)
+git branch -f master [commit]  # Переместит (принудительно) ветку master на коммит [commit]
+
+# Ссылки
+git show HEAD^  # просмотр предыдущего коммита, то есть «родитель HEAD»
+git show [commit]^2  # «второй предок коммита [commit]
+git show HEAD~3  # первый предок первого предка первого предка, прадедушка
+git show HEAD^^^  # первый предок первого предка первого предка, прадедушка
+
+# Перемещение изменений
+git cherry-pick [Commit1] [Commit2] [...]  # копировать несколько коммитов на место, где сейчас находишься (HEAD)
+git rebase -i HEAD~4
+
