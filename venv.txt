@@ -1,0 +1,29 @@
+# Virtual environment with Python 3
+python3 -m venv [venv_name]  # Creates a virtual environment
+source venv/bin/activate  # Linux or macOS activate venv
+deactivate  # Linux or macOS deactivate venv
+venv\Scripts\activate  # Microsoft Windows activate venv
+pip freeze  # Сheck what packages are installed in the virtual environment
+
+# Virtual environment with Python 2
+# Inside work directory
+sudo pip install virtualenv  # Created utility virtualenv on Linux or macOS
+pip install virtualenv  # Created utility virtualenv on Windows (as admin shell)
+virtualenv venv  # Creates a virtual environment
+
+# Environment variables that hold the email server (on Linux)
+export MAIL_USERNAME=igorva.test@gmail.com
+export MAIL_PASSWORD=BigBomBam
+export FLASKY_ADMIN=igorva.test@gmail.com
+~/.bashrc  # Path bash enviroment
+
+# Environment variables that hold the email server (on Windows)
+set MAIL_USERNAME=igorva.test@gmail.com
+set MAIL_PASSWORD=BigBomBam
+set FLASKY_ADMIN=igorva.test@gmail.com
+
+# Package dependencies
+pip freeze >requirements.txt  # Generated automatically file by pip 
+pip install -r requirements.txt  # Build a perfect replica
+pip install -r requirements/dev.txt  # Build a perfect replica
+
