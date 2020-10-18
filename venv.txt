@@ -11,6 +11,9 @@ sudo pip install virtualenv  # Created utility virtualenv on Linux or macOS
 pip install virtualenv  # Created utility virtualenv on Windows (as admin shell)
 virtualenv venv  # Creates a virtual environment
 
+# Links
+https://python-scripts.com/virtualenv
+
 # Environment variables that hold the email server (on Linux)
 export MAIL_USERNAME=igorva.test@gmail.com
 export MAIL_PASSWORD=BigBomBam
