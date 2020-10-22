@@ -1,3 +1,6 @@
+# Обновление pip
+pip install -U pip
+
 # Список установленных приложений
 pip freeze
 pip list
