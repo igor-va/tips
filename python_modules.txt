@@ -1,0 +1,24 @@
+# Модули и библиотеки
+argparse  # Модуль для передачи параметров и параметризации скриптов
+json  # Для работы с json данными
+requests
+pprint
+pytest
+collections
+
+# Argparse
+https://docs.python.org/3/library/argparse.html
+https://docs.python.org/3/howto/argparse.html#id1
+
+# Json
+https://docs.python.org/3/library/json.html
+
+# Requests
+https://2.python-requests.org/en/master/
+https://www.pythonforbeginners.com/requests/using-requests-in-python
+
+# Pytest
+https://docs.pytest.org/en/latest/
+
+# Collections
+https://docs.python.org/3/library/collections.html
