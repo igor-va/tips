@@ -4,3 +4,8 @@ pip install -U pip
 # Список установленных приложений
 pip freeze
 pip list
+
+# Package dependencies
+pip freeze >requirements.txt  # Generated automatically file by pip 
+pip install -r requirements.txt  # Build a perfect replica
+pip install -r requirements/dev.txt  # Build a perfect replica

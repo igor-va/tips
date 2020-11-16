@@ -1,2 +1,7 @@
+# Links
+https://white55.ru/cmd-sh.html  # Сответствие консольных команд Windows и Linux
+
 clear  # Очистка терминала
+
+
 
