@@ -1,10 +1,11 @@
 # Модули и библиотеки
 argparse  # Модуль для передачи параметров и параметризации скриптов
-json  # Для работы с json данными
+json  # Содуль для работы с json данными
 requests
 pprint
 pytest
 collections
+logging  # Модуль для регистрации событий для приложений и библиотек
 
 # Argparse
 https://docs.python.org/3/library/argparse.html
@@ -22,3 +23,6 @@ https://docs.pytest.org/en/latest/
 
 # Collections
 https://docs.python.org/3/library/collections.html
+
+# Logging
+https://docs.python.org/3/library/logging.html
