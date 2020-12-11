@@ -1,0 +1,3 @@
+# Links
+http://allure.qatools.ru/
+https://docs.qameta.io/allure/

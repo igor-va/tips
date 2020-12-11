@@ -15,3 +15,12 @@ pytest 0_pytest_intro/test_pytest_intro_1.py
 pytest 0_pytest_intro/test_pytest_intro_1.py::TestClass
 pytest 0_pytest_intro/test_pytest_intro_1.py::test_one
 
+# Модули
+pytest-html  # Отчет результатов тестов в формате html
+pytest-json  # Отчет результатов тестов в формате json
+pytest-xdist  # Для паралельного запуска тестов
+allure-pytest  # Для
+
+# Pytest-html
+https://pytest-html.readthedocs.io/en/latest/
+
