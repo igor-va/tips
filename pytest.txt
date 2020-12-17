@@ -10,6 +10,14 @@
 --lf запустить только последние упавшие
 Посмотреть все другие параметры -h
 
+# Результаты тестов
+PASSED (.)  # Тест прошел успешно
+FAILED (F)  # Тест не прошел
+SKIPPED (s)  # Тест пропущен
+xfail (x)  # Тест ожидаемо не прошел
+XPASS (X)  # The test was not supposed to pass, ran, and passed
+ERROR (E)  # An exception happened outside of the test function, in either a fixture
+
 # Запуск отдельных файлов, функций, классов
 pytest 0_pytest_intro/  # Запуск тестов в конкретной директории
 pytest 0_pytest_intro/test_pytest_intro_1.py  # Запуск конкретного файла
@@ -22,9 +30,15 @@ pytest-json  # Отчет результатов тестов в формате 
 pytest-xdist  # Для паралельного запуска тестов
 allure-pytest  # Для
 
-# Pytest-html
+# pytest-html
 https://pytest-html.readthedocs.io/en/latest/
 
-# Использование
+# Опции
 -v / --verbose  # Управления подробностью вывода
+--collect-only  # Показывает какие тесты будут запускаться
+-k "expression"  # Поиск тестовых функций для запуска: pytest​​ ​​-k​​ ​​"asdict or defaults"​​ ​​--collect-only
+-m "markexpr"  # Запуск маркированных тестов: pytest​​ ​​-v​​ ​​-m​​ ​​"run_these_please" (@pytest.mark.run_these_please)
+		 -m "mark1 and mark2"  # Tests with both markers
+		 -m "mark1 and not mark2"  # Tests that have mark1 but not mark2
+		 -m "mark1 or mark2"  # Tests with either, and so on
 
