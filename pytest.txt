@@ -34,11 +34,21 @@ allure-pytest  # Для
 https://pytest-html.readthedocs.io/en/latest/
 
 # Опции
--v / --verbose  # Управления подробностью вывода
+-v / --verbose  # More information
+-q / --quiet  # Decreases the information reported
 --collect-only  # Показывает какие тесты будут запускаться
 -k "expression"  # Поиск тестовых функций для запуска: pytest​​ ​​-k​​ ​​"asdict or defaults"​​ ​​--collect-only
 -m "markexpr"  # Запуск маркированных тестов: pytest​​ ​​-v​​ ​​-m​​ ​​"run_these_please" (@pytest.mark.run_these_please)
 		 -m "mark1 and mark2"  # Tests with both markers
 		 -m "mark1 and not mark2"  # Tests that have mark1 but not mark2
 		 -m "mark1 or mark2"  # Tests with either, and so on
+-x / –-exitfirst  # Stopping the entire test session immediately when a test fails
+--tb=no  # To turn off the stack trace
+-–maxfail=num  # To specify how many failures are okay (num = integer)
+-s  # Allows print statements
+-–capture=method  # 'method': 'fd', 'sys', 'no', 'tee-sys'
+--lf / --last-failed  # To run just the failing tests
+-–ff / --failed-first  # First to run just the failing tests and then run the rest of the tests that passed last time
+--l / -–showlocals  # Local variables and their values are displayed with tracebacks for failing tests
+
 
