@@ -28,7 +28,7 @@ pytest 0_pytest_intro/test_pytest_intro_1.py::test_one  # Запуск конк�
 pytest-html  # Отчет результатов тестов в формате html
 pytest-json  # Отчет результатов тестов в формате json
 pytest-xdist  # Для паралельного запуска тестов
-allure-pytest  # Для
+allure-pytest  # Для allure
 
 # pytest-html
 https://pytest-html.readthedocs.io/en/latest/
@@ -43,10 +43,16 @@ https://pytest-html.readthedocs.io/en/latest/
 		 -m "mark1 and not mark2"  # Tests that have mark1 but not mark2
 		 -m "mark1 or mark2"  # Tests with either, and so on
 -x / –-exitfirst  # Stopping the entire test session immediately when a test fails
---tb=no  # To turn off the stack trace
+--tb=style  # style: 'auto', 'long', 'short', 'no', 'line', 'native'
+		--tb=no  # Removes the traceback entirely
+		--tb=line  # Help to show a pattern in the failures
+		--tb=short  # Step up in verbose tracebacks
+		--tb=long  # Show you the most exhaustive, informative traceback possible
+		--tb=auto  # Show you the long version for the first and last tracebacks
+		--tb=native  # Show you the standard library traceback without any extra information
 -–maxfail=num  # To specify how many failures are okay (num = integer)
 -s  # Allows print statements
--–capture=method  # 'method': 'fd', 'sys', 'no', 'tee-sys'
+-–capture=method  # method: 'fd', 'sys', 'no', 'tee-sys'
 --lf / --last-failed  # To run just the failing tests
 -–ff / --failed-first  # First to run just the failing tests and then run the rest of the tests that passed last time
 --l / -–showlocals  # Local variables and their values are displayed with tracebacks for failing tests
