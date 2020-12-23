@@ -2,13 +2,6 @@
 Создаем файлы с префиксом или окончанием test
 Создаем функции с префиксом test
 Создаем классы с префиксом Test
-Флаг -v / -q управления подробностью вывода
-Флаг -s позволяет отображать print’ы
-Отдельный файл, метод, класс передаем его команде pytest
--x / --maxfail=n Остановить тесты после 1-го или n-го падения
---collect-only Собрать информацию о тестах
---lf запустить только последние упавшие
-Посмотреть все другие параметры -h
 
 # Результаты тестов
 PASSED (.)  # Тест прошел успешно
@@ -34,6 +27,8 @@ allure-pytest  # Для allure
 https://pytest-html.readthedocs.io/en/latest/
 
 # Опции
+-h / --help  # Посмотреть опции и параметры
+--version  # Shows the version of pytest and the directory where it’s installed
 -v / --verbose  # More information
 -q / --quiet  # Decreases the information reported
 --collect-only  # Показывает какие тесты будут запускаться
@@ -56,5 +51,45 @@ https://pytest-html.readthedocs.io/en/latest/
 --lf / --last-failed  # To run just the failing tests
 -–ff / --failed-first  # First to run just the failing tests and then run the rest of the tests that passed last time
 --l / -–showlocals  # Local variables and their values are displayed with tracebacks for failing tests
+--durations=N  # Show N slowest setup/test durations (N=0 for all)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
