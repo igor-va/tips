@@ -34,7 +34,8 @@ https://pytest-html.readthedocs.io/en/latest/
 --collect-only  # Показывает какие тесты будут запускаться
 -k "expression"  # Поиск тестовых функций для запуска: pytest​​ ​​-k​​ ​​"asdict or defaults"​​ ​​--collect-only
 -m "markexpr"  # Запуск маркированных тестов: pytest​​ ​​-v​​ ​​-m​​ ​​"run_these_please" (@pytest.mark.run_these_please)
-		 -m "mark1 and mark2"  # Tests with both markers
+	       # test can have more than one marker, and a marker can be on multiple tests
+		 -m "mark1 and mark2"  # Only ran the test that had both markers
 		 -m "mark1 and not mark2"  # Tests that have mark1 but not mark2
 		 -m "mark1 or mark2"  # Tests with either, and so on
 -x / –-exitfirst  # Stopping the entire test session immediately when a test fails
@@ -52,6 +53,11 @@ https://pytest-html.readthedocs.io/en/latest/
 -–ff / --failed-first  # First to run just the failing tests and then run the rest of the tests that passed last time
 --l / -–showlocals  # Local variables and their values are displayed with tracebacks for failing tests
 --durations=N  # Show N slowest setup/test durations (N=0 for all)
+
+# Маркировка тестов @pytest.mark.
+@pytest.mark.skip()  # Skipping test
+@pytest.mark.skipif()  №
+
 
 
 
