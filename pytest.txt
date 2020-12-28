@@ -7,15 +7,16 @@
 PASSED (.)  # Тест прошел успешно
 FAILED (F)  # Тест не прошел
 SKIPPED (s)  # Тест пропущен
-xfail (x)  # Тест ожидаемо не прошел
-XPASS (X)  # The test was not supposed to pass, ran, and passed
+xfail (x)  # Expected to fail
+XPASS (X)  # Expected to fail but passed
 ERROR (E)  # An exception happened outside of the test function, in either a fixture
 
 # Запуск отдельных файлов, функций, классов
 pytest 0_pytest_intro/  # Запуск тестов в конкретной директории
 pytest 0_pytest_intro/test_pytest_intro_1.py  # Запуск конкретного файла
-pytest 0_pytest_intro/test_pytest_intro_1.py::TestClass  # Запуск конкретного класса
 pytest 0_pytest_intro/test_pytest_intro_1.py::test_one  # Запуск конкретного теста
+pytest 0_pytest_intro/test_pytest_intro_1.py::TestClass  # Запуск конкретного класса
+pytest 0_pytest_intro/test_pytest_intro_1.py::TestClass::test_four  # Запуск конкретного классового метода
 
 # Модули
 pytest-html  # Отчет результатов тестов в формате html
@@ -32,7 +33,11 @@ https://pytest-html.readthedocs.io/en/latest/
 -v / --verbose  # More information
 -q / --quiet  # Decreases the information reported
 --collect-only  # Показывает какие тесты будут запускаться
--k "expression"  # Поиск тестовых функций для запуска: pytest​​ ​​-k​​ ​​"asdict or defaults"​​ ​​--collect-only
+--setup-show  # To see what’s running and when
+-k "expression"  # Поиск тестовых функций для запуска: pytest​​ ​​-k​​ ​​"exp1 or exp2"​​
+		   -k​​ ​​"exp1"  # Run all of the functions that have "exp1" in their name
+		   -k​​ ​​"exp1 and not exp2"  # Run all of the functions that have "exp1" in their name and not "exp2" 
+		   -k​​ ​​"exp1 or exp2"  # 
 -m "markexpr"  # Запуск маркированных тестов: pytest​​ ​​-v​​ ​​-m​​ ​​"run_these_please" (@pytest.mark.run_these_please)
 	       # test can have more than one marker, and a marker can be on multiple tests
 		 -m "mark1 and mark2"  # Only ran the test that had both markers
@@ -56,7 +61,28 @@ https://pytest-html.readthedocs.io/en/latest/
 
 # Маркировка тестов @pytest.mark.
 @pytest.mark.skip()  # Skipping test
-@pytest.mark.skipif()  №
+@pytest.mark.skipif()  # Skipping test if the condition is satisfied
+@pytest.mark.xfail()  # Telling pytest to run a test function, but that we expect it to fail
+@pytest.mark.parametrize(argnames, argvalues)  # Parametrized testing
+
+# Fixtures
+@pytest.fixture()  # To tell pytest that a function is a fixture
+conftest.py  # pytest will look in conftest.py files fixture (it should not be imported by test files as python module)
+--fixtures  # To lists all the fixtures available for the test
+@pytest.fixture(scope=​'name'​)  # Specifying Fixture Scope
+		scope="function"  # F - Run once per test function
+		scope="class"  # C - Run once per test class
+		scope="module" # M - Run once per module
+		scope="session"  # S - Run once per session
+@pytest.mark.usefixtures(’fixture1’, ’fixture2’)  # If you wanted a test to use a fixture, you put it in the parameter list
+@pytest.fixture(autouse=True)  # Using autouse for fixtures that always get used
+@pytest.fixture(name=​'name'​)  # The name of a fixture
+@pytest.fixture(params=params)  # 
+
+
+
+
+
 
 
 
