@@ -18,7 +18,10 @@ pytest 0_pytest_intro/test_pytest_intro_1.py::test_one  # Запуск конк�
 pytest 0_pytest_intro/test_pytest_intro_1.py::TestClass  # Запуск конкретного класса
 pytest 0_pytest_intro/test_pytest_intro_1.py::TestClass::test_four  # Запуск конкретного классового метода
 
-# Модули
+# Plugins
+https://docs.pytest.org/en/latest/plugins.html
+https://pypi.python.org  # Search to enter “pytest,” “pytest-,” or “-pytest”
+https://github.com/pytest-dev  
 pytest-html  # Отчет результатов тестов в формате html
 pytest-json  # Отчет результатов тестов в формате json
 pytest-xdist  # Для паралельного запуска тестов
@@ -58,6 +61,8 @@ https://pytest-html.readthedocs.io/en/latest/
 -–ff / --failed-first  # First to run just the failing tests and then run the rest of the tests that passed last time
 --l / -–showlocals  # Local variables and their values are displayed with tracebacks for failing tests
 --durations=N  # Show N slowest setup/test durations (N=0 for all)
+--cache-show  # Посмотреть кэш
+​​--cache-clear​​  #
 
 # Маркировка тестов @pytest.mark.
 @pytest.mark.skip()  # Skipping test
@@ -79,8 +84,14 @@ conftest.py  # pytest will look in conftest.py files fixture (it should not be i
 @pytest.fixture(name=​'name'​)  # The name of a fixture
 @pytest.fixture(params=params)  # 
 
-
-
+# Builtin Fixtures
+tmpdir  # 
+tmpdir_factory  # 
+pytestconfig  # 
+capsys  # 
+monkeypatch  #
+doctest_namespace  #
+recwarn  #
 
 
 

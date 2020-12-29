@@ -1,6 +1,10 @@
 # Обновление pip
 pip install -U pip
 
+# Базовые понятия
+pip install NAME  # Установка
+pip uninstall NAME  # Удаление
+
 # Список установленных приложений
 pip freeze
 pip list
