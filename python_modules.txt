@@ -3,7 +3,6 @@ argparse  # Модуль для передачи параметров и пар�
 json  # Содуль для работы с json данными
 requests
 pprint
-pytest
 collections
 logging  # Модуль для регистрации событий для приложений и библиотек
 
@@ -18,11 +17,17 @@ https://docs.python.org/3/library/json.html
 https://2.python-requests.org/en/master/
 https://www.pythonforbeginners.com/requests/using-requests-in-python
 
-# Pytest
-https://docs.pytest.org/en/latest/
-
 # Collections
 https://docs.python.org/3/library/collections.html
 
 # Logging
 https://docs.python.org/3/library/logging.html
+
+# Код стайл
+autopep8
+flake8
+pylint
+pylama
+black
+isort
+editorconfig
