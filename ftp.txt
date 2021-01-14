@@ -1,0 +1,14 @@
+# Links
+https://ru.wikipedia.org/wiki/FTP
+https://www.howtoforge.com/tutorial/how-to-use-ftp-on-the-linux-shell/
+
+# FTP - File Transfer Protocol
+
+# Использование
+ftp user@ftpdomain.com  # Подключиться
+ls  # показать файлы
+cd  # перейти
+lcd  # установить директорию куда скачивать файлы
+get file  # скачать файл
+mget *.txt  # скачать пачку файлов
+put файл  # положить файл

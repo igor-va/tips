@@ -1,5 +1,6 @@
 # Links
 https://habr.com/ru/post/122445/
+http://www.paramiko.org  # библиотека для python, имплементирующая SSHv2
 
 # ssh
 ssh-keygen  # Утилита для генерации ключей. По умолчанию сохраняет ключи в ~/.ssh/

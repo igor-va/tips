@@ -31,3 +31,6 @@ pylama
 black
 isort
 editorconfig
+
+# paramiko - библиотека имплементирующая SSHv2, предоставляет клиент и сервер SSH
+http://www.paramiko.org
