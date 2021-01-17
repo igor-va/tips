@@ -5,22 +5,26 @@ requests
 pprint
 collections
 logging  # Модуль для регистрации событий для приложений и библиотек
+subprocess  # Возможность запускать процессы программ из Python`a
+sys  # Доступ к некоторым переменным окружения используемых интерпретатором
+os  # Модуль для доступа к функционалу ОС.
 
-# Argparse
+
+# argparse
 https://docs.python.org/3/library/argparse.html
 https://docs.python.org/3/howto/argparse.html#id1
 
-# Json
+# json
 https://docs.python.org/3/library/json.html
 
-# Requests
+# requests
 https://2.python-requests.org/en/master/
 https://www.pythonforbeginners.com/requests/using-requests-in-python
 
-# Collections
+# collections
 https://docs.python.org/3/library/collections.html
 
-# Logging
+# logging
 https://docs.python.org/3/library/logging.html
 
 # Код стайл
@@ -34,3 +38,25 @@ editorconfig
 
 # paramiko - библиотека имплементирующая SSHv2, предоставляет клиент и сервер SSH
 http://www.paramiko.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
