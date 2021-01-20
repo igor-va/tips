@@ -80,10 +80,10 @@ conftest.py  # pytest will look in conftest.py files fixture (it should not be i
 @pytest.fixture(scope=​'name'​)  # Specifying Fixture Scope
 		scope="function"  # F - Run once per test function
 		scope="class"  # C - Run once per test class
-		scope="module" # M - Run once per module
+		scope="module"  # M - Run once per module
 		scope="session"  # S - Run once per session
 @pytest.mark.usefixtures(’fixture1’, ’fixture2’)  # If you wanted a test to use a fixture, you put it in the parameter list
-@pytest.fixture(autouse=True)  # Using autouse for fixtures that always get used
+@pytest.fixture(autouse=True)  # Using autouse for fixtures that always get used (95)
 @pytest.fixture(name=​'name'​)  # The name of a fixture
 @pytest.fixture(params=params)  # 
 
