@@ -1,6 +1,11 @@
 # Links
 https://docs.pytest.org/en/latest/
 
+# Instal pytest Tasks
+pip install ./tasks_proj/
+pip install --no-cache-dir ./tasks_proj/
+pip install -e ./tasks_proj/
+
 # Базовые понятия
 Создаем файлы с префиксом или окончанием test
 Создаем функции с префиксом test
@@ -71,12 +76,12 @@ https://pytest-html.readthedocs.io/en/latest/
 @pytest.mark.skip()  # Skipping test
 @pytest.mark.skipif()  # Skipping test if the condition is satisfied
 @pytest.mark.xfail()  # Telling pytest to run a test function, but that we expect it to fail
-@pytest.mark.parametrize(argnames, argvalues)  # Parametrized testing
+@pytest.mark.parametrize(argnames, argvalues)  # Parametrized testing 
 
 # Fixtures
 @pytest.fixture()  # To tell pytest that a function is a fixture
 conftest.py  # pytest will look in conftest.py files fixture (it should not be imported by test files as python module)
---fixtures  # To lists all the fixtures available for the test
+--fixtures filename.py  # To lists all the fixtures available for the test
 @pytest.fixture(scope=​'name'​)  # Specifying Fixture Scope
 		scope="function"  # F - Run once per test function
 		scope="class"  # C - Run once per test class
@@ -84,8 +89,8 @@ conftest.py  # pytest will look in conftest.py files fixture (it should not be i
 		scope="session"  # S - Run once per session
 @pytest.mark.usefixtures(’fixture1’, ’fixture2’)  # If you wanted a test to use a fixture, you put it in the parameter list
 @pytest.fixture(autouse=True)  # Using autouse for fixtures that always get used (95)
-@pytest.fixture(name=​'name'​)  # The name of a fixture
-@pytest.fixture(params=params)  # 
+@pytest.fixture(name=​'name'​)  # The name of a fixture - Example: def test_everything(name): (97)
+@pytest.fixture(params=params)  # Parametrize fixtures (99 more)
 
 # Builtin Fixtures
 tmpdir  # 
