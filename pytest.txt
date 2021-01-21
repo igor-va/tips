@@ -87,14 +87,14 @@ conftest.py  # pytest will look in conftest.py files fixture (it should not be i
 		scope="class"  # C - Run once per test class
 		scope="module"  # M - Run once per module
 		scope="session"  # S - Run once per session
-@pytest.mark.usefixtures(’fixture1’, ’fixture2’)  # If you wanted a test to use a fixture, you put it in the parameter list
+@pytest.mark.usefixtures(’fixture1’, ’fixture2’)  # If you wanted a test to use a fixture, you put it in the parameter list (94)
 @pytest.fixture(autouse=True)  # Using autouse for fixtures that always get used (95)
 @pytest.fixture(name=​'name'​)  # The name of a fixture - Example: def test_everything(name): (97)
 @pytest.fixture(params=params)  # Parametrize fixtures (99 more)
 
 # Builtin Fixtures
-tmpdir  # 
-tmpdir_factory  # 
+tmpdir  # Fixture is defined as function scope, you can’t use tmpdir to create folders or files that should stay in place longer than one test function (108)
+tmpdir_factory  # Resources created in session scope fixtures have a lifetime of the entire session (109)
 pytestconfig  # 
 capsys  # 
 monkeypatch  #
