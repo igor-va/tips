@@ -95,12 +95,18 @@ conftest.py  # pytest will look in conftest.py files fixture (it should not be i
 # Builtin Fixtures
 tmpdir  # Fixture is defined as function scope, you can’t use tmpdir to create folders or files that should stay in place longer than one test function (108)
 tmpdir_factory  # Resources created in session scope fixtures have a lifetime of the entire session (109)
-pytestconfig  # 
+pytestconfig  # Control how pytest runs through CL arguments and options, configuration files, plugins, and the directory from which you launched pytest (112)
 capsys  # 
 monkeypatch  #
 doctest_namespace  #
 recwarn  #
 
+# Hooks
+def pytest_addoption(parser):	# Add a couple of options
+    parser.addoption("--myopt", action="store_true",
+                     help="some boolean option")
+    parser.addoption("--foo", action="store", default="bar",
+                     help="foo: bar or baz")
 
 
 
