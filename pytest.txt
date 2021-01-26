@@ -41,7 +41,7 @@ https://pytest-html.readthedocs.io/en/latest/
 # Опции
 -h / --help  # Посмотреть опции и параметры
 --version  # Shows the version of pytest and the directory where it’s installed
--v / --verbose  # More information
+-v / --verbose  # More information: function names
 -q / --quiet  # Decreases the information reported
 --collect-only  # Показывает какие тесты будут запускаться
 --setup-show  # To see what’s running and when
@@ -56,7 +56,7 @@ https://pytest-html.readthedocs.io/en/latest/
 		 -m "mark1 or mark2"  # Tests with either, and so on
 -x / –-exitfirst  # Stopping the entire test session immediately when a test fails
 --tb=style  # style: 'auto', 'long', 'short', 'no', 'line', 'native'
-		--tb=no  # Removes the traceback entirely
+		--tb=no  # Removes the traceback entirely, to hide the stack trace
 		--tb=line  # Help to show a pattern in the failures
 		--tb=short  # Step up in verbose tracebacks
 		--tb=long  # Show you the most exhaustive, informative traceback possible
@@ -69,14 +69,16 @@ https://pytest-html.readthedocs.io/en/latest/
 -–ff / --failed-first  # First to run just the failing tests and then run the rest of the tests that passed last time
 --l / -–showlocals  # Local variables and their values are displayed with tracebacks for failing tests
 --durations=N  # Show N slowest setup/test durations (N=0 for all)
---cache-show  # Посмотреть кэш
-​​--cache-clear​​  #
+--cache-show  # Show cache contents, don't perform collection or tests
+​​--cache-clear​​  # Remove all cache contents at start of test run
 
 # Маркировка тестов @pytest.mark.
 @pytest.mark.skip()  # Skipping test
 @pytest.mark.skipif()  # Skipping test if the condition is satisfied
 @pytest.mark.xfail()  # Telling pytest to run a test function, but that we expect it to fail
-@pytest.mark.parametrize(argnames, argvalues)  # Parametrized testing 
+@pytest.mark.parametrize(argnames, argvalues)  # Parametrized testing
+						@pytest.mark.parametrize("x,y,expected", testdata)
+						def test_a(x, y, expected):
 
 # Fixtures
 @pytest.fixture()  # To tell pytest that a function is a fixture
