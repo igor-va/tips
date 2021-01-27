@@ -69,8 +69,8 @@ https://pytest-html.readthedocs.io/en/latest/
 -–ff / --failed-first  # First to run just the failing tests and then run the rest of the tests that passed last time
 --l / -–showlocals  # Local variables and their values are displayed with tracebacks for failing tests
 --durations=N  # Show N slowest setup/test durations (N=0 for all)
---cache-show  # Show cache contents, don't perform collection or tests
-​​--cache-clear​​  # Remove all cache contents at start of test run
+--cache-show  # Show cache contents, don't perform collection or tests (115)
+​​--cache-clear​​  # Remove all cache contents at start of test run (115)
 
 # Маркировка тестов @pytest.mark.
 @pytest.mark.skip()  # Skipping test
@@ -98,8 +98,8 @@ conftest.py  # pytest will look in conftest.py files fixture (it should not be i
 tmpdir  # Fixture is defined as function scope, you can’t use tmpdir to create folders or files that should stay in place longer than one test function (108)
 tmpdir_factory  # Resources created in session scope fixtures have a lifetime of the entire session (109)
 pytestconfig  # Control how pytest runs through CL arguments and options, configuration files, plugins, and the directory from which you launched pytest (112)
-capsys  # 
-monkeypatch  #
+capsys  # Allows you to retrieve stdout and stderr from some code, and it disables output capture temporarily (123)
+monkeypatch  # Dynamic modification of a class or module during runtime (125)
 doctest_namespace  #
 recwarn  #
 
