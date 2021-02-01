@@ -26,7 +26,7 @@ pytest 0_pytest_intro/test_pytest_intro_1.py::test_one  # Запуск конк�
 pytest 0_pytest_intro/test_pytest_intro_1.py::TestClass  # Запуск конкретного класса
 pytest 0_pytest_intro/test_pytest_intro_1.py::TestClass::test_four  # Запуск конкретного классового метода
 
-# Plugins
+# Plugins (138)
 https://docs.pytest.org/en/latest/plugins.html
 https://pypi.python.org  # Search to enter “pytest,” “pytest-,” or “-pytest”
 https://github.com/pytest-dev  
@@ -99,9 +99,9 @@ tmpdir  # Fixture is defined as function scope, you can’t use tmpdir to create
 tmpdir_factory  # Resources created in session scope fixtures have a lifetime of the entire session (109)
 pytestconfig  # Control how pytest runs through CL arguments and options, configuration files, plugins, and the directory from which you launched pytest (112)
 capsys  # Allows you to retrieve stdout and stderr from some code, and it disables output capture temporarily (123)
-monkeypatch  # Dynamic modification of a class or module during runtime (125)
-doctest_namespace  #
-recwarn  #
+monkeypatch  # Return learn (125)
+doctest_namespace  # Return learn (129)
+recwarn  # Return learn (133)
 
 # Hooks
 def pytest_addoption(parser):	# Add a couple of options
