@@ -37,10 +37,12 @@ allure-pytest  # Для allure
 pytest-cov  # Code coverage is a measurement of what percentage of the code under test is being tested by a test suite (pytest​​ ​​--cov=/path/to/code) (181)
 pytest-mock  # Thin-wrapper around the mock package for easier use with pytest (186)
 tox  # Run your complete suite of tests in multiple environments (193)
+jenkins  # Continuous integration (CI) systems such as Jenkins are frequently used to launch test suites after each code commit (197)
 
 # С какими python модулями pytest может работать совместно
 pdb  # Module debugger in the standard library (​pytest​​ ​​​​--pdb) (177)
 unittest.mock  # To swap out pieces of the system to isolate bits of our code under test from the rest of the system (186)
+unittest  # Framework built into the Python standard library (203)
 
 # pytest-html
 https://pytest-html.readthedocs.io/en/latest/
