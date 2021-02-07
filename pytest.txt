@@ -34,9 +34,27 @@ pytest-html  # Отчет результатов тестов в формате 
 pytest-json  # Отчет результатов тестов в формате json
 pytest-xdist  # Для паралельного запуска тестов
 allure-pytest  # Для allure
+pytest-cov  # Code coverage is a measurement of what percentage of the code under test is being tested by a test suite (pytest​​ ​​--cov=/path/to/code) (181)
+pytest-mock  # Thin-wrapper around the mock package for easier use with pytest (186)
+tox  # Run your complete suite of tests in multiple environments (193)
+
+# С какими python модулями pytest может работать совместно
+pdb  # Module debugger in the standard library (​pytest​​ ​​​​--pdb) (177)
+unittest.mock  # To swap out pieces of the system to isolate bits of our code under test from the rest of the system (186)
 
 # pytest-html
 https://pytest-html.readthedocs.io/en/latest/
+
+# pytest-cov (181)
+https://coverage.readthedocs.io/en/coverage-5.4/
+https://pytest-cov.readthedocs.io/en/latest/
+
+# mock & pytest-mock (186)
+https://docs.python.org/dev/library/unittest.mock.html
+https://pypi.org/project/pytest-mock/
+
+# tox 
+https://tox.readthedocs.io/en/latest/
 
 # Опции
 -h / --help  # Посмотреть опции и параметры
@@ -71,6 +89,7 @@ https://pytest-html.readthedocs.io/en/latest/
 --durations=N  # Show N slowest setup/test durations (N=0 for all)
 --cache-show  # Show cache contents, don't perform collection or tests (115)
 ​​--cache-clear​​  # Remove all cache contents at start of test run (115)
+--pdb  # Starts an interactive debugging session at the point of failure
 
 # Маркировка тестов @pytest.mark.
 @pytest.mark.skip()  # Skipping test
