@@ -26,38 +26,6 @@ pytest 0_pytest_intro/test_pytest_intro_1.py::test_one  # Запуск конк�
 pytest 0_pytest_intro/test_pytest_intro_1.py::TestClass  # Запуск конкретного класса
 pytest 0_pytest_intro/test_pytest_intro_1.py::TestClass::test_four  # Запуск конкретного классового метода
 
-# Plugins (138)
-https://docs.pytest.org/en/latest/plugins.html
-https://pypi.python.org  # Search to enter “pytest,” “pytest-,” or “-pytest”
-https://github.com/pytest-dev  
-pytest-html  # Отчет результатов тестов в формате html
-pytest-json  # Отчет результатов тестов в формате json
-pytest-xdist  # Для паралельного запуска тестов
-allure-pytest  # Для allure
-pytest-cov  # Code coverage is a measurement of what percentage of the code under test is being tested by a test suite (pytest​​ ​​--cov=/path/to/code) (181)
-pytest-mock  # Thin-wrapper around the mock package for easier use with pytest (186)
-tox  # Run your complete suite of tests in multiple environments (193)
-jenkins  # Continuous integration (CI) systems such as Jenkins are frequently used to launch test suites after each code commit (197)
-
-# С какими python модулями pytest может работать совместно
-pdb  # Module debugger in the standard library (​pytest​​ ​​​​--pdb) (177)
-unittest.mock  # To swap out pieces of the system to isolate bits of our code under test from the rest of the system (186)
-unittest  # Framework built into the Python standard library (203)
-
-# pytest-html
-https://pytest-html.readthedocs.io/en/latest/
-
-# pytest-cov (181)
-https://coverage.readthedocs.io/en/coverage-5.4/
-https://pytest-cov.readthedocs.io/en/latest/
-
-# mock & pytest-mock (186)
-https://docs.python.org/dev/library/unittest.mock.html
-https://pypi.org/project/pytest-mock/
-
-# tox 
-https://tox.readthedocs.io/en/latest/
-
 # Опции
 -h / --help  # Посмотреть опции и параметры
 --version  # Shows the version of pytest and the directory where it’s installed

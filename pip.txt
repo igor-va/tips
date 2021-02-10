@@ -1,9 +1,19 @@
+# Links
+https://pip.pypa.io
+
 # Обновление pip
 pip install -U pip
 
-# Базовые понятия
+# Установка
 pip install NAME  # Установка
+pip​​ ​​install​​ ​​NAME==3.2.1  # Установка определенной версии
+​​pip​​ ​​install​​ ​​/path/to/package  # Install a local package that has a setup.py file in it
+
+# Удаление
 pip uninstall NAME  # Удаление
+
+# Версия
+pip --version
 
 # Список установленных приложений
 pip freeze

@@ -13,6 +13,7 @@ virtualenv venv  # Creates a virtual environment
 
 # Links
 https://python-scripts.com/virtualenv
+https://virtualenv.pypa.io
 
 # Environment variables that hold the email server (on Linux)
 export MAIL_USERNAME=igorva.test@gmail.com
