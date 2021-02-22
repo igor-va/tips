@@ -1,16 +1,41 @@
+# Windos
 Включить точки восстановления
+Google
+FireFox
+Tor
 Fusion
 AutoCad
 Maya
 Inventor
+FreeCad
+Gimp
 Pycharm
 GitBash
-Выбрать антивирус
+Avast
 GitHub Desktop
 Foxit Reader
-Tor
 Unreal Commander
 Q-Translate
 Python
 Advanced SystemCare
 Aida
+Calibre E-book
+Libre Office
+VLC Media Player
+
+# Ubuntu
+Включить точки восстановления
+Google
+FireFox
+Tor
+FreeCad
+Gimp
+Pycharm
+Foxit Reader
+Unreal Commander (Double Commander)
+Q-Translate
+Calibre E-book
+Libre Office
+VLC Media Player
+Translatium
+Shutter
