@@ -10,6 +10,11 @@ git push -u [remote_server] [branch]  # Например - git push -u origin ma
 git clone [URL]  # Клонирование репозитория [URL] в текущую папку
 git clone [URL] [PATH]  # Клонирование репозитория [URL] в папку [PATH]
 
+# Push an existing repository from the command line to github
+git remote add origin https://github.com/igor-va/veeam.git
+git branch -M main
+git push -u origin main
+
 # Настройка Git
 /etc/gitconfig  # Файл содержит значения, действующие для всех пользователей системы и всех их репозиториев
 git config --system  # Чтения и запись для этого конкретного в файл /etc/gitconfig

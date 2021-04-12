@@ -52,6 +52,7 @@ du  # покажет вес файлов в директории, поможет
 
 # Создание файла
 https://losst.ru/kak-sozdat-fajl-v-terminale
+> файл
 
 # Типы файлов и каталогов
 https://losst.ru/tipy-fajlov-v-linux
