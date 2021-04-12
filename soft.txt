@@ -1,4 +1,4 @@
-# Windos
+# Windows
 Включить точки восстановления
 Google
 FireFox
@@ -10,6 +10,7 @@ Inventor
 FreeCad
 Gimp
 Pycharm
+Notepad++
 GitBash
 Avast
 GitHub Desktop
@@ -23,6 +24,7 @@ Calibre E-book
 Libre Office
 VLC Media Player
 
+
 # Ubuntu
 Включить точки восстановления
 Google
@@ -31,6 +33,7 @@ Tor
 FreeCad
 Gimp
 Pycharm
+Notepad++
 Foxit Reader
 Unreal Commander (Double Commander)
 Q-Translate
