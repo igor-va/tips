@@ -1,0 +1,58 @@
+# Сделать структуру папок разработок на английском и на русском - frame
+Просмотривать и выписывать все образующиеся папки из сервера и из фьюжн
+Понять как правильно структурировать, должна быть логика
+Добавлять перед названием папки цифру как обозначение категории
+
+# Files in the root folder
+- develop.dwg - development file
+.pdf - various drawings for discussion
+- wiki.txt - technical information
+
+# Folder tree
+01 - Analogs
+	01 - Name Production
+	02 - BimObject
+	02 - GrabCad
+01 - Archive		
+01 - Source
+
+02 - End Caps
+02 - Profiles
+02 - Seals
+02 - Connectors
+02 - Metal
+02 - Corners
+	01 - 3D
+	01 - Analogs
+	01 - Archive
+	01 - Source
+	02 - 3D Printing
+	02 - DXF
+	02 - Manufacture Response
+	02 - Manufacture Request
+	02 - Prices
+	03 - Agreed
+	03 - Checking Samples
+	03 - Milling
+
+03 - Strength
+03 - Test
+	01 - 3D
+	01 - Analogs
+	01 - Archive
+	01 - Source
+	02 - Prices
+
+04 - Instruction
+04 - Modules
+04 - Packing
+04 - Prices
+04 - Typical schemes
+	01 - 3D
+	01 - Analogs
+	01 - Archive
+	01 - Source
+	
+05 - Media
+05 - Design
+05 - Renders
