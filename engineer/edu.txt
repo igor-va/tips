@@ -1,0 +1,116 @@
+# Хабы где софт
+Sourceforge
+Github
+G2
+
+# Software изучать
+Fusion
+Inventor
+Vault
+Forge
+Autocad Mechanical
+Autocad Raster Design
+Freecad
+SolidWorks
+Onshape
+3DVIA Composer  # Для создания инструкций по сборке
+
+# Изучаать утилиты и плагины для
+AutoCad
+Fusion
+Inventor
+FreeCad
+
+# Интересные ссылки autodesk
+https://www.autodesk.com/solutions
+
+# По Fusion
+Изучить Event Simulation
+Искать интересные плагины и утилиты
+Искать готовые и открытые библиотеки
+Искать открытые проекты
+Искать интересные проекты с хорошей детализацией
+Изучать скрипты на GitHub
+Welding symbols ISO изучать в модуле Drawing
+
+# Искачать CAD библиотеки
+Какие есть сайты
+Поизучать поставщиков
+Поизучать комплектующие
+
+# Изучать готовые проекты и примеры с разных порталов
+GrabCad
+Autodesk Gallery
+
+# СПДС
+В автокаде изучить модуль СПДС, штампы и прочие элементы
+
+# Нормы и правила
+ЕСКД
+ISO
+EN
+
+# Изучать нормы, госты и правила
+Алюминий
+Уплотнители
+Закаленное стекло
+
+# Изучать методы производства
+Sand casting
+Investment casting
+Injection molding
+CNC machining
+Welding
+Additive manufacturing
+Sheet metal
+Закаленного стекла
+Литье пластика
+Литье металла
+Экструзия
+
+# Искать книги и блоги
+По проектированию металлических деталей
+По проектированию пластиковых деталей
+По проектированию сложных сборок и механизмов
+По проектировнию алюминиевых профилей
+По проектированию уплотнителей
+
+# Изучать оформление инструкций по сборке
+Изучать варианты создания простых инструкций по сборке
+Изучать варианты создания интерактивных инструкций по сборке
+Какой есть специализированный софт
+How to make the assembly instructions
+How to make the assembly instructions CAD
+How to make an interactive assembly instructions
+
+# Читать блоги и сайты
+Cad Software News
+Autodesk
+Fusion
+Inventor
+Forge
+AutoCad
+AutoCad Mechanical
+OpenBom
+Sourceforge
+GitHub
+Hubr
+Redshift
+
+# Изучать готовые проекты на разных языках на GrabCad
+Shower
+Hinge
+Door Closer
+Prosthesis
+Door Hand
+Canopy
+Lego Bionicle
+Puzzle 3d
+
+
+
+
+
+
+
+
