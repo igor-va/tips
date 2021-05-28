@@ -16,6 +16,7 @@
 	02 - GrabCad
 01 - Archive		
 01 - Source
+01 - DXF
 
 # Проектные файлы
 02 - End Cap
@@ -24,7 +25,9 @@
 02 - Metal
 02 - Profile
 02 - Plastic Insert
-02 - Seal	
+02 - Seal
+02 - Fasteners
+02 - Assembly
 	01 - 3D
 	01 - Analogs
 	01 - Archive
@@ -32,6 +35,7 @@
 	01 - Fusion DWG
 	02 - 3D Printing
 	02 - DXF
+	02 - Manufacture
 	02 - Manufacture Response
 	02 - Manufacture Request
 	02 - Prices
