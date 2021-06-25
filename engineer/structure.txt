@@ -1,47 +1,70 @@
 # Сделать структуру папок разработок на английском и на русском - frame
-Просмотривать и выписывать все образующиеся папки из сервера и из фьюжн
+Просмотривать и выписывать все образующиеся папки на сервере и во фьюжн
 Понять как правильно структурировать, должна быть логика
 Добавлять перед названием папки цифру как обозначение категории
 
 # Files in the root folder and subfolder
 - develop.dwg  # Development file
 .pdf  # Various drawings for discussion
-- wiki.txt  # Technical information
+- wiki.txt  # General technical information about the product or part being developed
+- strength.txt  # Technical information on strength calculation
 - weight.xlsx  # Calculation of weight and length
+
+# Названия разрабатываемых деталей на сервере
+Project Name - Detail Name - Date  # Поручень LED - Крышка торцевая - 2021.05.05
+Project Name - Detail Name v# - Date  # Поручень LED - Крышка торцевая v2 - 2021.05.05
+
+# Названия разрабатываемых деталей во фьюжн
+Detail Name  # Крышка торцевая
+Кондуктор опорный - Деталь
+Кондуктор опорный - Сборка
 
 # Исходные данные
 01 - Analogs
 	01 - Name Production
 	02 - BimObject
 	02 - GrabCad
+	02 - McMaster
 01 - Archive		
-01 - Source
+01 - Source (Date)
 01 - DXF
 
 # Проектные файлы
+02 - Name Part
+02 - Parts
+02 - Canopy
 02 - End Cap
 02 - Connector
 02 - Corner
-02 - Metal
-02 - Profile
+02 - Profiles
+02 - Tube
 02 - Plastic Insert
+02 - Plate
 02 - Seal
+02 - Metal
 02 - Fasteners
 02 - Assembly
+02 - Drawings
+02 - Alternative
+02 - Compare
+02 - Tools
 	01 - 3D
 	01 - Analogs
 	01 - Archive
 	01 - Source
 	01 - Fusion DWG
+	02 - 3D Models
 	02 - 3D Printing
 	02 - DXF
-	02 - Manufacture
-	02 - Manufacture Response
+	02 - Manufacture (Name)
 	02 - Manufacture Request
+	02 - Manufacture Response
+	02 - Strength
 	02 - Prices
 	03 - Agreed
 	03 - Checking Samples
 	03 - Milling
+	04 - Library
 
 # Проверка прочности
 03 - Strength
@@ -50,16 +73,23 @@
 	01 - Analogs
 	01 - Archive
 	01 - Source
+	02 - DXF
 	02 - Prices
+	02 - Technical Task
+	02 - Remark
+	03 - Report
 
-# Доп файлы
+# Упаковка и цены
 04 - Packing
 04 - Prices
 
-# Материалы для менеджеров
-05 - Instruction
+# Материалы для менеджеров, покупателей, проектировщиков, монтажников и выставок
 05 - Modules
-05 - Typical schemes
+05 - Typical Schemes
+05 - Manual
+05 - Certification
+05 - Library
+05 - Office
 	01 - 3D
 	01 - Analogs
 	01 - Archive
@@ -71,3 +101,8 @@
 06 - Media
 06 - Design
 06 - Renders
+06 - Presentation
+	01 - Source
+	01 - Working
+	
+

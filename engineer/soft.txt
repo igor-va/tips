@@ -1,0 +1,70 @@
+# Изучать интересный софт на разных хабах и у разных вендоров
+Sourceforge
+Github
+G2
+Autodesk
+Altair
+Dassault Systemes
+Altium
+
+# Software изучать
+Altair
+Freecad
+LibreCad
+SolidWorks
+Onshape
+Unigraphics NX
+Catia
+Ansys
+Nastran
+3DVIA Composer  # Для создания инструкций по сборке
+Altium
+Mathcad
+Matlab
+Python
+
+# Изучать скрипты, утилиты и плагины
+AutoCad
+Fusion
+Inventor
+FreeCad
+
+# Искать и изучать софт
+Инженерия
+Проектирование алюминиевых профилей
+Оформление инструкций по сборке
+Создание кинематических схем
+Оптимизация форм
+Порождающее проектирование
+Прочностной расчет
+
+# Искать софт по инженерии
+Useful software for an engineer
+Software for Mechanical Engineers
+Most Important Software for Mechanical Engineers
+
+# Искать софт и рекомендации по оформлению инструкций по сборке
+Программы для создания инструкций по сборке
+Software for creating assembly instructions
+Free software for creating assembly instructions
+Изучать варианты создания простых инструкций по сборке
+Изучать варианты создания интерактивных инструкций по сборке
+Какой есть специализированный софт
+How to make the assembly instructions
+How to make the assembly instructions CAD
+How to make an interactive assembly instructions
+
+# Искать софт по кинематике
+Kinematics Software
+Software for creating kinematics
+Программы для кинематики
+Программы по созданию кинематики
+Программное обеспечение для кинематики
+Программное обеспечение для создания кинематики
+
+# Софт по кинематике
+MechDesigner
+	https://psmotion.com/
+Asom
+	https://asom.eu/en/
+

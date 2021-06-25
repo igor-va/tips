@@ -1,10 +1,19 @@
-# Названия и оформление блоков
+# Названия и оформление блоков петель, замков
 Colcom_835E10NL_Top
 Colcom
 Colcom_Axis
 Assa_SW200_Top_Open
 Assa_SW200_Top_Close
 
+# Названия и оформление блоков метизов
+DIN 7981 M2.9 6.5mm - Top
+DIN 7981 M2.9 6.5mm - Front
+DIN 7981 M2.9x1mm 6.5mm - Top
+DIN 7981 M2.9x1mm 6.5mm - Front
+Слои:
+	Метизы
+	Screws
+	
 # Проектирование деталей названия
 Добавлять описание
 
@@ -96,3 +105,11 @@ Detail GTS-850. Length 600mm
 Detail Central №1. Length 200mm
 Detail Right №1. Length 200mm
 Detail Left №1. Length 200mm
+
+# Имена параметризации
+TD  # Диаметр трубы
+	  T - труба
+	  D - диаметр
+TTT  # Толщина трубы
+	   TT - труба
+	   T - толщина
