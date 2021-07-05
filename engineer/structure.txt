@@ -13,6 +13,7 @@
 # Названия разрабатываемых деталей на сервере
 Project Name - Detail Name - Date  # Поручень LED - Крышка торцевая - 2021.05.05
 Project Name - Detail Name v# - Date  # Поручень LED - Крышка торцевая v2 - 2021.05.05
+Project Name - Var №#- Detail Name v# - Date  # Поручень LED - Вар №9.2.2 - Крышка торцевая v2 - 2021.05.05
 
 # Названия разрабатываемых деталей во фьюжн
 Detail Name  # Крышка торцевая
@@ -30,7 +31,7 @@ Detail Name  # Крышка торцевая
 01 - DXF
 
 # Проектные файлы
-02 - Name Part
+02 - Part Name
 02 - Parts
 02 - Canopy
 02 - End Cap
@@ -64,9 +65,11 @@ Detail Name  # Крышка торцевая
 	03 - Agreed
 	03 - Checking Samples
 	03 - Milling
+	03 - Video Assembly
 	04 - Library
 
-# Проверка прочности
+# Проверка прочности, кинематика
+03 - Kinematics
 03 - Strength
 03 - Test
 	01 - 3D

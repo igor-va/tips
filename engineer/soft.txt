@@ -1,70 +1,141 @@
-# Изучать интересный софт на разных хабах и у разных вендоров
-Sourceforge
-Github
-G2
-Autodesk
-Altair
-Dassault Systemes
-Altium
+Изучать интересный софт на разных хабах и у разных вендоров
+    Google
+    Sourceforge
+    Github
+    G2
+    Autodesk
+    Altair
+    Dassault Systemes
+    Altium
+    Ansys
 
-# Software изучать
-Altair
-Freecad
-LibreCad
-SolidWorks
-Onshape
-Unigraphics NX
-Catia
-Ansys
-Nastran
-3DVIA Composer  # Для создания инструкций по сборке
-Altium
-Mathcad
-Matlab
-Python
+Software изучать
+    Altair
+    Freecad
+    LibreCad
+    SolidWorks
+    Onshape
+    Unigraphics NX
+    Catia
+    Ansys
+    Nastran
+    3DVIA Composer  # Для создания инструкций по сборке
+    Altium
+    Mathcad
+    Matlab
+    Python
+    Blender
+    Maya
 
-# Изучать скрипты, утилиты и плагины
-AutoCad
-Fusion
-Inventor
-FreeCad
+Изучать скрипты, утилиты и плагины
+    AutoCad
+    Fusion
+    Inventor
+    FreeCad
 
-# Искать и изучать софт
+Искать и изучать софт
+    Инженерия
+    Проектирование алюминиевых профилей
+    Оформление инструкций по сборке
+    Создание кинематических схем
+    Оптимизация форм
+    Порождающее проектирование
+    Прочностной расчет
+    Simulation
+
 Инженерия
-Проектирование алюминиевых профилей
+
+	Искать
+		Useful software for an engineer
+		Software for Mechanical Engineers
+		Most Important Software for Mechanical Engineers
+		Software for simulation engineer
+
 Оформление инструкций по сборке
-Создание кинематических схем
-Оптимизация форм
-Порождающее проектирование
-Прочностной расчет
 
-# Искать софт по инженерии
-Useful software for an engineer
-Software for Mechanical Engineers
-Most Important Software for Mechanical Engineers
+	Искать
+		Программы для создания инструкций по сборке
+		Software for creating assembly instructions
+		Free software for creating assembly instructions
+		Изучать варианты создания простых инструкций по сборке
+		Изучать варианты создания интерактивных инструкций по сборке
+		Какой есть специализированный софт
+		How to make the assembly instructions
+		How to make the assembly instructions CAD
+		How to make an interactive assembly instructions
 
-# Искать софт и рекомендации по оформлению инструкций по сборке
-Программы для создания инструкций по сборке
-Software for creating assembly instructions
-Free software for creating assembly instructions
-Изучать варианты создания простых инструкций по сборке
-Изучать варианты создания интерактивных инструкций по сборке
-Какой есть специализированный софт
-How to make the assembly instructions
-How to make the assembly instructions CAD
-How to make an interactive assembly instructions
+Кинематика, движение, динамика
 
-# Искать софт по кинематике
-Kinematics Software
-Software for creating kinematics
-Программы для кинематики
-Программы по созданию кинематики
-Программное обеспечение для кинематики
-Программное обеспечение для создания кинематики
+	Искать
+		Kinematics software
+		Free kinematics software
+		List kinematics software
+		Software for creating kinematics
+		Best software for creating kinematics
+		Best free software for creating kinematics
+		Kinematics analysis software
+		Motion analysis software
+		Motion analysis software free
+		Motion analysis mechanism software
+		Программы для кинематики
+		Программы по созданию кинематики
+		Бесплатные программы для кинематики
+		Программное обеспечение для кинематики
+		Программное обеспечение для создания кинематики
+		Dynamics software
+		Free dynamics software
+		Best dynamics software
+		Best free dynamics software
 
-# Софт по кинематике
-MechDesigner
-	https://psmotion.com/
-Asom
-	https://asom.eu/en/
+	Фичи
+		Эскиз и ограничения
+		Прорисовка пути двжиения точки
+		Построение графика
+		Анимация
 
+	Софт
+		MechDesigner  # Paid
+			https://psmotion.com/
+		Asom  # Paid
+			https://asom.eu/en/
+		Artas  # Paid
+			https://www.artas.nl/en/
+		Nolte-NC-Kurventechnik  #Paid
+			https://nolte-nc-kurventechnik.homepage.t-online.de/en/
+		Lotus  # Paid
+			https://www.lotusengineering.com/engineering-software/
+		FreeDyn	 # Free
+			http://www.freedyn.at/
+		MBDyn  # Free	
+			https://www.mbdyn.org/
+		Kinematics Open Source Projects  # Free
+			https://awesomeopensource.com/projects/kinematics
+		Pyslvs  # Free
+			https://www.linux.org.ru/news/opensource/13989412
+
+Simulation, physics
+
+	Искать
+		Software simulation
+		Software simulation list
+		Software simulation kinematics
+		Software simulation dynamics
+		Software physics simulation
+		Software physics engine
+		Software physics engine for engineer
+		Software best physics engine
+		Software physics simulation
+
+	Софт
+		https://en.wikipedia.org/wiki/List_of_computer_simulation_software
+			https://en.wikipedia.org/wiki/Algodoo
+			https://en.wikipedia.org/wiki/Project_Chrono
+		https://en.wikipedia.org/wiki/List_of_finite_element_software_packages
+
+Games
+
+	Искать
+		Engineering games
+		Free engineering games
+		Игры для инженера
+    
