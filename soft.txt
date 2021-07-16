@@ -1,44 +1,55 @@
-# Windows
-Включить точки восстановления
-Google
-FireFox
-Tor
-Fusion
-AutoCad
-Maya
-Inventor
-FreeCad
-Gimp
-Pycharm
-Notepad++
-GitBash
-Avast
-GitHub Desktop
-Foxit Reader
-Unreal Commander
-Q-Translate
-Python
-Advanced SystemCare
-Aida
-Calibre E-book
-Libre Office
-VLC Media Player
+Windows
+	Точки восстановления
+	Браузеры
+		Google 
+		FireFox
+		Tor
+	Инженерное
+		Fusion
+		AutoCad
+		Maya
+		Inventor
+		FreeCad
+		LibreCAD
+		Gimp
+		Blender
+	Программирование
+		Pycharm 2019.3.3  # Для Fusion API
+			https://www.jetbrains.com/pycharm/download/other.html
+		Notepad++
+		Python
+		GitBash
+		GitHub Desktop
+		GitKraken
+	Офисные пакеты и утилиты
+		Foxit Reader
+		Unreal Commander
+		Q-Translate
+		Calibre E-book
+		Libre Office
+		VLC Media Player
+		NumLock Calculator
+	Защита данных
+		Avast
+	ОС
+		Advanced SystemCare
+		Aida
 
 
-# Ubuntu
-Включить точки восстановления
-Google
-FireFox
-Tor
-FreeCad
-Gimp
-Pycharm
-Notepad++
-Foxit Reader
-Unreal Commander (Double Commander)
-Q-Translate
-Calibre E-book
-Libre Office
-VLC Media Player
-Translatium
-Shutter
+Ubuntu
+	Включить точки восстановления
+	Google
+	FireFox
+	Tor
+	FreeCad
+	Gimp
+	Pycharm
+	Notepad++
+	Foxit Reader
+	Unreal Commander (Double Commander)
+	Q-Translate
+	Calibre E-book
+	Libre Office
+	VLC Media Player
+	Translatium
+	Shutter

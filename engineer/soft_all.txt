@@ -33,15 +33,20 @@ Software изучать
     Inventor
     FreeCad
 
-Искать и изучать софт
-    Инженерия
-    Проектирование алюминиевых профилей
-    Оформление инструкций по сборке
-    Создание кинематических схем
-    Оптимизация форм
-    Порождающее проектирование
-    Прочностной расчет
-    Simulation
+Софт
+
+	Искать
+		Инженерия
+		Проектирование алюминиевых профилей
+		Оформление инструкций по сборке
+		Создание кинематических схем
+		Создание динамичекских сцен
+		Оптимизация формы
+		Порождающее проектирование
+		Прочностной расчет
+		Simulation
+		Электроника
+		Электромеханика
 
 Инженерия
 
@@ -53,17 +58,57 @@ Software изучать
 
 Оформление инструкций по сборке
 
-	Искать
-		Программы для создания инструкций по сборке
+	Искать		
 		Software for creating assembly instructions
-		Free software for creating assembly instructions
-		Изучать варианты создания простых инструкций по сборке
-		Изучать варианты создания интерактивных инструкций по сборке
-		Какой есть специализированный софт
+		Free software for creating assembly instructions	
 		How to make the assembly instructions
 		How to make the assembly instructions CAD
 		How to make an interactive assembly instructions
+		Software for manual instructions
+		Free software for manual instructions
+		Software for manual instructions CAD	
+		Software To Make A User Manual Assembly Instructions
+		Программы для создания инструкций по сборке
+		Cоздание инструкций по сборке
+		Создание интерактивных инструкций по сборке
+		Оформление инструкций по сборке
+		Правила и нормы по оформлению инструкций по сборке
+		
+	Фичи
+		Сохранение кадров
+		Стнадратные элементы (стрелки, знаки и т.д.)
+		Импорт разных форматов
+		
+	Ссылки
+		Советы по оформлению инструкций
+			https://instrktiv.com/en/ikea-manual/
+			https://instrktiv.com/en/user-manual-template/
+			https://www.techsmith.com/blog/user-documentation/
+			https://www.cadcrowd.com/blog/how-to-design-effective-assembly-drawings-for-consumer-products-and-manufacturing-companies/
+			https://www.model-r.ru/vypolnenie-chertezhey/tehnicheskaya-illyustratsiya#chertegnii_vid
+			https://sapr.ru/article/25993
+			https://www.qgc.ru/blog/razrabotka-instruktsiy-po-montazhu-i-ekspluatatsii-na-oborudovanie-i-tekhnicheskie-ustroystva/
+		Обзоры софта
+			https://develop3d.com/cad/guide-technical-publications-software/
 
+	Софт
+		SOLIDWORKS Composer  # Раньше 3DVIA Composer
+			https://www.solidworks.com/product/solidworks-composer
+		3D BUILDING
+			https://buildin3d.com/
+		RAPIDWORKINSTRUCTION
+			https://www.cortona3d.com/en/products/authoring-publishing-solutions/rapidauthor/rapidworkinstruction
+		Cadasio
+			https://www.cadasio.com/
+		Publisher3D
+			http://quadrispace.com/
+		Canvas GFX
+			https://www.canvasgfx.com/
+		CADshare
+			https://cadshare.com/
+		POWERGUIDE
+			https://3dpowerguide.com/rus/
+			
 Кинематика, движение, динамика
 
 	Искать
@@ -126,7 +171,7 @@ Simulation, physics
 		Software best physics engine
 		Software physics simulation
 
-	Софт
+	Ссылки
 		https://en.wikipedia.org/wiki/List_of_computer_simulation_software
 			https://en.wikipedia.org/wiki/Algodoo
 			https://en.wikipedia.org/wiki/Project_Chrono
