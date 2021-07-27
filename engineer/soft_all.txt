@@ -1,186 +1,23 @@
-Изучать интересный софт на разных хабах и у разных вендоров
-    Google
-    Sourceforge
-    Github
-    G2
-    Autodesk
-    Altair
-    Dassault Systemes
-    Altium
-    Ansys
+Ссылки
+	https://github.com/
+	https://sourceforge.net/
+	https://www.g2.com/
 
-Software изучать
-    Altair
-    Freecad
-    LibreCad
-    SolidWorks
-    Onshape
-    Unigraphics NX
-    Catia
-    Ansys
-    Nastran
-    3DVIA Composer  # Для создания инструкций по сборке
-    Altium
-    Mathcad
-    Matlab
-    Python
-    Blender
-    Maya
 
-Изучать скрипты, утилиты и плагины
-    AutoCad
-    Fusion
-    Inventor
-    FreeCad
-
-Софт
-
-	Искать
-		Инженерия
-		Проектирование алюминиевых профилей
-		Оформление инструкций по сборке
-		Создание кинематических схем
-		Создание динамичекских сцен
-		Оптимизация формы
-		Порождающее проектирование
-		Прочностной расчет
-		Simulation
-		Электроника
-		Электромеханика
-
-Инженерия
-
-	Искать
-		Useful software for an engineer
-		Software for Mechanical Engineers
-		Most Important Software for Mechanical Engineers
-		Software for simulation engineer
-
-Оформление инструкций по сборке
-
-	Искать		
-		Software for creating assembly instructions
-		Free software for creating assembly instructions	
-		How to make the assembly instructions
-		How to make the assembly instructions CAD
-		How to make an interactive assembly instructions
-		Software for manual instructions
-		Free software for manual instructions
-		Software for manual instructions CAD	
-		Software To Make A User Manual Assembly Instructions
-		Программы для создания инструкций по сборке
-		Cоздание инструкций по сборке
-		Создание интерактивных инструкций по сборке
-		Оформление инструкций по сборке
-		Правила и нормы по оформлению инструкций по сборке
-		
-	Фичи
-		Сохранение кадров
-		Стнадратные элементы (стрелки, знаки и т.д.)
-		Импорт разных форматов
-		
-	Ссылки
-		Советы по оформлению инструкций
-			https://instrktiv.com/en/ikea-manual/
-			https://instrktiv.com/en/user-manual-template/
-			https://www.techsmith.com/blog/user-documentation/
-			https://www.cadcrowd.com/blog/how-to-design-effective-assembly-drawings-for-consumer-products-and-manufacturing-companies/
-			https://www.model-r.ru/vypolnenie-chertezhey/tehnicheskaya-illyustratsiya#chertegnii_vid
-			https://sapr.ru/article/25993
-			https://www.qgc.ru/blog/razrabotka-instruktsiy-po-montazhu-i-ekspluatatsii-na-oborudovanie-i-tekhnicheskie-ustroystva/
-		Обзоры софта
-			https://develop3d.com/cad/guide-technical-publications-software/
-
-	Софт
-		SOLIDWORKS Composer  # Раньше 3DVIA Composer
-			https://www.solidworks.com/product/solidworks-composer
-		3D BUILDING
-			https://buildin3d.com/
-		RAPIDWORKINSTRUCTION
-			https://www.cortona3d.com/en/products/authoring-publishing-solutions/rapidauthor/rapidworkinstruction
-		Cadasio
-			https://www.cadasio.com/
-		Publisher3D
-			http://quadrispace.com/
-		Canvas GFX
-			https://www.canvasgfx.com/
-		CADshare
-			https://cadshare.com/
-		POWERGUIDE
-			https://3dpowerguide.com/rus/
-			
-Кинематика, движение, динамика
-
-	Искать
-		Kinematics software
-		Free kinematics software
-		List kinematics software
-		Software for creating kinematics
-		Best software for creating kinematics
-		Best free software for creating kinematics
-		Kinematics analysis software
-		Motion analysis software
-		Motion analysis software free
-		Motion analysis mechanism software
-		Программы для кинематики
-		Программы по созданию кинематики
-		Бесплатные программы для кинематики
-		Программное обеспечение для кинематики
-		Программное обеспечение для создания кинематики
-		Dynamics software
-		Free dynamics software
-		Best dynamics software
-		Best free dynamics software
-
-	Фичи
-		Эскиз и ограничения
-		Прорисовка пути двжиения точки
-		Построение графика
-		Анимация
-
-	Софт
-		MechDesigner  # Paid
-			https://psmotion.com/
-		Asom  # Paid
-			https://asom.eu/en/
-		Artas  # Paid
-			https://www.artas.nl/en/
-		Nolte-NC-Kurventechnik  #Paid
-			https://nolte-nc-kurventechnik.homepage.t-online.de/en/
-		Lotus  # Paid
-			https://www.lotusengineering.com/engineering-software/
-		FreeDyn	 # Free
-			http://www.freedyn.at/
-		MBDyn  # Free	
-			https://www.mbdyn.org/
-		Kinematics Open Source Projects  # Free
-			https://awesomeopensource.com/projects/kinematics
-		Pyslvs  # Free
-			https://www.linux.org.ru/news/opensource/13989412
-
-Simulation, physics
-
-	Искать
-		Software simulation
-		Software simulation list
-		Software simulation kinematics
-		Software simulation dynamics
-		Software physics simulation
-		Software physics engine
-		Software physics engine for engineer
-		Software best physics engine
-		Software physics simulation
-
-	Ссылки
-		https://en.wikipedia.org/wiki/List_of_computer_simulation_software
-			https://en.wikipedia.org/wiki/Algodoo
-			https://en.wikipedia.org/wiki/Project_Chrono
-		https://en.wikipedia.org/wiki/List_of_finite_element_software_packages
-
-Games
-
-	Искать
-		Engineering games
-		Free engineering games
-		Игры для инженера
-    
+Freecad
+	https://www.freecadweb.org/
+	https://wiki.freecadweb.org/Main_Page
+	https://forum.freecadweb.org/
+	https://tracker.freecadweb.org/
+	
+	
+PyCharm
+	https://www.jetbrains.com/pycharm/download/#section=windows
+	https://www.jetbrains.com/pycharm/download/other.html
+	
+	
+Web утилиты
+	https://www.stroyteh.ru/converter/
+	http://steklodoka.ru/ves.html
+	https://cadsofttools.ru/pdf-to-dwg-online/
+	https://tools.pdf24.org/ru/

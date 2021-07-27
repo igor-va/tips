@@ -1,47 +1,79 @@
-# Полезные ссылки
-https://www.autodesk.com/solutions
-https://knowledge.autodesk.com/
-
-
-# CAD blocks
-https://www.cadforum.cz/en/
-https://cad-blocks.net/
-http://www.fastrackcad.com/
-https://www.caddetails.com/
-
-
-# Autocad изучать
-Блоки и динамические блоки
-	https://www.autodesk.com/solutions/cad-blocks
-	https://knowledge.autodesk.com/support/autocad/getting-started/caas/CloudHelp/cloudhelp/2020/ENU/AutoCAD-Core/files/GUID-3C2FB982-3AF6-437B-987F-4EDF81EA0662-htm.html
-	https://knowledge.autodesk.com/support/autocad/learn-explore/caas/CloudHelp/cloudhelp/2018/ENU/AutoCAD-DidYouKnow/files/GUID-647F2E5B-C5EF-44BE-8202-4CDC915BD01C-htm.html?st=cad%20block
-	https://www.autodesk.com/autodesk-university/class/Most-Dynamic-Class-Block-Creating-Dynamic-Blocks-AutoCAD-2015#video
-	https://knowledge.autodesk.com/support/autocad/getting-started/caas/simplecontent/content/best-practices-for-setting-and-utilizing-dynamic-blocks.html
+Ссылки
+	https://manage.autodesk.com/home
+	https://health.autodesk.com/
+	https://www.autodesk.com/solutions
+	https://www.autodesk.com/research/overview
+	https://viewer.autodesk.com/designviews
+	https://knowledge.autodesk.com/
+	https://forums.autodesk.com/
+	https://academy.autodesk.com/
+	https://adsknews.autodesk.com/
+	https://redshift.autodesk.com/
 	
 
-# Fusion изучать
-Изучить Event Simulation
-Искать интересные плагины и утилиты
-Искать готовые и открытые библиотеки
-Искать открытые проекты
-Искать интересные проекты с хорошей детализацией
-Изучать скрипты на GitHub
-Welding symbols ISO изучать в модуле Drawing
+Autodesk University
+
+	Ссылки
+		https://www.autodesk.com/autodesk-university/
 
 
-# Inventor изучать
+Autocad 
+
+	Изучать
+		Блоки и динамические блоки
+			https://www.autodesk.com/solutions/cad-blocks
+			https://knowledge.autodesk.com/support/autocad/getting-started/caas/CloudHelp/cloudhelp/2020/ENU/AutoCAD-Core/files/GUID-3C2FB982-3AF6-437B-987F-4EDF81EA0662-htm.html
+			https://knowledge.autodesk.com/support/autocad/learn-explore/caas/CloudHelp/cloudhelp/2018/ENU/AutoCAD-DidYouKnow/files/GUID-647F2E5B-C5EF-44BE-8202-4CDC915BD01C-htm.html?st=cad%20block
+			https://www.autodesk.com/autodesk-university/class/Most-Dynamic-Class-Block-Creating-Dynamic-Blocks-AutoCAD-2015#video
+			https://knowledge.autodesk.com/support/autocad/getting-started/caas/simplecontent/content/best-practices-for-setting-and-utilizing-dynamic-blocks.html
+	
+	Заметки по улучшению работы
+		Собирать библиотеки блоков
 
 
-# Vault изучать
+Fusion 
+
+	Изучать
+		Изучить Event Simulation
+		Искать интересные плагины и утилиты
+		Искать готовые и открытые библиотеки
+		Искать открытые проекты
+		Искать интересные проекты с хорошей детализацией
+		Изучать скрипты на GitHub
+		Welding symbols ISO изучать в модуле Drawing
+		
+	Ссылки
+		https://www.autodesk.com/products/fusion-360/overview
+		https://www.autodesk.com/products/fusion-360/blog/
+		https://forums.autodesk.com/t5/fusion-360/ct-p/1234
+		https://help.autodesk.com/view/fusion360/ENU/
+		https://commandmap.autodesk.com/v1/
+		https://ekinssolutions.com/
+		https://github.com/AutodeskAILab/Fusion360GalleryDataset
 
 
-# Forge изучать
+Inventor 
+
+	Изучать
+	
+	Ссылки
+		https://blogs.autodesk.com/inventor/
+		https://linktr.ee/adskinventor
 
 
-# Autocad Mechanical изучать
+Revit
 
 
-# Autocad Raster Design изучать 
+Vault 
 
 
-# Eagle изучать
+Forge 
+
+
+Autocad Mechanical 
+
+
+Autocad Raster Design  
+
+
+Eagle 

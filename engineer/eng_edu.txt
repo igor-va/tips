@@ -45,15 +45,24 @@
 		Управление временем
 		Любознательность и самообразование
 	
-Навыки для инженера
 
-	Искать
+Инженерное
+
+	Навыки
 		Skills Required of a Mechanical Engineer
+		Навыки для инженера-конструктора
+		Навыки для инженера-механика
 		
-Ссылки на полезные сайты по инженерии, разработке и расчетам
-	https://mechanicalc.com/
-	http://matweb.com/
-	https://formlab.ru/
+	Инструменты
+		Useful Gadgets for Mechanical Engineers
+		Tools for the design engineer
+		Инструменты для инженера-конструктора
+		Инструменты для инженера-механика
+		Полезные инструменты для инженера-механика
+		
+	Софт
+		см. файлы soft_all, soft_autodesk
+
 
 Форумы
 
@@ -68,16 +77,84 @@
 		
 	Ссылки
 		https://cccp3d.ru/
+
 		
-Блоги
+Блоги, сайты, новости
 
 	Искать
 		CAD blog
 		CAE blog
 		Simulation engineers blog
-	
-Сопромат
-
+		CAD news
+		CAE news
+		
 	Ссылки
-		https://studwood.ru/1676782/matematika_himiya_fizika/diagrammy_rastyazheniya_szhatiya
+		https://formlab.ru/
+		https://mechanicalc.com/
+		http://matweb.com/
+		http://isicad.ru/ru/
+		https://www.engineering.com/home
+		https://www.pointcad.ru/
+		https://interestingengineering.com/
+
+
+Книги
+
+	Потребительская техника
+		Искать
+			Книги по проектированию потребительских товаров и устройств
+			Books on the design of consumer goods and devices
+			
+		Ссылки
 	
+	Металлические детали
+		Искать
+			Книги по проектированию металлических деталей
+			Лучшие книги по проектированию металлических деталей
+			Книги по разработке металлических деталей
+			Лучшие книги по разработке металлических деталей			
+			Детали машин книги
+			Детали машин лучшие книги
+			Проектированию сложных сборок и механизмов книги
+			
+		Ссылки
+		
+	Уплотнители
+		Искать
+			Книги по проектированию уплотнителей
+			Книги по проектированию уплотнительных профилей
+			
+		Ссылки
+		
+	Пластиковые детали
+
+	
+Теория
+
+	Сопромат
+		https://studwood.ru/1676782/matematika_himiya_fizika/diagrammy_rastyazheniya_szhatiya				
+
+
+CAD библиотеки
+
+	Изучение
+		Какие есть сайты
+		Изучать поставщиков
+		Изучать комплектующие
+		
+	Искать
+		CAD библиотеки
+		CAD library
+		CAD Blocks
+		
+	Ссылки
+		https://grabcad.com/
+		https://www.mcmaster.com/
+		https://www.cadforum.cz/en/
+		https://cad-blocks.net/
+		http://www.fastrackcad.com/
+		https://www.caddetails.com/
+		https://www.bimobject.com/en/
+		https://b2b.partcommunity.com/community/
+		https://www.traceparts.com/en
+		https://www.caddetails.com/

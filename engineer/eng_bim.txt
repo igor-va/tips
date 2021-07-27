@@ -1,6 +1,7 @@
 # Названия и оформление блоков петель, замков
 Colcom_835E10NL_Top
 Colcom 835E10NL Top
+Colcom 835E10NL Top 10mm
 Colcom
 Colcom_Axis
 Assa_SW200_Top_Open

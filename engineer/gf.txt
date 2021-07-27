@@ -1,7 +1,31 @@
-# Читать новости и блоги на сайтах поставщиков и конкурентов
-Sadev
-Q-Railing
-Dorma
-Titan
-Colcom
-Saheco
+Поставщики
+
+	Новости, блоги и новинки на офиуциальных сайтах
+		GCC
+		Sadev
+		Q-Railing
+		Dorma
+		Titan
+		Colcom
+		Saheco
+		Fapim
+		KinLong
+		Metalglas
+		Остальные поставщики
+		
+	Каталоги, брошюры, листовки, презентации
+		Colcom
+	
+
+Продукция
+
+	Изучать готовые проекты на разных языках на GrabCad
+		Aluminum profile
+		Shower
+		Hinge
+		Lock
+		Door closer
+		Door hand
+		Canopy
+		Carriage roller
+			
