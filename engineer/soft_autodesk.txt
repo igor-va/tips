@@ -2,6 +2,7 @@
 	https://manage.autodesk.com/home
 	https://health.autodesk.com/
 	https://www.autodesk.com/solutions
+	https://www.autodesk.com/industry
 	https://www.autodesk.com/research/overview
 	https://viewer.autodesk.com/designviews
 	https://knowledge.autodesk.com/

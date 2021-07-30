@@ -102,6 +102,7 @@ Files in the root folder and subfolder
 	05 - Packing
 	
 Материалы для менеджеров, покупателей, проектировщиков, монтажников и выставок
+	06 - Чемодан
 	06 - Modules
 	06 - Office
 	06 - Manual

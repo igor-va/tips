@@ -1,117 +1,142 @@
-# Названия и оформление блоков петель, замков
-Colcom_835E10NL_Top
-Colcom 835E10NL Top
-Colcom 835E10NL Top 10mm
-Colcom
-Colcom_Axis
-Assa_SW200_Top_Open
-Assa_SW200_Top_Close
+Названия и оформление блоков петель, замков
+	Colcom_835E10NL_Top
+	Colcom 835E10NL Top
+	Colcom 835E10NL Top 10mm
+	Colcom
+	Colcom_Axis
+	Assa_SW200_Top_Open
+	Assa_SW200_Top_Close
 
-# Названия и оформление блоков метизов
-DIN 7981 M2.9 6.5mm - Top
-DIN 7981 M2.9 6.5mm - Front
-DIN 7981 M2.9x1mm 6.5mm - Top
-DIN 7981 M2.9x1mm 6.5mm - Front
-Слои:
-	Метизы
-	Screws
+
+Названия и оформление блоков метизов
+	DIN 7981 M2.9 6.5mm - Top
+	DIN 7981 M2.9 6.5mm - Front
+	DIN 7981 M2.9x1mm 6.5mm - Top
+	DIN 7981 M2.9x1mm 6.5mm - Front
+	Слои:
+		Метизы
+		Screws
+
+
+Проектирование деталей названия
+	Добавлять описание
+
+
+Обозначения
+	BIM - простая сборка только с телами (для спецификаций)
+	Detail - детальная сборка с подсборками (для детализаций)
+
+
+Рекомендации для построения BIM версии
+	В компоненте одно тело  # Удобно при вырезе стекла
+	Делать острые края и углы  # Удобно при захвате
+
+
+Перегородки GCC
 	
-# Проектирование деталей названия
-Добавлять описание
+	Названия версий для перегородок GCC
+		Масюкова_2021.07.28_SWS-DR_6_5410x3435
+		
+	Рекомендации по замерам проема
+		Горизонтальный замер по верху, середине и низу
+		Вертикальный замер по краям и по центру
 
-# Обозначения
-BIM - простая сборка только с телами (для спецификаций)
-Detail - детальная сборка с подсборками (для детализаций)
 
-# Рекомендации для построения BIM версии
-В компоненте одно тело  # Удобно при вырезе стекла
-Делать острые края и углы  # Удобно при захвате
+Названия версий для деталей и сборок
+	BIM №1
+	BIM 6mm №1
+	BIM 8mm №1
+	BIM 10mm №1
+	BIM 12mm №1
+	BIM №2
+	BIM 8mm №2
+	BIM 10mm №2
+	BIM 12mm №2
+	Sim №1
+	Detail №1
+	Assembly №1
+	Template №1
 
-# Для деталей и сборок
-BIM №1
-BIM 6mm №1
-BIM 8mm №1
-BIM 10mm №1
-BIM 12mm №1
-BIM №2
-BIM 8mm №2
-BIM 10mm №2
-BIM 12mm №2
-Sim №1
-Detail №1
-Assembly №1
-Template №1
 
-# Для профилей
-BIM №1. Length 100mm
-Detail №1. Length 100mm
-Mud №1. Length 100mm
+Названия версий для профилей
+	BIM №1. Length 100mm
+	Detail №1. Length 100mm
+	Mud №1. Length 100mm
 
-# Названия габаритов панелей перегородок с уточнениями
-Panel 900x2300
-Panel 900x2300. Axis 110mm
-Panel 900x2300. Axis 110mm. Hinge 5A00
 
-# DGF-79
-BIM №1. Length 100mm
-BIM №2. Length 100mm
-Detail 9123 + DFB-102S. Length 800mm
-Detail 9123 + DRL-5025B. Length 800mm
-Detail 9150 + DRL-5025B. Length 800mm
-Detail 9150 + DFB-102S. Length 800mm
-Detail DFB-102S. Length 800mm
-Detail DFB-102S + DFB-102S. Length 800mm
-Detail DRL-5025B. Length 800mm
-Detail SD-27MH Right. Length 800mm
-Detail SD-27MH Left. Length 800mm
+Названия габаритов панелей перегородок с уточнениями
+	Panel 900x2300
+	Panel 900x2300. Axis 110mm
+	Panel 900x2300. Axis 110mm. Hinge 5A00
 
-# DGF-34
-BIM №1. Length 100mm
-BIM №2. Length 100mm
-Detail. Length 2000mm
-Detail DAH-45. Length 2000mm
-Detail DAH-100. Length 2000mm
-Detail DKB-4025S. Length 2000mm
 
-# DGF-8
-BIM №1. Length 100mm
-BIM №2. Length 100mm
-Detail Side. Length 2000mm
-Detail Center. Length 2000mm
-Detail Hinge. Length 79mm
+DGF-79
+	BIM №1. Length 100mm
+	BIM №2. Length 100mm
+	Detail 9123 + DFB-102S. Length 800mm
+	Detail 9123 + DRL-5025B. Length 800mm
+	Detail 9150 + DRL-5025B. Length 800mm
+	Detail 9150 + DFB-102S. Length 800mm
+	Detail DFB-102S. Length 800mm
+	Detail DFB-102S + DFB-102S. Length 800mm
+	Detail DRL-5025B. Length 800mm
+	Detail SD-27MH Right. Length 800mm
+	Detail SD-27MH Left. Length 800mm
 
-# DR-102
-BIM №1. Length 100mm
-BIM №2. Length 100mm
-Detail DRL-5025B + 9123 for SWS-DR. Length 500mm
-Detail DRL-5025B for SFW-DR. Length 500mm
-Detail 9150 + DFB-102S №2 for SFW-DR_A. Length 500mm
-Detail 9150 + DFB-102S №2 for SFW-DR_B. Length 500mm
-Detail DFB-102S for SFW-DR. Length 500mm
-Detail DFB-102S for SWS-DR. Length 500mm
-Detail DFB-102ST for SWS-DR. Length 500mm
-Detail DFB-102S + DFB-102ST for SWS-DR. Length 500mm
-Detail SD-30MH for SFW-DR. Length 500mm
 
-# DR-78
-BIM №1. Length 100mm
-BIM №2. Length 100mm
-Detail GTS-850. Length 500mm
+DGF-34
+	BIM №1. Length 100mm
+	BIM №2. Length 100mm
+	Detail. Length 2000mm
+	Detail DAH-45. Length 2000mm
+	Detail DAH-100. Length 2000mm
+	Detail DKB-4025S. Length 2000mm
 
-# DR-850
-BIM №1. Length 100mm
-BIM №2. Length 100mm
-Detail GTS-850. Length 600mm
 
-# GF7115000
-Detail Central №1. Length 200mm
-Detail Right №1. Length 200mm
-Detail Left №1. Length 200mm
+DGF-8
+	BIM №1. Length 100mm
+	BIM №2. Length 100mm
+	Detail Side. Length 2000mm
+	Detail Center. Length 2000mm
+	Detail Hinge. Length 79mm
 
-# Имена параметризации
-TD  # Диаметр трубы
-	  T - труба
-	  D - диаметр
-TTT  # Толщина трубы
-	   TT - труба
-	   T - толщина
+
+DR-102
+	BIM №1. Length 100mm
+	BIM №2. Length 100mm
+	Detail DRL-5025B + 9123 for SWS-DR. Length 500mm
+	Detail DRL-5025B for SFW-DR. Length 500mm
+	Detail 9150 + DFB-102S №2 for SFW-DR_A. Length 500mm
+	Detail 9150 + DFB-102S №2 for SFW-DR_B. Length 500mm
+	Detail DFB-102S for SFW-DR. Length 500mm
+	Detail DFB-102S for SWS-DR. Length 500mm
+	Detail DFB-102ST for SWS-DR. Length 500mm
+	Detail DFB-102S + DFB-102ST for SWS-DR. Length 500mm
+	Detail SD-30MH for SFW-DR. Length 500mm
+
+
+DR-78
+	BIM №1. Length 100mm
+	BIM №2. Length 100mm
+	Detail GTS-850. Length 500mm
+
+
+DR-850
+	BIM №1. Length 100mm
+	BIM №2. Length 100mm
+	Detail GTS-850. Length 600mm
+
+
+GF7115000
+	Detail Central №1. Length 200mm
+	Detail Right №1. Length 200mm
+	Detail Left №1. Length 200mm
+
+
+Имена параметризации
+	TD  # Диаметр трубы
+		  T - труба
+		  D - диаметр
+	TTT  # Толщина трубы
+		   TT - труба
+		   T - толщина
