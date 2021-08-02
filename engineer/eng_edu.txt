@@ -70,7 +70,7 @@
 		CAD forum
 		CAE forum
 		Forums for simulation engineers
-		Forums for engineer mechanical
+		Forums for mechanical engineer
 		CAD форум
 		CAE форум
 		Форумы для инженеров
@@ -82,11 +82,17 @@
 Блоги, сайты, новости
 
 	Искать
-		CAD blog
-		CAE blog
-		Simulation engineers blog
-		CAD news
-		CAE news
+        CAD blog
+        CAE blog
+        Simulation engineers blog
+        CAD news
+        CAE news
+        CAD software news
+        CAE software news
+        Useful websites for designer engineer
+        Useful resources for designer engineer
+        Useful websites for CAD engineer
+        Useful resources for CAD engineer
 		
 	Ссылки
 		https://formlab.ru/

@@ -11,11 +11,27 @@
 		Курсы
 		
 	Порядок
-		Новости, блоги и новинки на офиуциальных сайтах поставщиков
+		Новости, блоги и новинки на официальных сайтах поставщиков
+		Каталоги, брошюры, листовки, презентации, техничка на официальных сайтах поставщиков
 		Fusion Blog and Youtube
 		GrabCad и AutodeskGallery - проекты, устройства, механизмы
 		isicad.ru
 		engineering.com
+
+
+Онлайн образование
+
+    Искать
+		Courses for CAD Engineer Mechanical
+		Courses for CAE Engineer Mechanical
+		Courses for CAD Engineer Design
+		Courses for CAE Engineer Design
+    
+    Ссылки
+        https://www.coursera.org/
+        https://openedu.ru/
+        https://academy.autodesk.com/
+        https://gb.ru/
 
 
 Разработка нового продукта	

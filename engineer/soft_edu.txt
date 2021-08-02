@@ -30,16 +30,9 @@ Software изучать
     Maya
 
 
-Изучать скрипты, утилиты и плагины
-    AutoCad
-    Fusion
-    Inventor
-    FreeCad
-
-
 Софт
 
-	Искать
+	Направление
 		Инженерия
 		Проектирование алюминиевых профилей
 		Оформление инструкций по сборке
@@ -52,12 +45,11 @@ Software изучать
 		Электроника
 		Электромеханика
 
-
-Инженерия
-
 	Искать
 		Useful software for an engineer
+		Useful software for CAD engineer
 		Software for Mechanical Engineers
+		Software for CAD Mechanical Engineers
 		Most Important Software for Mechanical Engineers
 		Software for simulation engineer
 
@@ -188,7 +180,32 @@ Simulation, physics
 Games
 
 	Искать
-		Engineering games
-		Free engineering games
-		Игры для инженера
+        Engineering games
+        Free engineering games
+        Games for engineer designer
+        Games for engineer mechanical
+        Игры для инженера
+
+
+Фото и видео
+
+    Искать
     
+    Софт
+        Pixlr
+            https://pixlr.com/
+		OBS Studio
+			https://obsproject.com/
+            
+            
+Python
+	
+	Искать
+		python для инженера
+		python for engineer
+		python для инженера-конструктора
+		python for design engineer
+		python for mechanical engineer        
+		python модули для инженера-конструктора
+		python modules for design engineer
+		python modules for mechanical engineer

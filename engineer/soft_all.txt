@@ -1,7 +1,8 @@
 Ссылки
-	https://github.com/
-	https://sourceforge.net/
-	https://www.g2.com/
+    https://github.com/
+    https://sourceforge.net/
+    https://www.g2.com/
+    https://alternativeto.net/
 
 
 Freecad
@@ -17,19 +18,12 @@ PyCharm
 	
 	
 Web утилиты
-	https://www.stroyteh.ru/converter/
-	http://steklodoka.ru/ves.html
-	https://cadsofttools.ru/pdf-to-dwg-online/
-	https://tools.pdf24.org/ru/
-	
-	
-Python
-	
-	Искать
-		python для инженера
-		python for engineer
-		python для инженера-конструктора
-		python for design engineer
-		python модули для инженера-конструктора
-		python modules for design engineer
+    https://www.stroyteh.ru/converter/
+    http://steklodoka.ru/ves.html
+    https://cadsofttools.ru/pdf-to-dwg-online/
+    https://tools.pdf24.org/ru/
+    https://screenshot.guru/
+    https://www.manualslib.com/
+    https://www.pdfescape.com/windows/
+
 
