@@ -61,6 +61,7 @@
 		
 	SIMONSWERK
 		https://www.simonswerk.com/
+		https://www.simonswerk-group.com/
 		
 	EffEff
 		https://www.effeff.de/de/site/effeff/
