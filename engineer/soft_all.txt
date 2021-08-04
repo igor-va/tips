@@ -11,7 +11,16 @@ Freecad
 	https://forum.freecadweb.org/
 	https://tracker.freecadweb.org/
 	
-	
+
+SolidWorks
+	https://www.youtube.com/c/solidworks/channels
+
+
+SolidWorks Composer
+	https://www.youtube.com/user/SolidWorksComposer/videos
+	https://help.solidworks.com/2021/English/DSSWXComposerDoc/FrontmatterSWXComposer/DSSWXComposerDocHome.htm
+
+
 PyCharm
 	https://www.jetbrains.com/pycharm/download/#section=windows
 	https://www.jetbrains.com/pycharm/download/other.html

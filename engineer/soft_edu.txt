@@ -12,17 +12,12 @@
 
 
 Software изучать
-    Altair
-    Freecad
     LibreCad
     SolidWorks
     Onshape
     Unigraphics NX
     Catia
-    Ansys
     Nastran
-    3DVIA Composer  # Для создания инструкций по сборке
-    Altium
     Mathcad
     Matlab
     Python
@@ -32,26 +27,52 @@ Software изучать
 
 Софт
 
-	Направление
+	Направления
 		Инженерия
-		Проектирование алюминиевых профилей
-		Оформление инструкций по сборке
-		Создание кинематических схем
-		Создание динамичекских сцен
-		Оптимизация формы
-		Порождающее проектирование
-		Прочностной расчет
-		Simulation
-		Электроника
-		Электромеханика
+		Финансы
+		Управление задачами
+		3D графика
+		Фото и видео
 
-	Искать
-		Useful software for an engineer
-		Useful software for CAD engineer
-		Software for Mechanical Engineers
-		Software for CAD Mechanical Engineers
-		Most Important Software for Mechanical Engineers
-		Software for simulation engineer
+	Инженерия	
+		Направления
+			Проектирование алюминиевых профилей
+			Оформление инструкций по сборке
+			Создание кинематических схем
+			Создание динамичекских сцен
+			Оптимизация формы
+			Порождающее проектирование
+			Прочностной расчет
+			Simulation
+			Электроника
+			Электромеханика
+			Игры для инженеров
+			Движки физики
+
+		Искать
+			Useful software for an engineer
+			Useful software for CAD engineer
+			Software for Mechanical Engineers
+			Software for CAD Mechanical Engineers
+			Most Important Software for Mechanical Engineers
+			Software for simulation engineer
+			
+	Управление задачами
+		Искать
+			Программы для отслеживания задач
+			Программы по отслеживания задач для инженера
+			Программы по управлению задачами
+			Программы по управлению проектами
+			Программы по управлению проектами для инженера
+
+
+История софта
+
+	3D софт
+		Какие существуют компании разарботчики
+		Истории развития компаний разработчиков 3D программ
+		Технологии 3D софта
+		Форматы 3D файлов
 
 
 Оформление инструкций по сборке

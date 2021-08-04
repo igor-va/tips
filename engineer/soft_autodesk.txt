@@ -51,6 +51,8 @@ Fusion
 		https://commandmap.autodesk.com/v1/
 		https://ekinssolutions.com/
 		https://github.com/AutodeskAILab/Fusion360GalleryDataset
+		
+	Туториалы
 
 
 Inventor 
