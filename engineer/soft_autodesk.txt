@@ -46,13 +46,20 @@ Fusion
 	Ссылки
 		https://www.autodesk.com/products/fusion-360/overview
 		https://www.autodesk.com/products/fusion-360/blog/
+		https://www.youtube.com/c/AutodeskFusion360/videos
 		https://forums.autodesk.com/t5/fusion-360/ct-p/1234
 		https://help.autodesk.com/view/fusion360/ENU/
 		https://commandmap.autodesk.com/v1/
 		https://ekinssolutions.com/
 		https://github.com/AutodeskAILab/Fusion360GalleryDataset
 		
+	Инсайдеры
+		https://www.autodesk.com/products/fusion-360/blog/top-5-ways-give-fusion-360-feedback/#comment-12585
+		https://www.autodeskproductresearch.com/h/s/6CKIEDLjXhM4xRqHfFdbwy
+		https://feedback.autodesk.com/key/Fusion360Insider
+		
 	Туториалы
+		https://help.autodesk.com/view/fusion360/ENU/courses/
 
 
 Inventor 

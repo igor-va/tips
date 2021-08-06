@@ -3,12 +3,14 @@
 	Понять как правильно структурировать, должна быть логика
 	Добавлять перед названием папки цифру как обозначение категории
 
+
 Files in the root folder and subfolder
 	- develop.dwg  # Development file
 	.pdf  # Various drawings for discussion
 	- wiki.txt  # General technical information about the product or part being developed
 	- strength.txt  # Technical information on strength calculation
 	- weight.xlsx  # Calculation of weight and length
+
 
 Названия разрабатываемых деталей на сервере
 	Project Name - Date  # Поручень LED - 2021.05.05
@@ -18,10 +20,12 @@ Files in the root folder and subfolder
 	Project Name v? - Detail Name - Date  # Поручень LED v9.2.2 - Крышка торцевая - 2021.05.05
 	Project Name v? - Detail Name v? - Date  # Поручень LED v9.2.2 - Крышка торцевая v2 - 2021.05.05
 
+
 Названия разрабатываемых деталей во фьюжн
 	Detail Name  # Крышка торцевая
 	Кондуктор опорный - Деталь
 	Кондуктор опорный - Сборка
+
 
 Исходные данные
 	01 - Analogs
@@ -33,6 +37,7 @@ Files in the root folder and subfolder
 	01 - Source (Date)
 	01 - Source (Name)
 	01 - DXF
+
 
 Проектные файлы 1
 	02 - Part Name
@@ -77,11 +82,13 @@ Files in the root folder and subfolder
 		04 - Images
 		05 - Manufacture Question
 
+
 Проектные файлы 2
 	03 - Assembly
 	03 - Drawings
 	03 - Compare
 	03 - Prices
+
 
 Проверка прочности, симуляция, кинематика
 	04 - Kinematics
@@ -97,10 +104,12 @@ Files in the root folder and subfolder
 		02 - Remark
 		03 - Report
 
+
 Упаковка, согласования
 	05 - Agreed
 	05 - Packing
-	
+
+
 Материалы для менеджеров, покупателей, проектировщиков, монтажников и выставок
 	06 - Чемодан
 	06 - Modules
