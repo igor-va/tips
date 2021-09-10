@@ -36,10 +36,15 @@
 	
 	Названия версий для перегородок GCC
 		Масюкова_2021.07.28_SWS-DR_6_5410x3435
+		Чернова_2020.01.16_SFW-DR_A1_4_3002х2729
+		Чернова_2020.10.12_SFW-DR_A2_7_4580х2835
 		
 	Рекомендации по замерам проема
 		Горизонтальный замер по верху, середине и низу
 		Вертикальный замер по краям и по центру
+
+
+Названия расчетных схем
 
 
 Названия версий для деталей и сборок
@@ -58,79 +63,81 @@
 	Template №1
 
 
-Названия версий для профилей
-	BIM №1. Length 100mm
-	Detail №1. Length 100mm
-	Mud №1. Length 100mm
-
-
 Названия габаритов панелей перегородок с уточнениями
 	Panel 900x2300
 	Panel 900x2300. Axis 110mm
 	Panel 900x2300. Axis 110mm. Hinge 5A00
 
 
-DGF-79
-	BIM №1. Length 100mm
-	BIM №2. Length 100mm
-	Detail 9123 + DFB-102S. Length 800mm
-	Detail 9123 + DRL-5025B. Length 800mm
-	Detail 9150 + DRL-5025B. Length 800mm
-	Detail 9150 + DFB-102S. Length 800mm
-	Detail DFB-102S. Length 800mm
-	Detail DFB-102S + DFB-102S. Length 800mm
-	Detail DRL-5025B. Length 800mm
-	Detail SD-27MH Right. Length 800mm
-	Detail SD-27MH Left. Length 800mm
+Название профилей
+
+	Названия версий для профилей
+		BIM №1. Length 100mm
+		Detail №1. Length 100mm
+		Mud №1. Length 100mm
 
 
-DGF-34
-	BIM №1. Length 100mm
-	BIM №2. Length 100mm
-	Detail. Length 2000mm
-	Detail DAH-45. Length 2000mm
-	Detail DAH-100. Length 2000mm
-	Detail DKB-4025S. Length 2000mm
+	DGF-79
+		BIM №1. Length 100mm
+		BIM №2. Length 100mm
+		Detail 9123 + DFB-102S. Length 800mm
+		Detail 9123 + DRL-5025B. Length 800mm
+		Detail 9150 + DRL-5025B. Length 800mm
+		Detail 9150 + DFB-102S. Length 800mm
+		Detail DFB-102S. Length 800mm
+		Detail DFB-102S + DFB-102S. Length 800mm
+		Detail DRL-5025B. Length 800mm
+		Detail SD-27MH Right. Length 800mm
+		Detail SD-27MH Left. Length 800mm
 
 
-DGF-8
-	BIM №1. Length 100mm
-	BIM №2. Length 100mm
-	Detail Side. Length 2000mm
-	Detail Center. Length 2000mm
-	Detail Hinge. Length 79mm
+	DGF-34
+		BIM №1. Length 100mm
+		BIM №2. Length 100mm
+		Detail. Length 2000mm
+		Detail DAH-45. Length 2000mm
+		Detail DAH-100. Length 2000mm
+		Detail DKB-4025S. Length 2000mm
 
 
-DR-102
-	BIM №1. Length 100mm
-	BIM №2. Length 100mm
-	Detail DRL-5025B + 9123 for SWS-DR. Length 500mm
-	Detail DRL-5025B for SFW-DR. Length 500mm
-	Detail 9150 + DFB-102S №2 for SFW-DR_A. Length 500mm
-	Detail 9150 + DFB-102S №2 for SFW-DR_B. Length 500mm
-	Detail DFB-102S for SFW-DR. Length 500mm
-	Detail DFB-102S for SWS-DR. Length 500mm
-	Detail DFB-102ST for SWS-DR. Length 500mm
-	Detail DFB-102S + DFB-102ST for SWS-DR. Length 500mm
-	Detail SD-30MH for SFW-DR. Length 500mm
+	DGF-8
+		BIM №1. Length 100mm
+		BIM №2. Length 100mm
+		Detail Side. Length 2000mm
+		Detail Center. Length 2000mm
+		Detail Hinge. Length 79mm
 
 
-DR-78
-	BIM №1. Length 100mm
-	BIM №2. Length 100mm
-	Detail GTS-850. Length 500mm
+	DR-102
+		BIM №1. Length 100mm
+		BIM №2. Length 100mm
+		Detail DRL-5025B + 9123 for SWS-DR. Length 500mm
+		Detail DRL-5025B for SFW-DR. Length 500mm
+		Detail 9150 + DFB-102S №2 for SFW-DR_A. Length 500mm
+		Detail 9150 + DFB-102S №2 for SFW-DR_B. Length 500mm
+		Detail DFB-102S for SFW-DR. Length 500mm
+		Detail DFB-102S for SWS-DR. Length 500mm
+		Detail DFB-102ST for SWS-DR. Length 500mm
+		Detail DFB-102S + DFB-102ST for SWS-DR. Length 500mm
+		Detail SD-30MH for SFW-DR. Length 500mm
 
 
-DR-850
-	BIM №1. Length 100mm
-	BIM №2. Length 100mm
-	Detail GTS-850. Length 600mm
+	DR-78
+		BIM №1. Length 100mm
+		BIM №2. Length 100mm
+		Detail GTS-850. Length 500mm
 
 
-GF7115000
-	Detail Central №1. Length 200mm
-	Detail Right №1. Length 200mm
-	Detail Left №1. Length 200mm
+	DR-850
+		BIM №1. Length 100mm
+		BIM №2. Length 100mm
+		Detail GTS-850. Length 600mm
+
+
+	GF7115000
+		Detail Central №1. Length 200mm
+		Detail Right №1. Length 200mm
+		Detail Left №1. Length 200mm
 
 
 Имена параметризации
