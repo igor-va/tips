@@ -59,6 +59,7 @@ Files in the root folder and subfolder
 	02 - Seal
 	02 - Metal
 	02 - Fasteners
+	02 - Screw
 	02 - Alternative
 	02 - Tools
 		01 - 3D
@@ -138,6 +139,7 @@ Files in the root folder and subfolder
 	06 - Catalogs
 	06 - Design
 	06 - Media
+	06 - Images
 	06 - Renders
 	06 - Info
 		01 - 3D

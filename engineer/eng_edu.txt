@@ -99,7 +99,7 @@
 	Ссылки
 		https://cccp3d.ru/
 
-		
+
 Блоги, сайты, новости
 
 	Искать
@@ -126,6 +126,9 @@
 
 
 Книги
+
+	Ссылки
+		https://www.autodesk.com/products/fusion-360/blog/5-books-every-engineer-should-read/
 
 	Потребительская техника
 		Искать
@@ -155,7 +158,7 @@
 		
 	Пластиковые детали
 
-	
+
 Теория
 
 	Сопромат
@@ -236,6 +239,12 @@ CAD библиотеки
 	EN
 
 
+Изучать методы проектирования
+
+	Reverse Engineering
+		https://www.autodesk.com/products/fusion-360/blog/how-reverse-engineering-can-aid-the-design-process/
+
+
 Изучать методы производства
 	Sand casting
 	Investment casting
@@ -277,3 +286,4 @@ CAD библиотеки
 	Искать
 	
 	Ссылки
+		https://vyrus.it/
