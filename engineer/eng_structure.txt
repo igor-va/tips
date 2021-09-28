@@ -10,6 +10,7 @@ Files in the root folder and subfolder
 	- wiki.txt  # General technical information about the product or part being developed
 	- strength.txt  # Technical information on strength calculation
 	- weight.xlsx  # Calculation of weight and length
+	- eng.docx  # Translations from Russian into English
 
 
 Названия разрабатываемых деталей на сервере
@@ -61,6 +62,7 @@ Files in the root folder and subfolder
 	02 - Fasteners
 	02 - Screw
 	02 - Alternative
+	02 - Version (A)
 	02 - Tools
 		01 - 3D
 		01 - Analogs
