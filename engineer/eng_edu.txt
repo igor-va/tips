@@ -11,12 +11,15 @@
 		Понимание применимости инструментов, их возможности и ограничения
 	Использование полезных гаджетов
 		Штангенциркуль
+		Электронные современные гаджеты
 	Знание технических норм и правил
 		Отраслевые стандарты
 		ГОСТ
 		СП
 		СНиП
 		ЕСКД
+		DIN
+		ISO
 	Знание продукта
 		Знание продукции фирмы
 		Знание рынка, продукции конкурентов
@@ -165,7 +168,7 @@
 		https://studwood.ru/1676782/matematika_himiya_fizika/diagrammy_rastyazheniya_szhatiya				
 
 
-CAD библиотеки
+CAD и 3D библиотеки
 
 	Изучение
 		Какие есть сайты
@@ -175,7 +178,14 @@ CAD библиотеки
 	Искать
 		CAD библиотеки
 		CAD library
+		3D библиотека
+		3D library
 		CAD Blocks
+		Лучшие CAD библиотеки
+		Best CAD Libraries
+		
+	Подборки
+		https://pikabu.ru/story/poleznyie_saytyi_s_3d_modelyami_5570460
 		
 	Ссылки
 		https://grabcad.com/
@@ -185,9 +195,20 @@ CAD библиотеки
 		http://www.fastrackcad.com/
 		https://www.caddetails.com/
 		https://www.bimobject.com/en/
-		https://b2b.partcommunity.com/community/
 		https://www.traceparts.com/en
+		https://partsolutions.com/
+		https://b2b.partcommunity.com/community/
 		https://www.caddetails.com/
+		https://nasa3d.arc.nasa.gov/
+		https://www.3dfindit.com/
+		https://www.turbosquid.com/
+		https://free3d.com/
+		https://vmasshtabe.ru/
+		https://www.cadforum.cz/en/
+		https://openbuilds.com/
+		https://library.io/
+		https://cadlab.io/
+		https://www.3dmodelspace.com/
 
 
 Онлайн образование

@@ -1,9 +1,14 @@
 Windows
 	Точки восстановления
 	Браузеры
-		Google 
+		Google
 		FireFox
 		Tor
+	Приложения для браузеров
+		Google Translate
+		Adblock
+		Dark Reader
+		VPN
 	Инженерное
 		Fusion
 		AutoCad
@@ -37,19 +42,37 @@ Windows
 
 
 Ubuntu
-	Включить точки восстановления
-	Google
-	FireFox
-	Tor
-	FreeCad
-	Gimp
-	Pycharm
-	Notepad++
-	Foxit Reader
-	Unreal Commander (Double Commander)
-	Q-Translate
-	Calibre E-book
-	Libre Office
-	VLC Media Player
-	Translatium
-	Shutter
+	Точки восстановления
+	Браузеры
+		Google
+		FireFox
+		Tor
+	Приложения для браузеров
+		Google Translate
+		Adblock
+		Dark Reader
+		VPN
+	Инженерное
+		FreeCad
+		LibreCAD
+		Gimp
+		Blender
+	Программирование
+		Pycharm 2019.3.3  # Для Fusion API
+			https://www.jetbrains.com/pycharm/download/other.html
+		Notepad++
+		Python
+		GitBash
+		GitHub Desktop
+		GitKraken	
+	Офисные пакеты и утилиты
+		Foxit Reader
+		Unreal Commander 
+		Double Commander
+		Q-Translate
+		Translatium
+		Calibre E-book
+		Libre Office
+		VLC Media Player
+		NumLock Calculator	
+		Shutter

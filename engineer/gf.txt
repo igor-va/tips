@@ -28,11 +28,6 @@
 		
 	Entrematic
 		https://www.entrematic.com/en/
-	
-	Titan
-		https://furnitura-titan.ru/
-		http://titan5.ru/
-		http://msk-titan.ru/
 		
 	Colcom
 		https://www.colcomgroup.it/
@@ -54,10 +49,6 @@
 		https://www.metalglas.it/
 		https://www.mymetalglas.it/
 		https://metalglas.app/	
-
-	ARP
-		https://arprus.com/
-		http://sadevrus.ru/ru/about.html
 		
 	SIMONSWERK
 		https://www.simonswerk.com/
@@ -81,9 +72,6 @@
 	D+H
 		https://www.dh-partner.ru/
 		https://www.dh-partner.com/en/start.html
-		
-	ПерилаГлавСнаб
-		https://www.perilaglavsnab.ru/
 		
 	Oubao
 		https://www.oubao.com/
@@ -119,11 +107,39 @@
 	Tesa
 		https://tesa.ru/
 		
+	Cakir
+		https://www.cakiraluminyum.com/eng/
+
+
+Конкуренты
+
+	Titan
+		https://furnitura-titan.ru/
+		http://titan5.ru/
+		http://msk-titan.ru/
+		
 	ТБМ
 		https://www.tbm.ru/
 		
-	Cakir
-		https://www.cakiraluminyum.com/eng/
+	Арабелла
+		https://arabella-st.ru/
+		
+	ARP
+		https://arprus.com/
+		http://sadevrus.ru/ru/about.html
+	
+	ПерилаГлавСнаб
+		https://www.perilaglavsnab.ru/
+
+
+Поставщики комплектующих
+
+	https://www.rsi-llc.ru/
+	https://www.digikey.com/
+	https://promprof.ru/
+	https://standart-prof.ru/
+	https://galaxiv.ru/
+	https://alutech-group.com/
 
 
 Продукция

@@ -35,7 +35,8 @@ Autocad
 Fusion 
 
 	Изучать
-		Изучить Event Simulation
+		Event Simulation
+		Molding Simulation
 		Искать интересные плагины и утилиты
 		Искать готовые и открытые библиотеки
 		Искать открытые проекты
@@ -60,7 +61,15 @@ Fusion
 		
 	Туториалы
 		https://help.autodesk.com/view/fusion360/ENU/courses/
-
+		
+	Расширения
+		Bommer
+			https://www.getbommer.com/
+			https://apps.autodesk.com/FUSION/en/Detail/Index?id=5433700426186506446&appLang=en&os=Win64
+		OpenBOM
+			https://www.openbom.com/
+			https://apps.autodesk.com/FUSION/en/Detail/Index?id=4600054964458767106&appLang=en&os=Win64
+	
 
 Inventor 
 
@@ -87,3 +96,12 @@ Autocad Raster Design
 
 
 Eagle 
+
+
+Moldflow
+
+
+Maya
+
+
+Dynamo

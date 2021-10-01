@@ -1,8 +1,4 @@
-Изучать интересный софт на разных хабах и у разных вендоров
-	Google
-	Sourceforge
-	Github
-	G2
+Изучать интересный софт у разных вендоров
 	Autodesk
 	Altair
 	Dassault Systemes
@@ -12,17 +8,17 @@
 
 
 Software изучать
-    LibreCad
-    SolidWorks
-    Onshape
-    Unigraphics NX
-    Catia
-    Nastran
-    Mathcad
-    Matlab
-    Python
-    Blender
-    Maya
+	LibreCad
+	SolidWorks
+	Onshape
+	Unigraphics NX
+	Catia
+	Nastran
+	Mathcad
+	Matlab
+	Python
+	Blender
+	PDM
 
 
 Софт

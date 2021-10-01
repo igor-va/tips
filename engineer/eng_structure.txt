@@ -61,6 +61,7 @@ Files in the root folder and subfolder
 	02 - Metal
 	02 - Fasteners
 	02 - Screw
+	02 - Accessories
 	02 - Alternative
 	02 - Version (A)
 	02 - Tools
