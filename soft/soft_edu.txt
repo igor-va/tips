@@ -46,6 +46,7 @@ Software изучать
 			Электромеханика
 			Игры для инженеров
 			Движки физики
+			Для стекла
 
 		Искать
 			Useful software for an engineer
@@ -176,6 +177,13 @@ Software изучать
 			https://www.linux.org.ru/news/opensource/13989412
 
 
+Для стекла
+	
+	Ссылки
+		https://smart-builder.com/
+		https://www.structuralglass.org/software
+
+
 Simulation, physics
 
 	Искать
@@ -215,8 +223,8 @@ Games
             https://pixlr.com/
 		OBS Studio
 			https://obsproject.com/
-            
-            
+
+
 Python
 	
 	Искать

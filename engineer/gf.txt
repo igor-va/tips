@@ -1,3 +1,12 @@
+Сайты
+	https://www.glassfurnitura.ru/
+	http://unica.glassfurnitura.ru/
+	https://www.dovodchik.com/
+	https://www.gf-russia.ru/
+	https://www.sadev.ru/
+	http://glas.alm.su/
+
+
 Поставщики GF
 
 	GCC
@@ -134,12 +143,44 @@
 
 Поставщики комплектующих
 
-	https://www.rsi-llc.ru/
-	https://www.digikey.com/
-	https://promprof.ru/
-	https://standart-prof.ru/
+	Метизы
+		https://svm24.ru/
+		https://www.optprommetiz.ru/
+		https://1001krep.ru/
+		https://metizi.com/
+		https://www.cki-com.ru/
+
+	Профили
+		https://www.rsi-llc.ru/
+		https://promprof.ru/
+		https://alutech-group.com/
+		
+	Пластик и уплотнители
+		https://standart-prof.ru/
+		https://zaglushka.ru/
+
+	Электроника	и электротехника
+		https://www.digikey.com/
+		https://arlight.su/
+
+
+Монтажники
 	https://galaxiv.ru/
-	https://alutech-group.com/
+	https://www.skbekas.ru/
+	https://citiglass.ru/
+	https://www.privateglass.ru/
+
+
+Производства
+	
+	Метал
+		https://xn--80aceefmet7aofbr.xn--p1ai/
+		https://www.metalexspb.ru/
+		https://pcprofiles.ru/
+		
+	Стекло
+		http://steklo-proekt.ru/
+		https://xn--80ahahgebkwp3o.xn--p1ai/
 
 
 Продукция

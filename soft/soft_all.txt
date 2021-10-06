@@ -19,13 +19,45 @@ SolidWorks
 SolidWorks Composer
 	https://www.youtube.com/user/SolidWorksComposer/videos
 	https://help.solidworks.com/2021/English/DSSWXComposerDoc/FrontmatterSWXComposer/DSSWXComposerDocHome.htm
+	
+
+Ansys
+	https://www.ansys.com/
+
+
+LibreCAD
+	https://librecad.org/
+
+
+TouchCAD
+	http://www.touchcad.com/
+	
+	
+OpenSCAD
+	http://openscad.org/
+	
+	
+KiCad
+	https://www.kicad.org/
+	
+	
+OpenCascade
+	https://www.opencascade.com/
+	
+	
+Onshape
+	https://www.onshape.com/en/
+
+
+Alibre
+	https://www.alibre.com/
 
 
 PyCharm
 	https://www.jetbrains.com/pycharm/download/#section=windows
 	https://www.jetbrains.com/pycharm/download/other.html
 	
-	
+
 Web утилиты
     https://www.stroyteh.ru/converter/
     http://steklodoka.ru/ves.html
@@ -34,5 +66,3 @@ Web утилиты
     https://screenshot.guru/
     https://www.manualslib.com/
     https://www.pdfescape.com/windows/
-
-

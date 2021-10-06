@@ -126,6 +126,12 @@
 		https://www.engineering.com/home
 		https://www.pointcad.ru/
 		https://interestingengineering.com/
+		https://magicdpd.ru/
+		https://www.nafems.org/
+		https://www.invent.org/
+		https://www.instructables.com/
+		https://www.skyscrapercity.com/
+		https://hackaday.io/
 
 
 Книги
@@ -308,3 +314,31 @@ CAD и 3D библиотеки
 	
 	Ссылки
 		https://vyrus.it/
+		https://layershift.xyz/
+		https://www.lifefuelsplus.com/
+		https://www.tarform.com/
+		https://www.kickstarter.com/projects/restorationgames/return-to-dark-tower
+		https://newlab.com/
+		https://www.optimusride.com/
+		https://covid19vent.com/
+		https://shop.nack.is/
+		https://www.seamtechnic.com/
+		https://www.pirani.life/
+		https://www.modbot.com/
+		https://www.gowesty.com/
+		https://www.beamlink.io/
+		https://noiseengineering.us/
+		https://vorticwatches.com/
+		https://www.haascnc.com/
+		https://pembree.com/
+		https://www.fuseproject.com/
+		https://www.beneteau-group.com/en/
+		https://www.nyccnc.com/
+		https://www.spee3d.com/
+		http://www.garage221.com/
+		https://www.3ditaly.it/
+		https://formlabs.com/
+		https://www.conturoprototyping.com/
+		https://www.starlingcycles.com/
+		https://www.vertiball.com/
+		https://macrofab.com/

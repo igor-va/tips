@@ -5,6 +5,7 @@
         https://openedu.ru/
         https://academy.autodesk.com/
         https://gb.ru/
+		https://teachmepcb.com/
 
 
 Курсы

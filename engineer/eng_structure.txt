@@ -9,7 +9,7 @@ Files in the root folder and subfolder
 	.pdf  # Various drawings for discussion
 	- wiki.txt  # General technical information about the product or part being developed
 	- strength.txt  # Technical information on strength calculation
-	- weight.xlsx  # Calculation of weight and length
+	- tech.xlsx  # Specification, equipment, weight calculation and length
 	- eng.docx  # Translations from Russian into English
 
 
@@ -100,6 +100,7 @@ Files in the root folder and subfolder
 	03 - Drawings
 	03 - Compare
 	03 - Prices
+	03 - Pay
 	03 - Manufacture Request
 	03 - Manufacture Response
 
