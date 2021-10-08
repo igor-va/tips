@@ -5,12 +5,22 @@
     https://alternativeto.net/
 
 
+Web утилиты
+    https://www.stroyteh.ru/converter/
+    http://steklodoka.ru/ves.html
+    https://cadsofttools.ru/pdf-to-dwg-online/
+    https://tools.pdf24.org/ru/
+    https://screenshot.guru/
+    https://www.manualslib.com/
+    https://www.pdfescape.com/windows/
+
+
 Freecad
 	https://www.freecadweb.org/
 	https://wiki.freecadweb.org/Main_Page
 	https://forum.freecadweb.org/
 	https://tracker.freecadweb.org/
-	
+
 
 SolidWorks
 	https://www.youtube.com/c/solidworks/channels
@@ -54,15 +64,8 @@ Alibre
 
 
 PyCharm
+	https://www.jetbrains.com/pycharm/
 	https://www.jetbrains.com/pycharm/download/#section=windows
 	https://www.jetbrains.com/pycharm/download/other.html
 	
 
-Web утилиты
-    https://www.stroyteh.ru/converter/
-    http://steklodoka.ru/ves.html
-    https://cadsofttools.ru/pdf-to-dwg-online/
-    https://tools.pdf24.org/ru/
-    https://screenshot.guru/
-    https://www.manualslib.com/
-    https://www.pdfescape.com/windows/

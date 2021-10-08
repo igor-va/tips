@@ -30,6 +30,7 @@ Windows
 		Foxit Reader
 		Unreal Commander
 		Q-Translate
+			https://quest-app.appspot.com/
 		Calibre E-book
 		Libre Office
 		VLC Media Player
@@ -70,6 +71,7 @@ Ubuntu
 		Unreal Commander 
 		Double Commander
 		Q-Translate
+			https://quest-app.appspot.com/
 		Translatium
 		Calibre E-book
 		Libre Office
