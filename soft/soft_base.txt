@@ -12,12 +12,12 @@ Windows
 	Инженерное
 		Fusion
 		AutoCad
-		Maya
 		Inventor
 		FreeCad
-		LibreCAD
-		Gimp
+		LibreCAD	
 		Blender
+        Maya
+        Gimp
 	Программирование
 		Pycharm 2019.3.3  # Для Fusion API
 			https://www.jetbrains.com/pycharm/download/other.html

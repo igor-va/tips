@@ -1,23 +1,20 @@
 Изучать интересный софт у разных вендоров
-	Autodesk
-	Altair
-	Dassault Systemes
-	Altium
-	Ansys
-	Аскон
+    Autodesk
+    Altair
+    Dassault Systemes
+    Altium
+    Ansys
+    Adobe
+    Аскон
 
 
 Software изучать
-	LibreCad
-	SolidWorks
-	Onshape
 	Unigraphics NX
 	Catia
 	Nastran
 	Mathcad
 	Matlab
 	Python
-	Blender
 	PDM
 
 
@@ -30,7 +27,10 @@ Software изучать
 		Управление задачами
 		3D графика
 		Фото и видео
-		Антивирусы
+		Антивирусы и безопасность
+        Браузеры
+        Музыка
+        Разное
 
 	Инженерия	
 		Направления
@@ -223,6 +223,21 @@ Games
             https://pixlr.com/
 		OBS Studio
 			https://obsproject.com/
+        OpenShot
+            https://www.openshot.org/
+        VLC media player
+            https://www.videolan.org/
+        ImageGlass    
+            https://imageglass.org/
+        HitFilm
+            https://fxhome.com/product/hitfilm-express
+            https://fxhome.com/product/hitfilm-pro
+        Blackmagic Fusion    
+            https://www.blackmagicdesign.com/products/fusion/
+        Apple Motion
+            https://www.apple.com/final-cut-pro/motion/
+        Natron
+            https://natrongithub.github.io/
 
 
 Python
@@ -236,3 +251,38 @@ Python
 		python модули для инженера-конструктора
 		python modules for design engineer
 		python modules for mechanical engineer
+
+
+Браузеры
+   
+    Искать
+   
+    Софт
+        Brave
+            https://brave.com/
+        Tor
+            https://www.torproject.org/
+        Vivaldi
+            https://vivaldi.com/
+
+
+Антивирусы и безопасность
+    
+    Искать
+    
+    Софт
+        VeraCrypt
+            https://veracrypt.fr/
+            https://www.howtogeek.com/108501/the-how-to-geek-guide-to-getting-started-with-truecrypt/
+
+
+Разное
+
+    Thunderbird
+        https://www.thunderbird.net/en-US/
+    ShareX
+        https://getsharex.com/
+    7-Zip
+        https://www.7-zip.org/
+    Scribus    
+        https://www.scribus.net/

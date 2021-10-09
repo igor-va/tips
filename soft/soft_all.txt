@@ -63,6 +63,10 @@ Alibre
 	https://www.alibre.com/
 
 
+Blender
+    https://www.blender.org/
+
+
 PyCharm
 	https://www.jetbrains.com/pycharm/
 	https://www.jetbrains.com/pycharm/download/#section=windows
