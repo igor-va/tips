@@ -1,0 +1,19 @@
+Chrome Browser Shortcuts
+    CTRL + T  # Open new tab
+    CTRL + W  # Close active tab
+    CTRL + TAB  # Go to next tab
+    CTRL + SHIFT + TAB  # Go to previous tab
+    ALT + HOME  # Open home page
+    CTRL + SHIFT + T  # Reopen last closed tab
+    CTRL + SHIFT + W  # Close entire chrome window
+    CTRL + L  # Jump to omnibox
+    CTRL + SHIFT + R  # Hard refresh page
+    CTRL + P  # Print webpage
+    CTRL + SHIFT + B  # Show/hide bookmark bar     
+    CTRL + SHIFT + O  # Open bookmark manager
+    CTRL + D  # Bookmark current page
+    CTRL + SHIFT + N  # Open incognito mode
+    CTRL + SHIFT + W  # Close incognito mode
+    CTRL + SHIFT + Delete  # Clear browsing data
+    ALT + E, then press S  # Open chrome settings
+    CTRL + J  # Open downloads page

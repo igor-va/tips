@@ -26,8 +26,8 @@ Software изучать
 		Финансы
 		Управление задачами
 		3D графика
-		Фото и видео
-		Антивирусы и безопасность
+		Фото, видео
+		Антивирусы, защита, безопасность
         Браузеры
         Музыка
         Разное
@@ -214,7 +214,7 @@ Games
         Игры для инженера
 
 
-Фото и видео
+Фото, видео
 
     Искать
     
@@ -266,7 +266,7 @@ Python
             https://vivaldi.com/
 
 
-Антивирусы и безопасность
+Антивирусы, защита, безопасность
     
     Искать
     
@@ -274,6 +274,16 @@ Python
         VeraCrypt
             https://veracrypt.fr/
             https://www.howtogeek.com/108501/the-how-to-geek-guide-to-getting-started-with-truecrypt/
+        Bitdefender
+            https://www.bitdefender.com/
+        Webroot Antivirus
+            https://www.webroot.com/us/en
+        ZoneAlarm Anti-Ransomware
+            https://www.zonealarm.com/
+        ESET NOD32 Antivirus
+            https://www.eset.com/
+        NeuShield Data Sentinel
+            https://www.neushield.com/
 
 
 Разное
