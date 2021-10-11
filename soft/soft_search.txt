@@ -30,6 +30,7 @@ Software изучать
 		Антивирусы, защита, безопасность
         Браузеры
         Музыка
+        Разработка
         Разное
 
 	Инженерия	
@@ -264,6 +265,17 @@ Python
             https://www.torproject.org/
         Vivaldi
             https://vivaldi.com/
+
+
+Разработка
+    
+    Искать
+    
+    Софт
+        Visual Studio Code
+            https://code.visualstudio.com/
+        Sublime Text
+            https://www.sublimetext.com/
 
 
 Антивирусы, защита, безопасность
