@@ -38,6 +38,7 @@ Files in the root folder and subfolder
 	01 - Source (Date)
 	01 - Source (Name)
 	01 - DXF
+	01 - Working
 
 
 Проектные файлы 1
@@ -63,7 +64,7 @@ Files in the root folder and subfolder
 	02 - Screw
 	02 - Accessories
 	02 - Alternative
-	02 - Version (A)
+	02 - Version (1, A)
 	02 - Tools
 		01 - 3D
 		01 - Analogs
@@ -75,24 +76,35 @@ Files in the root folder and subfolder
 		01 - PDF
 		01 - DXF
 		01 - Working
+		
 		02 - 3D Models
-		02 - 3D Print		
+		02 - 3D Print
 		02 - Manufacture (Name)
 		02 - Manufacture Request
 		02 - Manufacture Response
-		02 - Strength
-		02 - Prices
+		02 - Manufacture Question
+		
+		03 - Assembly
 		03 - Drawings
-		03 - Agreed
-		03 - Checking
 		03 - Milling
-		03 - Painting
+		03 - Painting	
+		03 - Compare
+		03 - Prices
 		03 - Pay
-		04 - Manual
-		04 - Manual Video
-		04 - Library
-		04 - Images
-		05 - Manufacture Question
+		03 - Packing
+
+		04 - Kinematics
+		04 - Strength
+		04 - Simulation
+		04 - Test
+
+		05 - Agreed
+		05 - Checking
+		
+		06 - Manual
+		06 - Manual Video
+		06 - Library
+		06 - Images
 
 
 Проектные файлы 2
@@ -101,6 +113,8 @@ Files in the root folder and subfolder
 	03 - Compare
 	03 - Prices
 	03 - Pay
+	03 - Packing
+	03 - Manufacture (Name)
 	03 - Manufacture Request
 	03 - Manufacture Response
 
@@ -115,15 +129,17 @@ Files in the root folder and subfolder
 		01 - Archive
 		01 - Source
 		01 - DXF
+		
 		02 - Prices
 		02 - Technical Task
 		02 - Remark
+		
 		03 - Report
 
 
-Упаковка, согласования
+Согласование
 	05 - Agreed
-	05 - Packing
+	05 - Checking
 
 
 Материалы для менеджеров, покупателей, проектировщиков, монтажников и выставок
@@ -153,6 +169,8 @@ Files in the root folder and subfolder
 		01 - Working
 		01 - Fusion DWG
 		01 - Fusion DXF
+		
 		02 - DWG
 		02 - PDF
+		
 		03 - Result

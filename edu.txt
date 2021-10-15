@@ -9,8 +9,9 @@
 
 
 Курсы
-	Ubuntu
-	Linux
+	ОС
+		Ubuntu
+		Linux
 	Финансы и инвестирование
 	Python
 	Инженерия

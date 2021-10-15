@@ -9,6 +9,8 @@ Windows
 		Adblock
 		Dark Reader
 		VPN
+		Tab Suspender
+			https://chrome.google.com/webstore/detail/tab-suspender/fiabciakcmgepblmdkmemdbbkilneeeh?hl=en
 	Инженерное
 		Fusion
 		AutoCad
@@ -53,6 +55,8 @@ Ubuntu
 		Adblock
 		Dark Reader
 		VPN
+		Tab Suspender
+			https://chrome.google.com/webstore/detail/tab-suspender/fiabciakcmgepblmdkmemdbbkilneeeh?hl=en
 	Инженерное
 		FreeCad
 		LibreCAD

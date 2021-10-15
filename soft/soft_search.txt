@@ -1,9 +1,9 @@
 Изучать интересный софт у разных вендоров
     Autodesk
     Altair
+    Ansys	
     Dassault Systemes
     Altium
-    Ansys
     Adobe
     Аскон
 
