@@ -22,7 +22,7 @@ Software изучать
 
 	Направления
 		Операционные системы
-		Инженерия
+		Инженерное
 		Финансы
 		Управление задачами
 		3D графика
@@ -32,15 +32,16 @@ Software изучать
         Музыка
         Разработка
         Разное
+		История софта
 
-	Инженерия	
+	Инженерное
 		Направления
 			Проектирование алюминиевых профилей
 			Оформление инструкций по сборке
 			Создание кинематических схем
-			Создание динамичекских сцен
+			Создание динамических сцен
 			Оптимизация формы
-			Порождающее проектирование
+			Generative Design
 			Прочностной расчет
 			Simulation
 			Электроника
@@ -48,7 +49,7 @@ Software изучать
 			Игры для инженеров
 			Движки физики
 			Для стекла
-
+			Python
 		Искать
 			Useful software for an engineer
 			Useful software for CAD engineer
@@ -75,144 +76,176 @@ Software изучать
 		Форматы 3D файлов
 
 
-Оформление инструкций по сборке
+Инженерное
 
-	Искать		
-		Software for creating assembly instructions
-		Free software for creating assembly instructions	
-		How to make the assembly instructions
-		How to make the assembly instructions CAD
-		How to make an interactive assembly instructions
-		Software for manual instructions
-		Free software for manual instructions
-		Software for manual instructions CAD	
-		Software To Make A User Manual Assembly Instructions
-		Программы для создания инструкций по сборке
-		Cоздание инструкций по сборке
-		Создание интерактивных инструкций по сборке
-		Оформление инструкций по сборке
+	Оформление инструкций по сборке
+		Искать		
+			Software for creating assembly instructions
+			Free software for creating assembly instructions	
+			How to make the assembly instructions
+			How to make the assembly instructions CAD
+			How to make an interactive assembly instructions
+			Software for manual instructions
+			Free software for manual instructions
+			Software for manual instructions CAD	
+			Software To Make A User Manual Assembly Instructions
+			Программы для создания инструкций по сборке
+			Cоздание инструкций по сборке
+			Создание интерактивных инструкций по сборке
+			Оформление инструкций по сборке		
+		Фичи
+			Сохранение кадров
+			Стнадратные элементы (стрелки, знаки и т.д.)
+			Импорт разных форматов			
+		Ссылки
+			Советы по оформлению инструкций
+				https://instrktiv.com/en/ikea-manual/
+				https://instrktiv.com/en/user-manual-template/
+				https://www.techsmith.com/blog/user-documentation/
+				https://www.cadcrowd.com/blog/how-to-design-effective-assembly-drawings-for-consumer-products-and-manufacturing-companies/
+				https://www.model-r.ru/vypolnenie-chertezhey/tehnicheskaya-illyustratsiya#chertegnii_vid
+				https://sapr.ru/article/25993
+				https://www.qgc.ru/blog/razrabotka-instruktsiy-po-montazhu-i-ekspluatatsii-na-oborudovanie-i-tekhnicheskie-ustroystva/
+			Обзоры софта
+				https://develop3d.com/cad/guide-technical-publications-software/
+		Софт
+			SOLIDWORKS Composer  # Раньше 3DVIA Composer
+				https://www.solidworks.com/product/solidworks-composer
+			3D BUILDING
+				https://buildin3d.com/
+			RAPIDWORKINSTRUCTION
+				https://www.cortona3d.com/en/products/authoring-publishing-solutions/rapidauthor/rapidworkinstruction
+			Cadasio
+				https://www.cadasio.com/
+			Publisher3D
+				http://quadrispace.com/
+			Canvas GFX
+				https://www.canvasgfx.com/
+			CADshare
+				https://cadshare.com/
+			POWERGUIDE
+				https://3dpowerguide.com/rus/
+	
+	Кинематика, движение, динамика
+		Искать
+			Kinematics software
+			Free kinematics software
+			List kinematics software
+			Software for creating kinematics
+			Best software for creating kinematics
+			Best free software for creating kinematics
+			Kinematics analysis software
+			Motion analysis software
+			Motion analysis software free
+			Motion analysis mechanism software
+			Программы для кинематики
+			Программы по созданию кинематики
+			Бесплатные программы для кинематики
+			Программное обеспечение для кинематики
+			Программное обеспечение для создания кинематики
+			Dynamics software
+			Free dynamics software
+			Best dynamics software
+			Best free dynamics software
+		Фичи
+			Эскиз и ограничения
+			Прорисовка пути двжиения точки
+			Построение графика
+			Анимация
+		Софт
+			MechDesigner  # Paid
+				https://psmotion.com/
+			Asom  # Paid
+				https://asom.eu/en/
+			Artas  # Paid
+				https://www.artas.nl/en/
+			Nolte-NC-Kurventechnik  #Paid
+				https://nolte-nc-kurventechnik.homepage.t-online.de/en/
+			Lotus  # Paid
+				https://www.lotusengineering.com/engineering-software/
+			FreeDyn	 # Free
+				http://www.freedyn.at/
+			MBDyn  # Free	
+				https://www.mbdyn.org/
+			Kinematics Open Source Projects  # Free
+				https://awesomeopensource.com/projects/kinematics
+			Pyslvs  # Free
+				https://www.linux.org.ru/news/opensource/13989412
+
+	Для стекла		
+		Ссылки
+			https://smart-builder.com/
+			https://www.structuralglass.org/software
+
+	Simulation, physics
+		Искать
+			Software simulation
+			Software simulation list
+			Software simulation kinematics
+			Software simulation dynamics
+			Software physics simulation
+			Software physics engine
+			Software physics engine for engineer
+			Software best physics engine
+			Software physics simulation
+		Ссылки
+			https://en.wikipedia.org/wiki/List_of_computer_simulation_software
+				https://en.wikipedia.org/wiki/Algodoo
+				https://en.wikipedia.org/wiki/Project_Chrono
+			https://en.wikipedia.org/wiki/List_of_finite_element_software_packages
+
+	Games
+		Искать
+			Engineering games
+			Free engineering games
+			Games for engineer designer
+			Games for engineer mechanical
+			Игры для инженера
+
+	Python		
+		Искать
+			python для инженера
+			python for engineer
+			python для инженера-конструктора
+			python for design engineer
+			python for mechanical engineer        
+			python модули для инженера-конструктора
+			python modules for design engineer
+			python modules for mechanical engineer
+			
+	Проектирование алюминиевых профилей
+		Искать
+			Софт
+				*Software for creating aluminum profiles
+				*Free software for creating aluminum profiles
+				*Software for aluminum profiles
+				*Free software for aluminum profiles
+				*Software for extrusion aluminum profiles
+				*Free software for extrusion aluminum profiles			
+				*Best software for aluminum profiles
+				*Free best software for aluminum profiles
+				*Software for calculating aluminum profiles
+				*Free software for calculating aluminum profiles
+				*Программное обеспечение для проектирования алюминиевых профилей
+				*Программы для проектирования алюминиевых профилей
+				*Программы для расчета алюминиевых профилей
+			Надстройка
+				alumin
+				aluminum
+				aluminium
+				extrud
+				extrus
+		Фичи
+			Автоматизация проектирования сечений
+			Библиотека сплавов алюминия
+			Физические и механические данные сплавов
+			Прочностной расчет
+			Рекомендации по проектированию
+			Расчет стоимости изготовления матрицы
+		Софт
+			QExDD  # Paid
+				https://www.qform3d.com/products/qexdd
 		
-	Фичи
-		Сохранение кадров
-		Стнадратные элементы (стрелки, знаки и т.д.)
-		Импорт разных форматов
-		
-	Ссылки
-		Советы по оформлению инструкций
-			https://instrktiv.com/en/ikea-manual/
-			https://instrktiv.com/en/user-manual-template/
-			https://www.techsmith.com/blog/user-documentation/
-			https://www.cadcrowd.com/blog/how-to-design-effective-assembly-drawings-for-consumer-products-and-manufacturing-companies/
-			https://www.model-r.ru/vypolnenie-chertezhey/tehnicheskaya-illyustratsiya#chertegnii_vid
-			https://sapr.ru/article/25993
-			https://www.qgc.ru/blog/razrabotka-instruktsiy-po-montazhu-i-ekspluatatsii-na-oborudovanie-i-tekhnicheskie-ustroystva/
-		Обзоры софта
-			https://develop3d.com/cad/guide-technical-publications-software/
-
-	Софт
-		SOLIDWORKS Composer  # Раньше 3DVIA Composer
-			https://www.solidworks.com/product/solidworks-composer
-		3D BUILDING
-			https://buildin3d.com/
-		RAPIDWORKINSTRUCTION
-			https://www.cortona3d.com/en/products/authoring-publishing-solutions/rapidauthor/rapidworkinstruction
-		Cadasio
-			https://www.cadasio.com/
-		Publisher3D
-			http://quadrispace.com/
-		Canvas GFX
-			https://www.canvasgfx.com/
-		CADshare
-			https://cadshare.com/
-		POWERGUIDE
-			https://3dpowerguide.com/rus/
-	
-	
-Кинематика, движение, динамика
-
-	Искать
-		Kinematics software
-		Free kinematics software
-		List kinematics software
-		Software for creating kinematics
-		Best software for creating kinematics
-		Best free software for creating kinematics
-		Kinematics analysis software
-		Motion analysis software
-		Motion analysis software free
-		Motion analysis mechanism software
-		Программы для кинематики
-		Программы по созданию кинематики
-		Бесплатные программы для кинематики
-		Программное обеспечение для кинематики
-		Программное обеспечение для создания кинематики
-		Dynamics software
-		Free dynamics software
-		Best dynamics software
-		Best free dynamics software
-
-	Фичи
-		Эскиз и ограничения
-		Прорисовка пути двжиения точки
-		Построение графика
-		Анимация
-
-	Софт
-		MechDesigner  # Paid
-			https://psmotion.com/
-		Asom  # Paid
-			https://asom.eu/en/
-		Artas  # Paid
-			https://www.artas.nl/en/
-		Nolte-NC-Kurventechnik  #Paid
-			https://nolte-nc-kurventechnik.homepage.t-online.de/en/
-		Lotus  # Paid
-			https://www.lotusengineering.com/engineering-software/
-		FreeDyn	 # Free
-			http://www.freedyn.at/
-		MBDyn  # Free	
-			https://www.mbdyn.org/
-		Kinematics Open Source Projects  # Free
-			https://awesomeopensource.com/projects/kinematics
-		Pyslvs  # Free
-			https://www.linux.org.ru/news/opensource/13989412
-
-
-Для стекла
-	
-	Ссылки
-		https://smart-builder.com/
-		https://www.structuralglass.org/software
-
-
-Simulation, physics
-
-	Искать
-		Software simulation
-		Software simulation list
-		Software simulation kinematics
-		Software simulation dynamics
-		Software physics simulation
-		Software physics engine
-		Software physics engine for engineer
-		Software best physics engine
-		Software physics simulation
-
-	Ссылки
-		https://en.wikipedia.org/wiki/List_of_computer_simulation_software
-			https://en.wikipedia.org/wiki/Algodoo
-			https://en.wikipedia.org/wiki/Project_Chrono
-		https://en.wikipedia.org/wiki/List_of_finite_element_software_packages
-
-
-Games
-
-	Искать
-        Engineering games
-        Free engineering games
-        Games for engineer designer
-        Games for engineer mechanical
-        Игры для инженера
 
 
 Фото, видео
@@ -239,19 +272,6 @@ Games
             https://www.apple.com/final-cut-pro/motion/
         Natron
             https://natrongithub.github.io/
-
-
-Python
-	
-	Искать
-		python для инженера
-		python for engineer
-		python для инженера-конструктора
-		python for design engineer
-		python for mechanical engineer        
-		python модули для инженера-конструктора
-		python modules for design engineer
-		python modules for mechanical engineer
 
 
 Браузеры

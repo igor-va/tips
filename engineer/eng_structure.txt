@@ -87,7 +87,7 @@ Files in the root folder and subfolder
 		03 - Assembly
 		03 - Drawings
 		03 - Milling
-		03 - Painting	
+		03 - Painting
 		03 - Compare
 		03 - Prices
 		03 - Pay
