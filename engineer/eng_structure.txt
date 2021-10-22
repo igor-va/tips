@@ -9,7 +9,7 @@ Files in the root folder and subfolder
 	.pdf  # Various drawings for discussion
 	- wiki.txt  # General technical information about the product or part being developed
 	- strength.txt  # Technical information on strength calculation
-	- tech.xlsx  # Specification, equipment, weight calculation and length
+	- tech.xlsx  # Specification, equipment, weight, length
 	- eng.docx  # Translations from Russian into English
 
 
@@ -142,7 +142,7 @@ Files in the root folder and subfolder
 	05 - Checking
 
 
-Материалы для менеджеров, покупателей, проектировщиков, монтажников и выставок
+Материалы для менеджеров, покупателей, проектировщиков, монтажников, выставок
 	06 - Чемодан
 	06 - Modules
 	06 - Office

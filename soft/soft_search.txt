@@ -76,6 +76,16 @@ Software изучать
 		Форматы 3D файлов
 
 
+Операционные системы
+
+	Софт
+		Linux
+			https://www.linux.org/
+			https://www.kernel.org/
+		Ubuntu
+			https://ubuntu.com/
+
+
 Инженерное
 
 	Оформление инструкций по сборке
@@ -245,7 +255,6 @@ Software изучать
 		Софт
 			QExDD  # Paid
 				https://www.qform3d.com/products/qexdd
-		
 
 
 Фото, видео
