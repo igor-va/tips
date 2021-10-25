@@ -164,13 +164,6 @@
 		https://arlight.su/
 
 
-Монтажники
-	https://galaxiv.ru/
-	https://www.skbekas.ru/
-	https://citiglass.ru/
-	https://www.privateglass.ru/
-
-
 Производства
 	
 	Метал
@@ -184,18 +177,23 @@
 		https://xn--80ahahgebkwp3o.xn--p1ai/
 
 
-Продукция
+Монтажники
+	https://galaxiv.ru/
+	https://www.skbekas.ru/
+	https://citiglass.ru/
+	https://www.privateglass.ru/
 
-	Изучать готовые проекты на разных языках на GrabCad
-		Aluminum profile
-		Shower
-		Hinge
-		Lock
-		Door closer
-		Door hand
-		Canopy
-		Carriage roller
-			
+
+Примеры проектов на разных языках на GrabCad
+	Aluminum profile
+	Shower
+	Hinge
+	Lock
+	Door closer
+	Door hand
+	Canopy
+	Carriage roller
+
 
 Медиабиблиотека
 	

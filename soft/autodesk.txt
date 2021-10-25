@@ -65,12 +65,15 @@ Fusion
 		https://github.com/AutodeskAILab/Fusion360GalleryDataset
 		https://clintbrown.co.uk/
 
-	Изучать
+	Изучать, искать
 		Surface
-		Event Simulation
-		Molding Simulation
+		Simulation
+			Event
+			Molding
+			Structural Buckling
+			Shape Optimizization
 		Generative Design
-		Manufacture 
+		Manufacture
 		Electronic
 		Искать интересные плагины и утилиты
 		Искать готовые и открытые библиотеки
@@ -97,6 +100,7 @@ Fusion
 	Manufacture
 		https://www.autodesk.com/products/fusion-360/blog/machining-fundamentals-toolpaths/
 		https://www.youtube.com/playlist?list=PLmA_xUT-8UlIgb8kWsg3L5OA2I9JxI1gc
+		https://cam.autodesk.com/machineslist
 	
 	Расширения
 		Bommer
@@ -105,6 +109,8 @@ Fusion
 		OpenBOM
 			https://www.openbom.com/
 			https://apps.autodesk.com/FUSION/en/Detail/Index?id=4600054964458767106&appLang=en&os=Win64
+		Xometry
+			https://apps.autodesk.com/FUSION/en/Detail/Index?id=5430166430880711212&appLang=en
 
 	API
 		https://github.com/AutodeskAILab/Fusion360GalleryDataset

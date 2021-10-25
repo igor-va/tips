@@ -1,22 +1,29 @@
-Изучать интересный софт у разных вендоров
-    Autodesk
-    Altair
-    Ansys	
-    Dassault Systemes
-    Altium
-    Adobe
-    Аскон
+Software
+	Искать
+		Best software companies
+	
+	Ссылки
+		https://www.thesoftwarereport.com/the-top-100-software-companies-of-2021/
+		https://www.g2.com/best-software-companies/top-companies
+	
+	Companies
+		Autodesk
+		Altair
+		Ansys	
+		Dassault Systemes
+		Altium
+		Adobe
+		Аскон
 
-
-Software изучать
-	Unigraphics NX
-	Catia
-	Nastran
-	Mathcad
-	Matlab
-	Python
-	PDM
-
+	Изучать
+		Unigraphics NX
+		Catia
+		Nastran
+		Mathcad
+		Matlab
+		Python
+		PDM
+	
 
 Софт
 
