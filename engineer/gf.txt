@@ -155,10 +155,6 @@
 		https://promprof.ru/
 		https://alutech-group.com/
 		
-	Пластик и уплотнители
-		https://standart-prof.ru/
-		https://zaglushka.ru/
-
 	Электроника	и электротехника
 		https://www.digikey.com/
 		https://arlight.su/
@@ -172,6 +168,18 @@
 		https://pcprofiles.ru/
 		https://almazmetall55.ru/
 		
+	Алюминий
+		https://anodzavod.ru/
+		https://iplana.ru/
+		https://alvidprof.ru/
+		https://realit.ru/
+		
+	Уплотнители
+		https://standart-prof.ru/
+
+	Пластик
+		https://zaglushka.ru/
+			
 	Стекло
 		http://steklo-proekt.ru/
 		https://xn--80ahahgebkwp3o.xn--p1ai/
@@ -184,7 +192,7 @@
 	https://www.privateglass.ru/
 
 
-Примеры проектов на разных языках на GrabCad
+Изучать примеры проектов на разных языках на GrabCad
 	Aluminum profile
 	Shower
 	Hinge

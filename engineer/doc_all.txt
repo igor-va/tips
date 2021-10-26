@@ -20,6 +20,7 @@
 	Книги
 		Подборки
 			https://www.aluminas.ru/aluminum/library.php
+			https://aluminium-guide.com/manuals-handbooks-guides/
 		Руководство по проектированию алюминиевого профиля
 			http://www.alum-center.ru/bot/04_support/article/instralprof.pdf
 
@@ -34,10 +35,16 @@
 			https://docs.cntd.ru/document/1200092912
 		СП 128.13330.2012 АЛЮМИНИЕВЫЕ КОНСТРУКЦИИ
 			https://docs.cntd.ru/document/1200092912
+		ЕN 755-9
+			https://emk24.ru/wiki/euronorm_en/en_755_1335551/
+		EN 12020-2
+			https://extrusion.com.ua/en-12020-2/
 
-	Ссылки, сайты, порталы
+	Ссылки, сайты, порталы, хабы, сообщества
 		http://www.alum-center.ru/
 		https://aluminium-guide.com/
+		https://www.aluminas.ru/
+		https://www.european-aluminium.eu/
 
 
 Пластик
