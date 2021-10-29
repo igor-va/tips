@@ -192,15 +192,20 @@
 	https://www.privateglass.ru/
 
 
-Изучать примеры проектов на разных языках на GrabCad
-	Aluminum profile
-	Shower
-	Hinge
-	Lock
-	Door closer
-	Door hand
-	Canopy
-	Carriage roller
+Изучать примеры проектов на разных языках на GrabCad, хабах,
+
+	Существующее
+		Архив защелок и замков EffEff
+		
+	Искать
+		Aluminum profile
+		Shower
+		Hinge
+		Lock
+		Door closer
+		Door hand
+		Canopy
+		Carriage roller
 
 
 Медиабиблиотека

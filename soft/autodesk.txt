@@ -33,7 +33,7 @@ Autodesk University
 
 Autocad 
 
-	Ссылки, блоги, сайты
+	Блоги
 		https://blogs.autodesk.com/autocad/
 
 	Изучать
@@ -51,6 +51,12 @@ Autocad
 		
 	Документация
 		https://help.autodesk.com/view/ACD/2022/RUS/
+		
+	Расширения
+		Искать
+			Моментальное скругление всех углов у замкнутой полилинии на заданный радиус
+		
+		Расширение
 
 
 Fusion
@@ -72,6 +78,8 @@ Fusion
 			Molding
 			Structural Buckling
 			Shape Optimizization
+			Static Stress
+			Nonlinear Static Stress
 		Generative Design
 		Manufacture
 		Electronic
@@ -103,14 +111,19 @@ Fusion
 		https://cam.autodesk.com/machineslist
 	
 	Расширения
-		Bommer
-			https://www.getbommer.com/
-			https://apps.autodesk.com/FUSION/en/Detail/Index?id=5433700426186506446&appLang=en&os=Win64
-		OpenBOM
-			https://www.openbom.com/
-			https://apps.autodesk.com/FUSION/en/Detail/Index?id=4600054964458767106&appLang=en&os=Win64
-		Xometry
-			https://apps.autodesk.com/FUSION/en/Detail/Index?id=5430166430880711212&appLang=en
+		Искать
+			Для алюминиевых профилей
+			Для пластиковых деталей
+		
+		Расширения
+			Bommer
+				https://www.getbommer.com/
+				https://apps.autodesk.com/FUSION/en/Detail/Index?id=5433700426186506446&appLang=en&os=Win64
+			OpenBOM
+				https://www.openbom.com/
+				https://apps.autodesk.com/FUSION/en/Detail/Index?id=4600054964458767106&appLang=en&os=Win64
+			Xometry
+				https://apps.autodesk.com/FUSION/en/Detail/Index?id=5430166430880711212&appLang=en
 
 	API
 		https://github.com/AutodeskAILab/Fusion360GalleryDataset
