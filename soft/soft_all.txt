@@ -27,8 +27,17 @@ SolidWorks
 
 
 SolidWorks Composer
-	https://www.youtube.com/user/SolidWorksComposer/videos
-	https://help.solidworks.com/2021/English/DSSWXComposerDoc/FrontmatterSWXComposer/DSSWXComposerDocHome.htm
+	
+	Ссылки
+		https://www.youtube.com/user/SolidWorksComposer/videos
+		https://help.solidworks.com/2021/English/DSSWXComposerDoc/FrontmatterSWXComposer/DSSWXComposerDocHome.htm
+		
+	Изучать
+		Примеры
+		Выбор формата листа А4
+		Шаблон на все листы
+		Как вставить таблицу
+		Как экспортировать в PDF в хорошем качестве
 	
 
 Ansys

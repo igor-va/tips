@@ -143,7 +143,6 @@ Files in the root folder and subfolder
 
 
 Материалы для менеджеров, покупателей, проектировщиков, монтажников, выставок
-	06 - Чемодан
 	06 - Modules
 	06 - Office
 	06 - Manual
@@ -154,6 +153,7 @@ Files in the root folder and subfolder
 	06 - BIM Objects
 	06 - Certification
 	06 - Паспорт изделия
+	06 - Чемодан
 	06 - Presentation
 	06 - Brochures
 	06 - Catalogs
