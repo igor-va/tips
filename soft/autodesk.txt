@@ -14,10 +14,11 @@
 		https://redshift.autodesk.com/
 		https://www.autodesk.com/blogs
 	
-	Форумы, коммьюнити
+	Форумы, коммьюнити, социальные сети
 		https://knowledge.autodesk.com/
 		https://forums.autodesk.com/
 		https://forums.autodesk.com/t5/russkiy/ct-p/5056
+		https://www.autodesk.com/social-media
 		
 	Туториалы, обучение
 		https://academy.autodesk.com/

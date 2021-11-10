@@ -154,6 +154,7 @@ Files in the root folder and subfolder
 	06 - Certification
 	06 - Паспорт изделия
 	06 - Чемодан
+	06 - Коробочка
 	06 - Presentation
 	06 - Brochures
 	06 - Catalogs
