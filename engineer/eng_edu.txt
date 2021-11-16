@@ -63,6 +63,7 @@
 		Книги
 		Курсы
 		Конференции
+		Выставки
 		
 	Порядок
 		Новости, блоги на официальных сайтах поставщиков продукции
@@ -168,7 +169,7 @@ CAD и 3D библиотеки
 		https://www.3dmodelspace.com/
 
 
-Порталы, базы, хабы, библиотеки материалов
+Порталы, базы, хабы
 
 	Искать
 		CAD materials library
@@ -211,6 +212,7 @@ CAD и 3D библиотеки
 			FEA
 			Prothesis
 			Die Casting
+			Резьбовые соединения
 		Ссылки
 			https://www.autodesk.com/products/fusion-360/blog/5-books-every-engineer-should-read/
 
