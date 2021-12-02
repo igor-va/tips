@@ -14,6 +14,8 @@
 		https://drive.google.com/drive/folders/1tFkymRmB0-1qWirF_sFSwhd3TKNHvpol
 		https://drive.google.com/drive/folders/1wIJYBciCZSuZTpaWAZomCmsxxNcV4E0k
 		http://www.stanleyglass.com/
+		https://www.youtube.com/channel/UCdH6l2LUjhYhGEiR__fs2gw/featured
+		https://www.youtube.com/channel/UCCqmtTLa7zSGCPtO0tIYXIQ
 	
 	Sadev
 		https://www.sadev.com/
@@ -190,6 +192,16 @@
 	https://www.skbekas.ru/
 	https://citiglass.ru/
 	https://www.privateglass.ru/
+
+
+3D печать
+	https://www.cubicprints.ru/
+
+
+Расчетчики
+
+	КБ 2.0
+		https://kb20.ru/
 
 
 Изучать примеры проектов на разных языках на GrabCad, хабах

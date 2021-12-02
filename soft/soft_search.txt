@@ -14,6 +14,7 @@ Software
 		Altium
 		Adobe
 		Аскон
+		QForm
 
 	Изучать
 		Unigraphics NX
@@ -189,7 +190,7 @@ Software
 			Pyslvs  # Free
 				https://www.linux.org.ru/news/opensource/13989412
 
-	Для стекла		
+	Стекло	
 		Ссылки
 			https://smart-builder.com/
 			https://www.structuralglass.org/software
@@ -230,7 +231,7 @@ Software
 			python modules for design engineer
 			python modules for mechanical engineer
 			
-	Проектирование алюминиевых профилей
+	Алюминиевые профили
 		Искать
 			Софт
 				*Software for creating aluminum profiles

@@ -49,21 +49,33 @@
 		Командная работа
 		Управление временем
 		Любознательность и самообразование
-	
+
 
 Обучение
 
 	Ресурсы
 		Ютуб
+		Хабы, базы, порталы, калькуляторы
 		Блоги
-		Сайты
 		Новости
 		Форумы
-		Документация
+		3D библиотеки
+		Документация	
 		Книги
 		Курсы
 		Конференции
 		Выставки
+		
+	Знания
+		Софт
+		Навыки
+		Инструменты, гаджеты
+		Теория
+		Нормы, правила, сертификация
+		Методы проектирования
+		Методы производства
+		Примеры проектов
+		Интересные компании, проекты, производства
 		
 	Порядок
 		Новости, блоги на официальных сайтах поставщиков продукции
@@ -81,6 +93,95 @@
 		Чтение книг, документаций:
 
 
+Ютуб
+
+	Interesting Engineering
+		https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ/feed
+	How It’s Made
+		https://www.youtube.com/channel/UCELt4nocnWDEnYJmov4zqyA/videos
+	Engineering Explained
+		https://www.youtube.com/user/EngineeringExplained/videos?view=0&sort=da&flow=grid
+
+
+Хабы, базы, порталы, калькуляторы, производства, 
+
+	Искать
+		*CAD materials library
+		CAD библиотека материалов
+		Useful websites for CAD engineer
+		Полезные сайты для CAD инженера
+		Useful websites for CAD designer engineer
+		Полезны сайты для CAD инженера-конструктора
+		Useful resources for designer engineer
+		Полезные ресурсы для инженера-конструктора
+		Useful resources for CAD engineer
+		Полезные ресурсы для CAD инженера
+		Useful hubs for CAD engineer		
+		Полезные хабы для CAD инженера
+		Useful hubs for CAD designer engineer
+		Полезные хабы для CAD инженера-конструктора
+		Useful portals for CAD engineer
+		Полезные порталы для CAD инженера
+		Useful portals for CAD designer engineer
+		Полезные порталы для CAD инженера-конструктора
+		
+	Подборки
+		https://fractory.com/best-websites-for-mechanical-engineers/
+
+	Ссылки
+		http://matweb.com/
+		https://www.engineeringtoolbox.com/
+		https://www.engineersedge.com/
+		
+		https://mechanicalc.com/
+		https://magicdpd.ru/
+		https://www.nafems.org/
+		https://www.invent.org/
+		https://www.instructables.com/
+		https://hackaday.io/
+		https://fractory.com/
+		https://formlab.ru/
+		https://www.asme.org/
+		https://imechanica.org/
+		https://www.pointcad.ru/
+
+
+Блоги
+
+	Искать
+		CAD blog
+		CAD блог
+		CAE blog
+		CAE блог
+		Simulation engineers blog
+		Simulation инженерные расчеты блог
+		
+	Подборки
+		https://blog.feedspot.com/cad_blogs/
+		
+	Ссылки
+		https://www.autodesk.com/products/fusion-360/blog/
+		https://fractory.com/engineering-blog/
+
+
+Новости
+
+	Искать
+		CAD news
+		CAD новости
+		CAE news
+		CAE новости
+		CAD software news
+		CAD software новости
+		CAE software news
+		CAE software новости
+	
+	Ссылки
+		http://isicad.ru/ru/
+		https://www.engineering.com/home
+		https://interestingengineering.com/
+
+
 Форумы
 
 	Искать
@@ -96,42 +197,7 @@
 		https://cccp3d.ru/
 
 
-Блоги, новости, сайты
-
-	Искать
-        CAD blog
-        CAE blog
-        Simulation engineers blog
-        CAD news
-        CAE news
-        CAD software news
-        CAE software news
-        Useful websites for designer engineer
-        Useful resources for designer engineer
-        Useful websites for CAD engineer
-        Useful resources for CAD engineer
-		
-	Ссылки
-		https://formlab.ru/
-		https://mechanicalc.com/
-		http://isicad.ru/ru/
-		https://www.engineering.com/home
-		https://www.pointcad.ru/
-		https://interestingengineering.com/
-		https://magicdpd.ru/
-		https://www.nafems.org/
-		https://www.invent.org/
-		https://www.instructables.com/
-		https://www.skyscrapercity.com/
-		https://hackaday.io/
-
-
-CAD и 3D библиотеки
-
-	Изучение
-		Какие есть сайты
-		Изучать поставщиков
-		Изучать комплектующие
+3D библиотеки
 		
 	Искать
 		CAD библиотеки
@@ -148,14 +214,14 @@ CAD и 3D библиотеки
 	Ссылки
 		https://grabcad.com/
 		https://www.mcmaster.com/
+		https://www.traceparts.com/en
+		https://partsolutions.com/
+		https://b2b.partcommunity.com/community/
+		https://www.bimobject.com/en/
 		https://www.cadforum.cz/en/
 		https://cad-blocks.net/
 		http://www.fastrackcad.com/
 		https://www.caddetails.com/
-		https://www.bimobject.com/en/
-		https://www.traceparts.com/en
-		https://partsolutions.com/
-		https://b2b.partcommunity.com/community/
 		https://www.caddetails.com/
 		https://nasa3d.arc.nasa.gov/
 		https://www.3dfindit.com/
@@ -167,42 +233,7 @@ CAD и 3D библиотеки
 		https://library.io/
 		https://cadlab.io/
 		https://www.3dmodelspace.com/
-
-
-Порталы, базы, хабы
-
-	Искать
-		CAD materials library
-		Полезные сайты для CAD инженера
-		Полезные сайты для CAD инженера-конструктора
-		Полезные ресурсы для CAD инженера
-		Полезные ресурсы для CAD инженера-конструктора
-		Полезные хабы для CAD инженера
-		Полезные хабы для CAD инженера-конструктора
-		Полезные порталы для CAD инженера
-		Полезные порталы для CAD инженера-конструктора
-
-	Ссылки
-		http://matweb.com/
-
-
-Навыки
-
-	Искать
-		Skills Required of a Mechanical Engineer
-		Skills Required of a Designer Engineer
-		Навыки для инженера-конструктора
-		Навыки для инженера-механика
-
-
-Инструменты, гаджеты
-
-	Искать
-		Useful Gadgets for Mechanical Engineers
-		Tools for the design engineer
-		Инструменты для инженера-конструктора
-		Инструменты для инженера-механика
-		Полезные инструменты для инженера-механика
+		https://www.3dcontentcentral.com/
 
 
 Книги
@@ -214,6 +245,7 @@ CAD и 3D библиотеки
 			Die Casting
 			Резьбовые соединения
 		Ссылки
+			https://bookboon.com/
 			https://www.autodesk.com/products/fusion-360/blog/5-books-every-engineer-should-read/
 
 	Потребительская техника
@@ -244,54 +276,15 @@ CAD и 3D библиотеки
 		Ссылки
 
 
-Теория
+Курсы
 
-	Сопромат
-		https://studwood.ru/1676782/matematika_himiya_fizika/diagrammy_rastyazheniya_szhatiya				
-
-
-Онлайн образование
-
-    Искать
+	Искать
 		Courses for CAD Engineer Mechanical
 		Courses for CAE Engineer Mechanical
 		Courses for CAD Engineer Design
 		Courses for CAE Engineer Design
-    
-    Ссылки
-
-
-Нормы, правила, сертификация
-	ГОСТ
-	СП
-	ЕСКД
-	ЕСТД
-	ISO
-	EN
-
-
-Методы проектирования
-
-	Reverse Engineering
-		https://www.autodesk.com/products/fusion-360/blog/how-reverse-engineering-can-aid-the-design-process/
-
-
-Методы производства
-	Sand casting
-	Investment casting
-	Injection molding
-	CNC machining
-	Welding
-	Additive manufacturing
-	Sheet metal
-	Закаленное стекло
-	Литье пластика
-	Литье металла
-	Литье в песчанные формы
-	Экструзия алюминиевых профилей
-	Экструзия уплотнительных профилей
-	Экструзия пластиковых профилей
-	3D печать
+	
+	Ссылки
 
 
 Конференции, выставки
@@ -307,53 +300,108 @@ CAD и 3D библиотеки
 			https://www.autodesk.com/autodesk-university/
 
 
-Примеры проектов
-
-	Готовые проекты и примеры с разных порталов
-		GrabCad
-		Autodesk Gallery
-
-	Готовые проекты на разных языках на GrabCad
-		Prosthesis
-		Lego Bionicle
-		Puzzle 3d
 
 
-Интересные компании, проекты, производства
+Знания
 
-	Искать
-	
-	Производства
-		https://www.xometry.com/
-	
-	Ссылки
-		https://vyrus.it/
-		https://layershift.xyz/
-		https://www.lifefuelsplus.com/
-		https://www.tarform.com/
-		https://www.kickstarter.com/projects/restorationgames/return-to-dark-tower
-		https://newlab.com/
-		https://www.optimusride.com/
-		https://covid19vent.com/
-		https://shop.nack.is/
-		https://www.seamtechnic.com/
-		https://www.pirani.life/
-		https://www.modbot.com/
-		https://www.gowesty.com/
-		https://www.beamlink.io/
-		https://noiseengineering.us/
-		https://vorticwatches.com/
-		https://www.haascnc.com/
-		https://pembree.com/
-		https://www.fuseproject.com/
-		https://www.beneteau-group.com/en/
-		https://www.nyccnc.com/
-		https://www.spee3d.com/
-		http://www.garage221.com/
-		https://www.3ditaly.it/
-		https://formlabs.com/
-		https://www.conturoprototyping.com/
-		https://www.starlingcycles.com/
-		https://www.vertiball.com/
-		https://macrofab.com/
-		https://xlam.co.za/
+	Навыки
+
+		Искать
+			Skills Required of a Mechanical Engineer
+			Skills Required of a Designer Engineer
+			Навыки для инженера-конструктора
+			Навыки для инженера-механика
+
+	Инструменты, гаджеты
+
+		Искать
+			Useful Gadgets for Mechanical Engineers
+			Tools for the design engineer
+			Инструменты для инженера-конструктора
+			Инструменты для инженера-механика
+			Полезные инструменты для инженера-механика
+
+	Теория
+
+		Сопромат
+			https://studwood.ru/1676782/matematika_himiya_fizika/diagrammy_rastyazheniya_szhatiya				
+
+	Нормы, правила, сертификация
+		ГОСТ
+		СП
+		ЕСКД
+		ЕСТД
+		ISO
+		EN
+
+	Методы проектирования
+
+		Reverse Engineering
+			https://www.autodesk.com/products/fusion-360/blog/how-reverse-engineering-can-aid-the-design-process/
+
+	Методы производства
+		Sand casting
+		Investment casting
+		Injection molding
+		CNC machining
+		Welding
+		Additive manufacturing
+		Sheet metal
+		Закаленное стекло
+		Литье пластика
+		Литье металла
+		Литье в песчанные формы
+		Экструзия алюминиевых профилей
+		Экструзия уплотнительных профилей
+		Экструзия пластиковых профилей
+		3D печать
+
+	Примеры проектов
+
+		Готовые проекты и примеры с разных порталов
+			GrabCad
+			Autodesk Gallery
+
+		Готовые проекты на разных языках на GrabCad
+			Prosthesis
+			Lego Bionicle
+			Puzzle 3d
+
+	Интересные компании, проекты, производства
+
+		Искать
+		
+		Производства
+			https://www.xometry.com/
+		
+		Ссылки
+			https://vyrus.it/
+			https://layershift.xyz/
+			https://www.lifefuelsplus.com/
+			https://www.tarform.com/
+			https://www.kickstarter.com/projects/restorationgames/return-to-dark-tower
+			https://newlab.com/
+			https://www.optimusride.com/
+			https://covid19vent.com/
+			https://shop.nack.is/
+			https://www.seamtechnic.com/
+			https://www.pirani.life/
+			https://www.modbot.com/
+			https://www.gowesty.com/
+			https://www.beamlink.io/
+			https://noiseengineering.us/
+			https://vorticwatches.com/
+			https://www.haascnc.com/
+			https://pembree.com/
+			https://www.fuseproject.com/
+			https://www.beneteau-group.com/en/
+			https://www.nyccnc.com/
+			https://www.spee3d.com/
+			http://www.garage221.com/
+			https://www.3ditaly.it/
+			https://formlabs.com/
+			https://www.conturoprototyping.com/
+			https://www.starlingcycles.com/
+			https://www.vertiball.com/
+			https://macrofab.com/
+			https://xlam.co.za/

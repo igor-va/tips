@@ -52,5 +52,9 @@
         https://academy.autodesk.com/
         https://gb.ru/
 		https://teachmepcb.com/
+		https://learnmech.com/
+		https://ocw.mit.edu/
+		http://www.edx.org/
+
 
 
