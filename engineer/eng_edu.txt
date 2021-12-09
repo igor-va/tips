@@ -1,56 +1,3 @@
-Знания и навыки хорошего инженера-конструктора для хорошего проектирования
-	Знание теории
-		Теория прочности
-		Теория упругости
-	Практические знания
-		Понимание как применять теорию на практике
-		Опыт и широкий кругозор
-	Использование современного ПО
-		Современное ПО и софт
-		Специализированные плагины и утилиты
-		Понимание применимости инструментов, их возможности и ограничения
-	Использование полезных гаджетов
-		Штангенциркуль
-		Электронные современные гаджеты
-	Знание технических норм, правил, документаций
-		Отраслевые стандарты
-		ГОСТ
-		СП
-		СНиП
-		ЕСКД
-		DIN
-		ISO
-		EN
-	Знание продукта
-		Знание продукции фирмы
-		Знание рынка, продукции конкурентов
-		Устройство и детализация продукта
-		Знание стандартных библиотек
-	Организация проекта
-		Принципы и правила конструирования
-		Правильная структура и организация проекта
-		Понимание полного цикла проектирования и изготовления продукта от идеи до продажи клиенту, эксплуатации и утилизации
-	Знание производственных процессов изготовления деталей и сборок изделий
-		Sand casting
-		Investment casting
-		Injection molding
-		CNC machining
-		Welding
-		Additive manufacturing
-		Sheet metal
-	Знание актуальной информации
-		Актуальные новости рынка
-		Передовые идеи и технологии на текущий день
-		Перспективные идеи и технологии на завтрашний день
-	Софт скиллы
-		Креативность
-		Коммуникация
-		Навык письма
-		Командная работа
-		Управление временем
-		Любознательность и самообразование
-
-
 Обучение
 
 	Ресурсы
@@ -60,22 +7,13 @@
 		Новости
 		Форумы
 		3D библиотеки
-		Документация	
+		Документация
 		Книги
 		Курсы
-		Конференции
+		Конференции, выставки
 		Выставки
-		
-	Знания
-		Софт
-		Навыки
-		Инструменты, гаджеты
-		Теория
-		Нормы, правила, сертификация
-		Методы проектирования
-		Методы производства
-		Примеры проектов
-		Интересные компании, проекты, производства
+        Примеры проектов
+        Интересные компании, проекты, производства
 		
 	Порядок
 		Новости, блоги на официальных сайтах поставщиков продукции
@@ -236,6 +174,10 @@
 		https://www.3dcontentcentral.com/
 
 
+Документация
+    Искать
+
+
 Книги
 
 	Общее
@@ -300,108 +242,54 @@
 			https://www.autodesk.com/autodesk-university/
 
 
+Примеры проектов
+
+    Готовые проекты и примеры с разных порталов
+        GrabCad
+        Autodesk Gallery
+
+    Готовые проекты на разных языках на GrabCad
+        Prosthesis
+        Lego Bionicle
+        Puzzle 3d
 
 
-Знания
+Интересные компании, проекты, производства
 
-	Навыки
+    Искать
+    
+    Производства
+        https://www.xometry.com/
+    
+    Ссылки
+        https://vyrus.it/
+        https://layershift.xyz/
+        https://www.lifefuelsplus.com/
+        https://www.tarform.com/
+        https://www.kickstarter.com/projects/restorationgames/return-to-dark-tower
+        https://newlab.com/
+        https://www.optimusride.com/
+        https://covid19vent.com/
+        https://shop.nack.is/
+        https://www.seamtechnic.com/
+        https://www.pirani.life/
+        https://www.modbot.com/
+        https://www.gowesty.com/
+        https://www.beamlink.io/
+        https://noiseengineering.us/
+        https://vorticwatches.com/
+        https://www.haascnc.com/
+        https://pembree.com/
+        https://www.fuseproject.com/
+        https://www.beneteau-group.com/en/
+        https://www.nyccnc.com/
+        https://www.spee3d.com/
+        http://www.garage221.com/
+        https://www.3ditaly.it/
+        https://formlabs.com/
+        https://www.conturoprototyping.com/
+        https://www.starlingcycles.com/
+        https://www.vertiball.com/
+        https://macrofab.com/
+        https://xlam.co.za/
 
-		Искать
-			Skills Required of a Mechanical Engineer
-			Skills Required of a Designer Engineer
-			Навыки для инженера-конструктора
-			Навыки для инженера-механика
-
-	Инструменты, гаджеты
-
-		Искать
-			Useful Gadgets for Mechanical Engineers
-			Tools for the design engineer
-			Инструменты для инженера-конструктора
-			Инструменты для инженера-механика
-			Полезные инструменты для инженера-механика
-
-	Теория
-
-		Сопромат
-			https://studwood.ru/1676782/matematika_himiya_fizika/diagrammy_rastyazheniya_szhatiya				
-
-	Нормы, правила, сертификация
-		ГОСТ
-		СП
-		ЕСКД
-		ЕСТД
-		ISO
-		EN
-
-	Методы проектирования
-
-		Reverse Engineering
-			https://www.autodesk.com/products/fusion-360/blog/how-reverse-engineering-can-aid-the-design-process/
-
-	Методы производства
-		Sand casting
-		Investment casting
-		Injection molding
-		CNC machining
-		Welding
-		Additive manufacturing
-		Sheet metal
-		Закаленное стекло
-		Литье пластика
-		Литье металла
-		Литье в песчанные формы
-		Экструзия алюминиевых профилей
-		Экструзия уплотнительных профилей
-		Экструзия пластиковых профилей
-		3D печать
-
-	Примеры проектов
-
-		Готовые проекты и примеры с разных порталов
-			GrabCad
-			Autodesk Gallery
-
-		Готовые проекты на разных языках на GrabCad
-			Prosthesis
-			Lego Bionicle
-			Puzzle 3d
-
-	Интересные компании, проекты, производства
-
-		Искать
-		
-		Производства
-			https://www.xometry.com/
-		
-		Ссылки
-			https://vyrus.it/
-			https://layershift.xyz/
-			https://www.lifefuelsplus.com/
-			https://www.tarform.com/
-			https://www.kickstarter.com/projects/restorationgames/return-to-dark-tower
-			https://newlab.com/
-			https://www.optimusride.com/
-			https://covid19vent.com/
-			https://shop.nack.is/
-			https://www.seamtechnic.com/
-			https://www.pirani.life/
-			https://www.modbot.com/
-			https://www.gowesty.com/
-			https://www.beamlink.io/
-			https://noiseengineering.us/
-			https://vorticwatches.com/
-			https://www.haascnc.com/
-			https://pembree.com/
-			https://www.fuseproject.com/
-			https://www.beneteau-group.com/en/
-			https://www.nyccnc.com/
-			https://www.spee3d.com/
-			http://www.garage221.com/
-			https://www.3ditaly.it/
-			https://formlabs.com/
-			https://www.conturoprototyping.com/
-			https://www.starlingcycles.com/
-			https://www.vertiball.com/
-			https://macrofab.com/
-			https://xlam.co.za/
