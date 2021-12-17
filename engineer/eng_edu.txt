@@ -13,7 +13,7 @@
 		Конференции, выставки
 		Выставки
         Примеры проектов
-        Интересные компании, проекты, производства
+        Компании, проекты, производства
 		
 	Порядок
 		Новости, блоги на официальных сайтах поставщиков продукции
@@ -33,15 +33,19 @@
 
 Ютуб
 
+	Fusion 360
+		https://www.youtube.com/c/AutodeskFusion360/videos
 	Interesting Engineering
 		https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ/feed
 	How It’s Made
 		https://www.youtube.com/channel/UCELt4nocnWDEnYJmov4zqyA/videos
 	Engineering Explained
 		https://www.youtube.com/user/EngineeringExplained/videos?view=0&sort=da&flow=grid
+	만드는사람 [MANDLER]
+		https://www.youtube.com/channel/UCiYtB2kLBTcnvODuzAB0_WQ/videos
 
 
-Хабы, базы, порталы, калькуляторы, производства, 
+Хабы, базы, порталы, калькуляторы
 
 	Искать
 		*CAD materials library
@@ -254,14 +258,31 @@
         Puzzle 3d
 
 
-Интересные компании, проекты, производства
+Компании, проекты, производства, фонды
 
     Искать
     
+	Производители оборудования
+		Formlabs
+			https://formlabs.com/
+		Haas
+			https://www.haascnc.com/
+		Mayku 
+			https://www.mayku.me/
+
     Производства
-        https://www.xometry.com/
+		Xometry
+			https://www.xometry.com/
     
-    Ссылки
+    Проекты
+		Tocabi
+			http://dyros.snu.ac.kr/avatar-xprize/tech/
+	
+	Фонды
+		XPRIZE
+			https://www.xprize.org/
+	
+	Ссылки
         https://vyrus.it/
         https://layershift.xyz/
         https://www.lifefuelsplus.com/
@@ -278,7 +299,6 @@
         https://www.beamlink.io/
         https://noiseengineering.us/
         https://vorticwatches.com/
-        https://www.haascnc.com/
         https://pembree.com/
         https://www.fuseproject.com/
         https://www.beneteau-group.com/en/
@@ -286,7 +306,6 @@
         https://www.spee3d.com/
         http://www.garage221.com/
         https://www.3ditaly.it/
-        https://formlabs.com/
         https://www.conturoprototyping.com/
         https://www.starlingcycles.com/
         https://www.vertiball.com/
