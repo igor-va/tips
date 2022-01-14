@@ -151,6 +151,7 @@
 		https://1001krep.ru/
 		https://metizi.com/
 		https://www.cki-com.ru/
+		https://smetiz.ru/
 
 	Профили алюминиевые
 		https://www.rsi-llc.ru/
@@ -175,6 +176,7 @@
 		https://iplana.ru/
 		https://alvidprof.ru/
 		https://realit.ru/
+		https://petrokon-spb.ru/
 		
 	Уплотнители
 		https://standart-prof.ru/

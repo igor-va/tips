@@ -22,6 +22,9 @@
 		
 	Туториалы, обучение
 		https://academy.autodesk.com/
+		
+	Разное
+		https://knowledge.autodesk.com/community/screencast
 
 
 Autodesk University

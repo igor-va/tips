@@ -2,8 +2,8 @@
 
 	Ресурсы
 		Ютуб
-		Хабы, базы, порталы, калькуляторы
 		Блоги
+		Хабы, базы, порталы, калькуляторы
 		Новости
 		Форумы
 		3D библиотеки
@@ -43,6 +43,25 @@
 		https://www.youtube.com/user/EngineeringExplained/videos?view=0&sort=da&flow=grid
 	만드는사람 [MANDLER]
 		https://www.youtube.com/channel/UCiYtB2kLBTcnvODuzAB0_WQ/videos
+
+
+Блоги
+
+	Искать
+		CAD blog
+		CAD блог
+		CAE blog
+		CAE блог
+		Simulation engineers blog
+		Simulation инженерные расчеты блог
+		
+	Подборки
+		https://blog.feedspot.com/cad_blogs/
+		
+	Ссылки
+		https://www.autodesk.com/products/fusion-360/blog/
+		https://fractory.com/engineering-blog/
+		https://blog.grabcad.com/
 
 
 Хабы, базы, порталы, калькуляторы
@@ -86,24 +105,6 @@
 		https://www.asme.org/
 		https://imechanica.org/
 		https://www.pointcad.ru/
-
-
-Блоги
-
-	Искать
-		CAD blog
-		CAD блог
-		CAE blog
-		CAE блог
-		Simulation engineers blog
-		Simulation инженерные расчеты блог
-		
-	Подборки
-		https://blog.feedspot.com/cad_blogs/
-		
-	Ссылки
-		https://www.autodesk.com/products/fusion-360/blog/
-		https://fractory.com/engineering-blog/
 
 
 Новости
@@ -262,13 +263,15 @@
 
     Искать
     
-	Производители оборудования
+	Производители техники, оборудования
 		Formlabs
 			https://formlabs.com/
 		Haas
 			https://www.haascnc.com/
 		Mayku 
 			https://www.mayku.me/
+		3Dconnexion
+			https://3dconnexion.com/us/
 
     Производства
 		Xometry
@@ -277,6 +280,8 @@
     Проекты
 		Tocabi
 			http://dyros.snu.ac.kr/avatar-xprize/tech/
+		PIX Moving
+			https://www.pixmoving.com/
 	
 	Фонды
 		XPRIZE
@@ -311,4 +316,3 @@
         https://www.vertiball.com/
         https://macrofab.com/
         https://xlam.co.za/
-

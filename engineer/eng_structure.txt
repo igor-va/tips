@@ -24,16 +24,17 @@ Files in the root folder and subfolder
 
 Названия разрабатываемых деталей во фьюжн
 	Detail Name  # Крышка торцевая
-	Кондуктор опорный - Деталь
-	Кондуктор опорный - Сборка
+	Detail Name Ver1  # Крышка торцевая Ver1
+	Assembly  # Сборка
+	Assembly Ver1  # Сборка Ver1
 
 
 Исходные данные
 	01 - Analogs
 		01 - Name Production
-		02 - BimObject
 		02 - GrabCad
-		02 - McMaster
+		03 - BimObject
+		04 - McMaster
 	01 - Archive
 	01 - Source (Date)
 	01 - Source (Name)
@@ -106,6 +107,8 @@ Files in the root folder and subfolder
 		06 - Manual Video
 		06 - Library
 		06 - Images
+		
+		07 - Error
 
 
 Проектные файлы 2
@@ -159,6 +162,7 @@ Files in the root folder and subfolder
 	06 - Presentation
 	06 - Brochures
 	06 - Catalogs
+	06 - Pricelists
 	06 - Design
 	06 - Media
 	06 - Images
