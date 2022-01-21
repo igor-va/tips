@@ -14,6 +14,8 @@ Files in the root folder and subfolder
 
 
 Названия разрабатываемых деталей на сервере
+	Detail Name v? - Type  # Профиль Крышка v2 - Сечение
+	Project Name - Detail Name v? - Type  # Профиль зажимной - Профиль Крышка v2 - Сечение
 	Project Name - Date  # Поручень LED - 2021.05.05
 	Project Name v? - Date  # Поручень LED v2 - 2021.05.05
 	Project Name - Detail Name - Date  # Поручень LED - Крышка торцевая - 2021.05.05

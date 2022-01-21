@@ -105,6 +105,7 @@
 		https://www.asme.org/
 		https://imechanica.org/
 		https://www.pointcad.ru/
+		https://learn.adafruit.com/
 
 
 Новости
