@@ -3,17 +3,16 @@
 	Ресурсы
 		Ютуб
 		Блоги
-		Хабы, базы, порталы, калькуляторы
 		Новости
+		Хабы, базы, порталы, калькуляторы
 		Форумы
 		3D библиотеки
 		Документация
 		Книги
 		Курсы
 		Конференции, выставки
-		Выставки
         Примеры проектов
-        Компании, проекты, производства
+        Компании, проекты, производства, фонды
 		
 	Порядок
 		Новости, блоги на официальных сайтах поставщиков продукции
@@ -62,6 +61,25 @@
 		https://www.autodesk.com/products/fusion-360/blog/
 		https://fractory.com/engineering-blog/
 		https://blog.grabcad.com/
+		https://sourceforge.net/blog/
+
+
+Новости
+
+	Искать
+		CAD news
+		CAD новости
+		CAE news
+		CAE новости
+		CAD software news
+		CAD software новости
+		CAE software news
+		CAE software новости
+	
+	Ссылки
+		http://isicad.ru/ru/
+		https://www.engineering.com/home
+		https://interestingengineering.com/
 
 
 Хабы, базы, порталы, калькуляторы
@@ -69,7 +87,7 @@
 	Искать
 		*CAD materials library
 		CAD библиотека материалов
-		Useful websites for CAD engineer
+		*Useful websites for CAD engineer
 		Полезные сайты для CAD инженера
 		Useful websites for CAD designer engineer
 		Полезны сайты для CAD инженера-конструктора
@@ -108,24 +126,6 @@
 		https://learn.adafruit.com/
 
 
-Новости
-
-	Искать
-		CAD news
-		CAD новости
-		CAE news
-		CAE новости
-		CAD software news
-		CAD software новости
-		CAE software news
-		CAE software новости
-	
-	Ссылки
-		http://isicad.ru/ru/
-		https://www.engineering.com/home
-		https://interestingengineering.com/
-
-
 Форумы
 
 	Искать
@@ -144,11 +144,12 @@
 3D библиотеки
 		
 	Искать
-		CAD библиотеки
 		CAD library
-		3D библиотека
+		CAD библиотеки
 		3D library
-		CAD Blocks
+		3D библиотека
+		CAD blocks
+		CAD блоки
 		Лучшие CAD библиотеки
 		Best CAD Libraries
 		
@@ -158,14 +159,14 @@
 	Ссылки
 		https://grabcad.com/
 		https://www.mcmaster.com/
-		https://www.traceparts.com/en
 		https://partsolutions.com/
 		https://b2b.partcommunity.com/community/
+		https://www.traceparts.com/en
 		https://www.bimobject.com/en/
+
 		https://www.cadforum.cz/en/
 		https://cad-blocks.net/
 		http://www.fastrackcad.com/
-		https://www.caddetails.com/
 		https://www.caddetails.com/
 		https://nasa3d.arc.nasa.gov/
 		https://www.3dfindit.com/
@@ -258,11 +259,10 @@
         Prosthesis
         Lego Bionicle
         Puzzle 3d
+		Robot vacuum cleaner
 
 
 Компании, проекты, производства, фонды
-
-    Искать
     
 	Производители техники, оборудования
 		Formlabs
@@ -283,6 +283,12 @@
 			http://dyros.snu.ac.kr/avatar-xprize/tech/
 		PIX Moving
 			https://www.pixmoving.com/
+		KUHMUTE
+			https://www.kuhmute.com/
+		Kevin Baslé
+			https://www.ksblutherie.com/
+		Partial Hand Solutions
+			https://partialhandsolutions.com/
 	
 	Фонды
 		XPRIZE

@@ -114,12 +114,19 @@
 	Schueco
 		https://www.schueco.com/ru/
 		https://www.schueco.com/us/
-		
+
 	Tesa
 		https://tesa.ru/
-		
+
 	Cakir
 		https://www.cakiraluminyum.com/eng/
+		
+	SteelPro
+		https://www.steelpro.fi/en/
+
+	ERS
+		https://www.erssystem.com/
+		https://www.eryapimetal.com.tr/
 
 
 Конкуренты
@@ -198,6 +205,7 @@
 
 3D печать
 	https://www.cubicprints.ru/
+	https://3dmastery.ru/
 
 
 Расчетчики
@@ -206,7 +214,11 @@
 		https://kb20.ru/
 
 
-Изучать примеры проектов на разных языках на GrabCad, хабах
+Примеры проектов на разных хабах
+
+	Хабы
+		GrabCad
+		McMaster
 
 	Существующее
 		Архив защелок и замков EffEff
@@ -220,6 +232,7 @@
 		Door hand
 		Canopy
 		Carriage roller
+		Antipanic
 
 
 Медиабиблиотека

@@ -26,10 +26,7 @@
 	Разное
 		https://knowledge.autodesk.com/community/screencast
 
-
-Autodesk University
-
-	Ссылки
+	Autodesk University
 		https://www.autodesk.com/autodesk-university/
 		https://www.autodesk.com/autodesk-university/au-online?
 		https://events-platform.autodesk.com/event/autodesk-university-2021
@@ -75,7 +72,7 @@ Fusion
 		https://github.com/AutodeskAILab/Fusion360GalleryDataset
 		https://clintbrown.co.uk/
 
-	Изучать, искать
+	Изучать
 		Surface
 		Simulation
 			Event
@@ -85,7 +82,7 @@ Fusion
 			Static Stress
 			Nonlinear Static Stress
 		Generative Design
-		Manufacture
+		Manufacture CAM
 		Electronic
 		Искать интересные плагины и утилиты
 		Искать готовые и открытые библиотеки
@@ -109,10 +106,11 @@ Fusion
 	Туториалы
 		https://help.autodesk.com/view/fusion360/ENU/courses/
 
-	Manufacture
+	Manufacture CAM
 		https://www.autodesk.com/products/fusion-360/blog/machining-fundamentals-toolpaths/
 		https://www.youtube.com/playlist?list=PLmA_xUT-8UlIgb8kWsg3L5OA2I9JxI1gc
 		https://cam.autodesk.com/machineslist
+		https://cam.autodesk.com/hsmtools
 	
 	Расширения
 		Искать
@@ -146,15 +144,15 @@ Inventor
 	
 	Документация
 		https://help.autodesk.com/view/INVNTOR/2022/RUS/
-	
-
-Revit
 
 
 Vault 
 
 
 Forge 
+
+
+Netfabb 
 
 
 Autocad Mechanical
@@ -178,6 +176,12 @@ Moldflow
 
 
 Maya
+
+
+Revit
+
+
+Alias
 
 
 Dynamo

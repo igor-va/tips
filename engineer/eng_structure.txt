@@ -61,10 +61,12 @@ Files in the root folder and subfolder
 	02 - Tube
 	02 - Plastic Insert
 	02 - Plate
-	02 - Seal
-	02 - Metal
+	02 - Seals
+	02 - Brushes
+	02 - Floor guide
 	02 - Fasteners
-	02 - Screw
+	02 - Screws
+	02 - Metal
 	02 - Panels
 	02 - Accessories
 	02 - Alternative
@@ -111,11 +113,14 @@ Files in the root folder and subfolder
 		06 - Images
 		
 		07 - Error
+		07 - Claim
 
 
 Проектные файлы 2
 	03 - Assembly
 	03 - Drawings
+	03 - Milling
+	03 - Painting
 	03 - Compare
 	03 - Prices
 	03 - Pay
@@ -125,7 +130,7 @@ Files in the root folder and subfolder
 	03 - Manufacture Response
 
 
-Проверка прочности, симуляция, кинематика, анализ
+Анализ, проверка прочности, симуляция, кинематика
 	04 - Kinematics
 	04 - Strength
 	04 - Simulation
@@ -157,7 +162,8 @@ Files in the root folder and subfolder
 	06 - Typical Schemes
 	06 - Library
 	06 - BIM Objects
-	06 - Certification
+	06 - Протокол испытаний
+	06 - Сертификат
 	06 - Паспорт изделия
 	06 - Чемодан
 	06 - Коробочка
@@ -182,3 +188,8 @@ Files in the root folder and subfolder
 		02 - PDF
 		
 		03 - Result
+
+
+Ошибки, замечания
+	07 - Error
+	07 - Claim
