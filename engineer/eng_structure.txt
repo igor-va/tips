@@ -160,6 +160,7 @@ Files in the root folder and subfolder
 	06 - Manual Video
 	06 - User Manual
 	06 - Typical Schemes
+	06 - Монтажные схемы
 	06 - Library
 	06 - BIM Objects
 	06 - Протокол испытаний

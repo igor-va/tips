@@ -23,6 +23,7 @@ Freecad
 
 
 SolidWorks
+	https://www.solidworks.com/
 	https://www.youtube.com/c/solidworks/channels
 
 
@@ -66,6 +67,7 @@ OpenCascade
 	
 Onshape
 	https://www.onshape.com/en/
+	https://www.onshape.com/en/resource-center/
 
 
 Alibre

@@ -47,21 +47,41 @@
 Блоги
 
 	Искать
-		CAD blog
-		CAD блог
-		CAE blog
-		CAE блог
-		Simulation engineers blog
-		Simulation инженерные расчеты блог
+		*CAD blog
+		*CAD блог
+		*CAD blog best
+		*CAD блоги лучшие
+		*CAD engineers blog
+		*CAD инженерный блог
+		*CAD software blog
+		*CAD блог программного обеспечения
+		*CAE blog
+		*CAE блог
+		*CAE simulation blog
+		*CAE simulation блог расчеты
+		*Simulation engineers blog
+		*Simulation инженерные расчеты блог
 		
 	Подборки
 		https://blog.feedspot.com/cad_blogs/
+		https://www.tenlinks.com/cad/reference/blogs.htm
 		
 	Ссылки
 		https://www.autodesk.com/products/fusion-360/blog/
+		https://www.onshape.com/en/resource-center/innovation-blog/
+		https://magicdpd.ru/
 		https://fractory.com/engineering-blog/
 		https://blog.grabcad.com/
-		https://sourceforge.net/blog/
+		https://info.traceparts.com/blog/
+		https://formlab.ru/blog
+		https://ceetron.com/blog/
+		https://www.pointcad.ru/
+		https://www.nafems.org/blog/
+		https://onscale.com/blog/
+		https://blogs.3ds.com/simulia/
+		https://www.cenos-platform.com/blog
+		https://www.multiphysics.ru/stati/blog
+		https://www.selfcad.com/blog
 
 
 Новости
@@ -113,17 +133,14 @@
 		https://www.engineersedge.com/
 		
 		https://mechanicalc.com/
-		https://magicdpd.ru/
-		https://www.nafems.org/
 		https://www.invent.org/
 		https://www.instructables.com/
 		https://hackaday.io/
-		https://fractory.com/
-		https://formlab.ru/
 		https://www.asme.org/
 		https://imechanica.org/
 		https://www.pointcad.ru/
 		https://learn.adafruit.com/
+		https://3dtoday.ru/
 
 
 Форумы

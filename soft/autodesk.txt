@@ -46,13 +46,14 @@ Autocad
 			https://knowledge.autodesk.com/support/autocad/getting-started/caas/simplecontent/content/best-practices-for-setting-and-utilizing-dynamic-blocks.html
 		Express Tools вкладка
 		SPDS вкладка
-	
-	Заметки по улучшению работы
+
+	Хорошие практики
+		Применять блоки
 		Собирать библиотеки блоков
-		
+
 	Документация
 		https://help.autodesk.com/view/ACD/2022/RUS/
-		
+
 	Расширения
 		Искать
 			Моментальное скругление всех углов у замкнутой полилинии на заданный радиус

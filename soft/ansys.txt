@@ -4,6 +4,8 @@
 		https://www.ansys.com/
 	
 	Новости, блоги
+		https://www.ansys.com/news-center
+		https://www.ansys.com/blog
 		
 	Форумы, коммьюнити
 
