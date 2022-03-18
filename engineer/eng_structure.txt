@@ -35,11 +35,13 @@ Files in the root folder and subfolder
 	01 - Analogs
 		01 - Name Production
 		02 - GrabCad
+			01 - Author - Project
 		03 - BimObject
 		04 - McMaster
 	01 - Archive
 	01 - Source (Date)
 	01 - Source (Name)
+	01 - DWG
 	01 - DXF
 	01 - Working
 
@@ -59,6 +61,7 @@ Files in the root folder and subfolder
 			02 - Profiles Aluminum
 			02 - Profiles Steel
 	02 - Tube
+	02 - Plastic
 	02 - Plastic Insert
 	02 - Plate
 	02 - Seals

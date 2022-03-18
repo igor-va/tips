@@ -28,6 +28,7 @@
 		https://www.dormakabagroup.com/en
 		https://www.dormakaba.com/us-en
 		https://www.dormakaba.com/ru-ru
+		https://glas-innovationen.com/en/products/
 	
 	Assa Abloy
 		https://www.assaabloyentrance.com/en/
@@ -148,6 +149,9 @@
 	
 	ПерилаГлавСнаб
 		https://www.perilaglavsnab.ru/
+		
+	Glas Marte
+		https://www.glasmarte.at/en
 
 
 Поставщики комплектующих
