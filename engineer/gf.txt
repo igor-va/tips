@@ -16,6 +16,7 @@
 		http://www.stanleyglass.com/
 		https://www.youtube.com/channel/UCdH6l2LUjhYhGEiR__fs2gw/featured
 		https://www.youtube.com/channel/UCCqmtTLa7zSGCPtO0tIYXIQ
+		https://www.youtube.com/c/LoQuECaLLaMoSLoSViDrIeRoS/videos
 	
 	Sadev
 		https://www.sadev.com/
@@ -179,7 +180,6 @@
 	Метал
 		https://xn--80aceefmet7aofbr.xn--p1ai/
 		https://www.metalexspb.ru/
-		https://pcprofiles.ru/
 		https://almazmetall55.ru/
 		
 	Алюминий
@@ -191,6 +191,7 @@
 		
 	Уплотнители
 		https://standart-prof.ru/
+		https://pcprofiles.ru/
 
 	Пластик
 		https://zaglushka.ru/
