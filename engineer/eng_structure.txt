@@ -2,6 +2,7 @@
 	Просматривать и выписывать все образующиеся папки на сервере и во фьюжн
 	Понять как правильно структурировать, должна быть логика
 	Добавлять перед названием папки цифру как обозначение категории
+	Названия папок на русском и английском
 
 
 Files in the root folder and subfolder
@@ -44,10 +45,12 @@ Files in the root folder and subfolder
 	01 - DWG
 	01 - DXF
 	01 - Working
+	01 - Task
 
 
 Проектные файлы 1
 	02 - Part Name
+	02 - Part Number
 	02 - Parts
 	02 - Article
 	02 - Canopy
@@ -68,7 +71,6 @@ Files in the root folder and subfolder
 	02 - Brushes
 	02 - Floor guide
 	02 - Fasteners
-	02 - Screws
 	02 - Metal
 	02 - Panels
 	02 - Accessories
@@ -181,6 +183,7 @@ Files in the root folder and subfolder
 	06 - BIM Objects
 	06 - Протокол испытаний
 	06 - Сертификат
+	06 - ТУ
 	06 - Паспорт изделия
 	06 - Чемодан
 	06 - Коробочка

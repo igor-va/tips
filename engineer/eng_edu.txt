@@ -268,7 +268,7 @@
 			https://www.autodesk.com/autodesk-university/
 
 
-Примеры проектов
+Поиск интересных проектов
 
     Готовые проекты и примеры с разных порталов
         GrabCad
@@ -282,7 +282,7 @@
 		Квадрокоптеры
 
 
-Компании, проекты, производства, фонды
+Компании, проекты, производства
     
 	Производители техники, оборудования
 		Formlabs
@@ -297,6 +297,14 @@
     Производства
 		Xometry
 			https://www.xometry.com/
+		Next Intent
+			https://nextintent.com/
+		OSH Park
+			https://oshpark.com/
+		Advanced Circuits 
+			https://www.4pcb.com/
+		Euro Circuits
+			https://www.eurocircuits.com/
     
     Проекты
 		Tocabi
@@ -309,6 +317,9 @@
 			https://www.ksblutherie.com/
 		Partial Hand Solutions
 			https://partialhandsolutions.com/
+		Korg
+			https://www.korg.com/us/
+			https://korg.berlin/
 	
 	Фонды
 		XPRIZE
@@ -343,3 +354,9 @@
         https://www.vertiball.com/
         https://macrofab.com/
         https://xlam.co.za/
+
+
+Люди
+
+	Allan Williams
+		https://www.behance.net/allanwilliams

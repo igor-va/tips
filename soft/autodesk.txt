@@ -76,20 +76,14 @@ Fusion
 	Изучать
 		Surface
 		Simulation
-			Event
-			Molding
-			Structural Buckling
-			Shape Optimizization
-			Static Stress
-			Nonlinear Static Stress
 		Generative Design
 		Manufacture CAM
 		Electronic
-		Искать интересные плагины и утилиты
-		Искать готовые и открытые библиотеки
-		Искать открытые проекты
-		Искать интересные проекты с хорошей детализацией
-		Изучать скрипты на GitHub
+		Интересные плагины и утилиты
+		Готовые и открытые библиотеки
+		Открытые проекты
+		Интересные проекты с хорошей детализацией
+		Скрипты на GitHub
 		Welding symbols ISO изучать в модуле Drawing
 
 	Документация
@@ -98,12 +92,14 @@ Fusion
 		Параметризация
 			https://help.autodesk.com/view/fusion360/ENU/?guid=GUID-76272551-3275-46C4-AE4D-10D58B408C20
 
-	Инсайдеры, развитие, roadmap
+	Инсайдеры, развитие
 		https://www.autodesk.com/products/fusion-360/blog/top-5-ways-give-fusion-360-feedback/#comment-12585
 		https://www.autodeskproductresearch.com/h/s/6CKIEDLjXhM4xRqHfFdbwy
 		https://feedback.autodesk.com/key/Fusion360Insider
-		https://app.mural.co/t/autodesk2145/m/timerahart2/1475171276107/0945259b7c22117012173ea2be3c9151fec1f184?sender=ba7c6f63-74b8-40a8-bf77-4ef28d280dd4
 
+	Roadmap
+		https://app.mural.co/t/autodesk2145/m/timerahart2/1475171276107/0945259b7c22117012173ea2be3c9151fec1f184
+	
 	Туториалы
 		https://help.autodesk.com/view/fusion360/ENU/courses/
 

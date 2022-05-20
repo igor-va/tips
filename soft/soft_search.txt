@@ -6,7 +6,7 @@ Software
 		https://www.thesoftwarereport.com/the-top-100-software-companies-of-2021/
 		https://www.g2.com/best-software-companies/top-companies
 	
-	Companies
+	Компании
 		Autodesk
 		Altair
 		Ansys	
@@ -32,7 +32,7 @@ Software
 		Операционные системы
 		Инженерное
 		Финансы
-		Управление задачами
+		Управление задачами, проектами
 		3D графика
 		Фото, видео
 		Антивирусы, защита, безопасность
@@ -66,7 +66,7 @@ Software
 			Most Important Software for Mechanical Engineers
 			Software for simulation engineer
 			
-	Управление задачами
+	Управление задачами, проектами
 		Искать
 			Программы для отслеживания задач
 			Программы по отслеживания задач для инженера
