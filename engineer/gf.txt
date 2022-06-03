@@ -82,23 +82,23 @@
 		
 	Abel
 		https://www.abelsystem.de/
-		
+
 	Faraone
 		https://faraone.it/
-		
+
 	D+H
 		https://www.dh-partner.ru/
 		https://www.dh-partner.com/en/start.html
-		
+
 	Oubao
 		https://www.oubao.com/
-		
+
 	Raising
 		http://www.raisingbalustrade.com/
-		
+
 	Primabuilder
 		https://www.primabuilder.com/
-		
+
 	Top Good
 		http://www.chinatopgood.com/
 
@@ -107,16 +107,16 @@
 		
 	ABLinox
 		http://ablinox.com/
-		
+
 	Exa
 		https://www.exaitaly.com/
-				
+	
 	Kedao
 		http://www.kedao.net/en/
-		
+
 	Schmelz
 		https://www.schmelz.com.tr/
-		
+
 	Schueco
 		https://www.schueco.com/ru/
 		https://www.schueco.com/us/
@@ -126,7 +126,7 @@
 
 	Cakir
 		https://www.cakiraluminyum.com/eng/
-		
+
 	SteelPro
 		https://www.steelpro.fi/en/
 
@@ -169,6 +169,7 @@
 		https://www.rsi-llc.ru/
 		https://promprof.ru/
 		https://alutech-group.com/
+		https://www.soberizavod.ru/
 		
 	Электроника	и электротехника
 		https://www.digikey.com/
@@ -199,8 +200,12 @@
 		https://petrokon-spb.ru/
 		
 	Уплотнители
-		https://standart-prof.ru/
-		https://pcprofiles.ru/
+		StandartProf
+			https://standart-prof.ru/
+			http://rushose.ru/
+			https://rustpe.com/
+		Поликарбонатные профили
+			https://pcprofiles.ru/
 
 	Пластик
 		https://zaglushka.ru/
