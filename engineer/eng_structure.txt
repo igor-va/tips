@@ -9,8 +9,7 @@ Files in the root folder and subfolder
 	- develop.dwg  # Development file
 	.pdf  # Various drawings for discussion
 	- wiki.txt  # General technical information about the product or part being developed
-	- strength.txt  # Technical information on strength calculation
-	- tech.xlsx  # Specification, equipment, weight, length
+	- tech.xlsx  # Specification, equipment, weight, length, strength
 	- eng.docx  # Translations from Russian into English
 
 
@@ -78,9 +77,11 @@ Files in the root folder and subfolder
 	02 - Electrical
 	02 - Electronics
 	02 - Tools
-	02 - Alternative
 	02 - Version (1, A)
 	02 - Versions
+		2022.05.23 - v13
+		2022.05.23 - v13.1
+	02 - Alternative
 		01 - 3D
 		01 - Analogs
 		01 - Archive
