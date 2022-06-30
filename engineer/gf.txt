@@ -7,7 +7,7 @@
 	http://glas.alm.su/
 
 
-Поставщики GF
+Поставщики
 
 	GCC
 		https://www.gccintw.com.tw/
@@ -129,6 +129,9 @@
 
 	SteelPro
 		https://www.steelpro.fi/en/
+		
+	Qiwin
+		http://www.qiwin.com/
 
 
 Конкуренты
@@ -172,7 +175,8 @@
 		https://www.soberizavod.ru/
 		
 	Электроника	и электротехника
-		https://www.digikey.com/
+		Digikey
+			https://www.digikey.com/
 		Arlight
             https://arlight.ru/
             https://arlight.su/
@@ -233,7 +237,16 @@
 		https://kb20.ru/
 
 
-Примеры проектов на разных хабах
+Испытательные центры
+	
+	ПГУПС "Механическая лаборатория имени профессора Н.А.Белелюбского"
+		http://mech-lab.ru/
+		
+	ГК "Лестницы и ограждения"
+		https://gklio.ru/
+
+
+Примеры проектов хабах
 
 	Хабы
 		GrabCad

@@ -1,45 +1,25 @@
 Ссылки
 	https://docs.cntd.ru/
 
-	
-Стекло 
-
-	Искать
-	
-	Книги
-
-	Нормы
-		ГОСТ 30698-2014 СТЕКЛО ЗАКАЛЕННОЕ
-			https://docs.cntd.ru/document/1200119828
-		ГОСТ 111-2001 СТЕКЛО ЛИСТОВОЕ
-			https://docs.cntd.ru/document/1200029672
-		ГОСТ 30826-2014 СТЕКЛО МНОГОСЛОЙНОЕ
-			https://docs.cntd.ru/document/1200120589
-
-	Ссылки
-
-
-Уплотнители
-
-	Искать
-	
-	Книги
-
-	Нормы
-		ГОСТ 30778-2001
-			https://docs.cntd.ru/document/1200028610
-
-	Ссылки
-
 
 Нагрузки
 
+	Ссылки
+		http://saitinpro.ru/glavnaya/raschety/sbor-nagruzok/snegovye-nagruzki/
+		
 	Нормы
 		СП 20.13330.2016 НАГРУЗКИ И ВОЗДЕЙСТВИЯ
 			https://docs.cntd.ru/document/456044318
 	
-	Ссылки
-		http://saitinpro.ru/glavnaya/raschety/sbor-nagruzok/snegovye-nagruzki/
+
+Ограждения
+
+	Нормы
+		ГОСТ 25772-2021 ОГРАЖДЕНИЯ МЕТАЛЛИЧЕСКИЕ ЛЕСТНИЦ, БАЛКОНОВ, КРЫШ, ЛЕСТНИЧНЫХ МАРШЕЙ И ПЛОЩАДОК
+			https://docs.cntd.ru/document/1200180381
+			
+	Примеры испытаний
+		https://www.youtube.com/watch?v=FK6qfD-c_zI
 
 
 Фрезеровка отверстий
@@ -59,14 +39,6 @@
 			https://docs.cntd.ru/document/1200113792
 		ГОСТ 538-2014 ИЗДЕЛИЯ ЗАМОЧНЫЕ И СКОБЯНЫЕ
 			https://docs.cntd.ru/document/1200114238
-
-
-Ограждения
-
-	Нормы
-
-		ГОСТ 25772-83 Ограждения лестниц, балконов и крыш стальные
-			https://docs.cntd.ru/document/901709301
 
 
 Оформление проектов

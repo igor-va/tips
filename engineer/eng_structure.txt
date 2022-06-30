@@ -7,6 +7,7 @@
 
 Files in the root folder and subfolder
 	- develop.dwg  # Development file
+	- manual.dwg  # Assembly instructions
 	.pdf  # Various drawings for discussion
 	- wiki.txt  # General technical information about the product or part being developed
 	- tech.xlsx  # Specification, equipment, weight, length, strength
@@ -89,13 +90,18 @@ Files in the root folder and subfolder
 		01 - Source
 		01 - Fusion DWG
 		01 - Fusion DXF
-		01 - PDF
+		01 - DWG
 		01 - DXF
+		01 - PDF
 		01 - Working
 		
 		02 - 3D Models
 		02 - 3D Print
 		02 - Manufacture (Name)
+			02 - Request
+				2022.01.01
+			02 - Response
+				2022.01.01
 		02 - Manufacture Request
 		02 - Manufacture Response
 		02 - Manufacture Question
@@ -179,12 +185,12 @@ Files in the root folder and subfolder
 Материалы для менеджеров, покупателей, проектировщиков, монтажников, выставок
 	06 - Modules
 	06 - Office
+	06 - Library
+	06 - Typical Schemes
+	06 - Монтажные схемы
 	06 - Manual
 	06 - Manual Video
 	06 - User Manual
-	06 - Typical Schemes
-	06 - Монтажные схемы
-	06 - Library
 	06 - BIM Objects
 	06 - Протокол испытаний
 	06 - Сертификат
