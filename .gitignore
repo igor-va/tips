@@ -41,5 +41,7 @@ nosetests.xml
 # Virtual environment
 venv
 
-#Doc
+# Eng
 *.pdf
+*.dwl
+*.dwl2

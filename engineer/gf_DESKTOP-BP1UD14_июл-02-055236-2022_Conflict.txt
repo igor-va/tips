@@ -7,7 +7,7 @@
 	http://glas.alm.su/
 
 
-Поставщики
+Поставщики GF
 
 	GCC
 		https://www.gccintw.com.tw/
@@ -82,23 +82,23 @@
 		
 	Abel
 		https://www.abelsystem.de/
-
+		
 	Faraone
 		https://faraone.it/
-
+		
 	D+H
 		https://www.dh-partner.ru/
 		https://www.dh-partner.com/en/start.html
-
+		
 	Oubao
 		https://www.oubao.com/
-
+		
 	Raising
 		http://www.raisingbalustrade.com/
-
+		
 	Primabuilder
 		https://www.primabuilder.com/
-
+		
 	Top Good
 		http://www.chinatopgood.com/
 
@@ -107,16 +107,16 @@
 		
 	ABLinox
 		http://ablinox.com/
-
+		
 	Exa
 		https://www.exaitaly.com/
-	
+				
 	Kedao
 		http://www.kedao.net/en/
-
+		
 	Schmelz
 		https://www.schmelz.com.tr/
-
+		
 	Schueco
 		https://www.schueco.com/ru/
 		https://www.schueco.com/us/
@@ -126,12 +126,9 @@
 
 	Cakir
 		https://www.cakiraluminyum.com/eng/
-
+		
 	SteelPro
 		https://www.steelpro.fi/en/
-		
-	Qiwin
-		http://www.qiwin.com/
 
 
 Конкуренты
@@ -172,11 +169,9 @@
 		https://www.rsi-llc.ru/
 		https://promprof.ru/
 		https://alutech-group.com/
-		https://www.soberizavod.ru/
 		
 	Электроника	и электротехника
-		Digikey
-			https://www.digikey.com/
+		https://www.digikey.com/
 		Arlight
             https://arlight.ru/
             https://arlight.su/
@@ -184,9 +179,6 @@
             
     Клейкие ленты
         https://likk.ru/
-		
-	Ручки
-		https://spec-detal.com/
 
 
 Производства
@@ -204,12 +196,8 @@
 		https://petrokon-spb.ru/
 		
 	Уплотнители
-		StandartProf
-			https://standart-prof.ru/
-			http://rushose.ru/
-			https://rustpe.com/
-		Поликарбонатные профили
-			https://pcprofiles.ru/
+		https://standart-prof.ru/
+		https://pcprofiles.ru/
 
 	Пластик
 		https://zaglushka.ru/
@@ -217,9 +205,6 @@
 	Стекло
 		http://steklo-proekt.ru/
 		https://xn--80ahahgebkwp3o.xn--p1ai/
-		
-	Дерево
-		https://treestar.su/
 
 
 Монтажники
@@ -240,16 +225,7 @@
 		https://kb20.ru/
 
 
-Испытательные центры
-	
-	ПГУПС "Механическая лаборатория имени профессора Н.А.Белелюбского"
-		http://mech-lab.ru/
-		
-	ГК "Лестницы и ограждения"
-		https://gklio.ru/
-
-
-Примеры проектов хабах
+Примеры проектов на разных хабах
 
 	Хабы
 		GrabCad
