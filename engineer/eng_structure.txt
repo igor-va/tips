@@ -61,6 +61,8 @@ Files in the root folder and subfolder
 		02 - Profiles
 			02 - Profiles Aluminum
 			02 - Profiles Steel
+			02 - Profiles Plastic
+			02 - Profiles Seal
 		02 - Connector
 		02 - Corners
 		02 - Tube

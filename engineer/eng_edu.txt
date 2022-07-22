@@ -70,12 +70,13 @@
 		
 	Ссылки
 		https://www.autodesk.com/products/fusion-360/blog/
+		https://formlab.ru/blog
+		https://habr.com/ru/users/anvos/posts/
 		https://www.onshape.com/en/resource-center/innovation-blog/
 		https://magicdpd.ru/
 		https://fractory.com/engineering-blog/
 		https://blog.grabcad.com/
 		https://info.traceparts.com/blog/
-		https://formlab.ru/blog
 		https://ceetron.com/blog/
 		https://www.pointcad.ru/
 		https://www.nafems.org/blog/
@@ -284,6 +285,10 @@
 
 Компании, проекты, производства
     
+	Дизайн
+		Подборки
+			https://formlab.ru/blog-page/167-rynok-uslug-promdizayna-rossii
+	
 	Производители техники, оборудования
 		Formlabs
 			https://formlabs.com/
@@ -307,6 +312,10 @@
 			https://www.eurocircuits.com/
 		Hubs
 			https://www.hubs.com/
+		Protocase
+			https://www.protocase.com/
+		Fictiv 
+			https://www.fictiv.com/
     
     Проекты
 		Tocabi
