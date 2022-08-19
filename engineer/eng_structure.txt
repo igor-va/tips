@@ -63,6 +63,7 @@ Files in the root folder and subfolder
 			02 - Profiles Steel
 			02 - Profiles Plastic
 			02 - Profiles Seal
+		02 - Stainless Steel
 		02 - Connector
 		02 - Corners
 		02 - Tube
@@ -92,13 +93,13 @@ Files in the root folder and subfolder
 		01 - Source
 		01 - Fusion DWG
 		01 - Fusion DXF
-		01 - DWG
-		01 - DXF
-		01 - PDF
 		01 - Working
 		
 		02 - 3D Models
 		02 - 3D Print
+		02 - DWG
+		02 - DXF
+		02 - PDF
 		02 - Manufacture Request
 			2022.01.01
 		02 - Manufacture Response
@@ -124,7 +125,7 @@ Files in the root folder and subfolder
 		04 - Test
 
 		05 - Agreed
-		05 - Checking
+		05 - Check
 		
 		06 - Manual
 		06 - Manual Video
@@ -209,6 +210,7 @@ Files in the root folder and subfolder
 	06 - Images
 	06 - Renders
 	06 - Info
+	06 - Рекламный ролик
 		01 - 3D
 		01 - Analogs
 		01 - Archive

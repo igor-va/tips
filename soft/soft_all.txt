@@ -16,6 +16,7 @@ Web утилиты
 
 
 Freecad
+	https://www.freecad.org/
 	https://www.freecadweb.org/
 	https://wiki.freecadweb.org/Main_Page
 	https://forum.freecadweb.org/
@@ -45,9 +46,17 @@ Ansys
 	https://www.ansys.com/
 
 
+Salome
+	https://www.salome-platform.org/
+
+
 LibreCAD
 	https://librecad.org/
 
+	
+NaroCAD 
+	http://narocad.com/
+	https://sourceforge.net/projects/narocad/
 
 TouchCAD
 	http://www.touchcad.com/
@@ -59,6 +68,7 @@ OpenSCAD
 	
 KiCad
 	https://www.kicad.org/
+	https://www.kipro-pcb.com/
 	
 	
 OpenCascade

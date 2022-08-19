@@ -331,15 +331,20 @@
 		Korg
 			https://www.korg.com/us/
 			https://korg.berlin/
+		Lifefuels
+			https://www.lifefuelsplus.com/
+		Vyrus
+			https://vyrus.it/
+		Layershift	
+			https://layershift.xyz/      
+
+
 	
 	Фонды
 		XPRIZE
 			https://www.xprize.org/
 	
 	Ссылки
-        https://vyrus.it/
-        https://layershift.xyz/
-        https://www.lifefuelsplus.com/
         https://www.tarform.com/
         https://www.kickstarter.com/projects/restorationgames/return-to-dark-tower
         https://newlab.com/
