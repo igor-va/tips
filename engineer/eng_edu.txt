@@ -336,24 +336,29 @@
 		Vyrus
 			https://vyrus.it/
 		Layershift	
-			https://layershift.xyz/      
-
-
+			https://layershift.xyz/
+		Tarform
+			https://www.tarform.com/
+		Return to Dark Tower
+			https://www.kickstarter.com/projects/restorationgames/return-to-dark-tower
+		Newlab
+			https://newlab.com/
+		Biolite
+			https://www.bioliteenergy.com/
+		COVID-19
+			https://covid19vent.com/
+		Nack Studio	
+			https://shop.nack.is/
+		Pirani
+			https://www.pirani.life/
+		Modbot
+			https://www.modbot.com/
 	
 	Фонды
 		XPRIZE
 			https://www.xprize.org/
 	
 	Ссылки
-        https://www.tarform.com/
-        https://www.kickstarter.com/projects/restorationgames/return-to-dark-tower
-        https://newlab.com/
-        https://www.optimusride.com/
-        https://covid19vent.com/
-        https://shop.nack.is/
-        https://www.seamtechnic.com/
-        https://www.pirani.life/
-        https://www.modbot.com/
         https://www.gowesty.com/
         https://www.beamlink.io/
         https://noiseengineering.us/
