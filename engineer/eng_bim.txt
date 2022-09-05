@@ -154,8 +154,8 @@
 
 	Названия габаритов панелей перегородок с уточнениями
 		Panel 900x2300
-		Panel 900x2300. Axis 110mm
-		Panel 900x2300. Axis 110mm. Hinge 5A00
+		Panel 900x2300. Axis 110
+		Panel 900x2300. Axis 110. Hinge 5A00
 
 	Проверка от клиента
 		Чертеж SWS-DR

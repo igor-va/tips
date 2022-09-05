@@ -158,6 +158,7 @@
 		Форумы для инженеров
 		
 	Ссылки
+		https://forums.autodesk.com/t5/fusion-360/ct-p/1234
 		https://cccp3d.ru/
 
 
@@ -288,35 +289,7 @@
 	Дизайн
 		Подборки
 			https://formlab.ru/blog-page/167-rynok-uslug-promdizayna-rossii
-	
-	Производители техники, оборудования
-		Formlabs
-			https://formlabs.com/
-		Haas
-			https://www.haascnc.com/
-		Mayku 
-			https://www.mayku.me/
-		3Dconnexion
-			https://3dconnexion.com/us/
 
-    Производства
-		Xometry
-			https://www.xometry.com/
-		Next Intent
-			https://nextintent.com/
-		OSH Park
-			https://oshpark.com/
-		Advanced Circuits 
-			https://www.4pcb.com/
-		Euro Circuits
-			https://www.eurocircuits.com/
-		Hubs
-			https://www.hubs.com/
-		Protocase
-			https://www.protocase.com/
-		Fictiv 
-			https://www.fictiv.com/
-    
     Проекты
 		Tocabi
 			http://dyros.snu.ac.kr/avatar-xprize/tech/
@@ -353,28 +326,68 @@
 			https://www.pirani.life/
 		Modbot
 			https://www.modbot.com/
-	
+		Gowesty
+	        https://www.gowesty.com/
+		Beamlink
+			https://www.beamlink.io/
+		Noiseeng	
+			https://noiseengineering.us/
+		Vorticwatches	
+			https://vorticwatches.com/
+		Pembree
+			https://pembree.com/
+		Fuseproject
+			https://www.fuseproject.com/
+		Beneteau
+			https://www.beneteau-group.com/en/
+		Nyccnc	
+			https://www.nyccnc.com/
+		Spee3d
+			https://www.spee3d.com/
+		Garage221	
+			http://www.garage221.com/
+		3ditaly
+			https://www.3ditaly.it/		
+		Starlingcycles
+			https://www.starlingcycles.com/
+		Vertiball	
+			https://www.vertiball.com/
+		Macrofab
+			https://macrofab.com/
+		Xlam
+			https://xlam.co.za/
+
+	Производители техники, оборудования
+		Formlabs
+			https://formlabs.com/
+		Haas
+			https://www.haascnc.com/
+		Mayku 
+			https://www.mayku.me/
+		3Dconnexion
+			https://3dconnexion.com/us/
+
+    Производства
+		Xometry
+			https://www.xometry.com/
+		Next Intent
+			https://nextintent.com/
+		OSH Park
+			https://oshpark.com/
+		Advanced Circuits 
+			https://www.4pcb.com/
+		Euro Circuits
+			https://www.eurocircuits.com/
+		Hubs
+			https://www.hubs.com/
+		Protocase
+			https://www.protocase.com/
+		Fictiv 
+			https://www.fictiv.com/
+
 	Фонды
 		XPRIZE
 			https://www.xprize.org/
-	
-	Ссылки
-        https://www.gowesty.com/
-        https://www.beamlink.io/
-        https://noiseengineering.us/
-        https://vorticwatches.com/
-        https://pembree.com/
-        https://www.fuseproject.com/
-        https://www.beneteau-group.com/en/
-        https://www.nyccnc.com/
-        https://www.spee3d.com/
-        http://www.garage221.com/
-        https://www.3ditaly.it/
-        https://www.conturoprototyping.com/
-        https://www.starlingcycles.com/
-        https://www.vertiball.com/
-        https://macrofab.com/
-        https://xlam.co.za/
 
 
 Люди
