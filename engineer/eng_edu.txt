@@ -356,16 +356,20 @@
 			https://macrofab.com/
 		Xlam
 			https://xlam.co.za/
-
-	Производители техники, оборудования
-		Formlabs
-			https://formlabs.com/
-		Haas
-			https://www.haascnc.com/
-		Mayku 
-			https://www.mayku.me/
+		BBI Autosport
+			https://bbiautosport.com/
 		3Dconnexion
 			https://3dconnexion.com/us/
+		Formlabs
+			https://formlabs.com/
+
+	Производители оборудования
+		Haas
+			https://www.haascnc.com/
+		Mazak
+			https://www.mazak.com/
+		Mayku 
+			https://www.mayku.me/
 
     Производства
 		Xometry
