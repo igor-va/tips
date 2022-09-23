@@ -362,6 +362,10 @@
 			https://3dconnexion.com/us/
 		Formlabs
 			https://formlabs.com/
+		EDAG
+			https://www.edag-citybot.de/en/
+		Girl Gang Garage	
+			https://girlganggarage.com/
 
 	Производители оборудования
 		Haas
