@@ -126,6 +126,7 @@ Files in the root folder and subfolder
 
 		05 - Agreed
 		05 - Check
+		05 - Sample
 		
 		06 - Manual
 		06 - Manual Video
@@ -228,3 +229,5 @@ Files in the root folder and subfolder
 Ошибки, замечания
 	07 - Error
 	07 - Claim
+	07 - Feedback
+		01 - Name
