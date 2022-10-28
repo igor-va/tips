@@ -270,6 +270,16 @@
 			https://www.autodesk.com/autodesk-university/
 
 
+Награды
+	Поиск
+		Награды
+		Премии
+		Конкурсы
+		Призы
+	European Product Design award
+		https://www.productdesignaward.eu/
+
+
 Поиск интересных проектов
 
     Готовые проекты и примеры с разных порталов
@@ -366,6 +376,8 @@
 			https://girlganggarage.com/
 		Dan Lee Boatbuilding
 			https://danleeboatbuilding.co.uk/
+		Mohonto
+			https://mohonto.life/
 
 	Производители оборудования
 		Haas
