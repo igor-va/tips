@@ -56,6 +56,7 @@
     Гаджеты, инструменты
         Штангенциркуль
         Электронные современные гаджеты
+		Электронные точные весы
 
 
 Технические нормы, стандарты, правила, документации
@@ -117,6 +118,8 @@
 
 
 Методы проектирования  
+	Прямое проектирование
+	
 	Reverse Engineering
         https://www.autodesk.com/products/fusion-360/blog/how-reverse-engineering-can-aid-the-design-process/
 	Research and development (R&D)
