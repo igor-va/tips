@@ -100,6 +100,7 @@ Files in the root folder and subfolder
 		02 - DWG
 		02 - DXF
 		02 - PDF
+		02 - Versions
 		02 - Manufacture Request
 			2022.01.01
 		02 - Manufacture Response
