@@ -288,10 +288,10 @@
 
     Готовые проекты на разных языках на GrabCad
         Prosthesis
-        Lego Bionicle
         Puzzle 3d
 		Robot vacuum cleaner
-		Квадрокоптеры
+		Drone
+		Quadrocopterer
 
 
 Компании, проекты, производства

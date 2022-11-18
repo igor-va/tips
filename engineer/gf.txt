@@ -262,29 +262,26 @@
 		https://gklio.ru/
 
 
-Примеры проектов хабах
-
-	Хабы
-		GrabCad
-		McMaster
+Примеры проектов
 
 	Существующее
 		Архив защелок и замков EffEff
 		
-	Искать
-		Aluminum profile
-		Shower
-		Hinge
-		Lock
-		Door closer
-		Door hand
-		Canopy
-		Carriage roller
-		Antipanic
-
-
-Медиабиблиотека
-	
-	Улучшения
-		Название папки - шифр
-		Внутри папки - артикул
+	Поиск
+		Стекляные конструкции
+			Aluminum profile
+			Shower
+			Hinge
+			Lock
+			Door hand
+			Canopy
+			Carriage roller
+		Дверная механика
+			Доводчик
+			Door closer
+			Floor spring
+			Soft close
+			Hydraulic
+			Antipanic
+		Автоматика
+			Automatic door

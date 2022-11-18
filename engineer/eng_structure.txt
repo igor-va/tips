@@ -32,6 +32,24 @@ Files in the root folder and subfolder
 	Assembly Ver1  # Сборка Ver1
 
 
+Файлы
+	- develop.dwg
+		Исходники
+		Разработка
+			Типовые схемы
+			Кинематика
+		Версии
+		Библиотека
+		Сборка
+		Архив
+	- tech.xlsx
+		р - Разработка
+		п - Производство
+		о - Образец
+		з - Закупка
+		+ - Готово
+
+
 Исходные данные
 	01 - Analogs
 		01 - Name Production
