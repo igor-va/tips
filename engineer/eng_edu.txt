@@ -1,23 +1,27 @@
 Обучение
-
 	Ресурсы
 		Ютуб
 		Блоги
 		Новости
-		Хабы, базы, порталы, калькуляторы
+		Библиотеки
+		Хабы, сообщества, порталы
+		Базы, библиотеки, калькуляторы
 		Форумы
-		3D библиотеки
 		Документация
 		Книги
 		Курсы
 		Конференции, выставки
-        Примеры проектов
-        Компании, проекты, производства, фонды
-		
+		Фонды
+		Награды
+		Примеры проектов
+		Производители оборудования
+		Производства
+		Продуктовые компании
+		Люди
 	Порядок
 		Новости, блоги на официальных сайтах поставщиков продукции
-		Каталоги, брошюры, листовки, презентации, техничка на официальных сайтах поставщиков продукции
-		Блоги, новости разработчиков ПО: Autodesk, Ansys, Altair, Dassault,
+		Материалы на официальных сайтах поставщиков продукции: каталоги, брошюры, листовки, техничка,
+		Блоги, новости разработчиков ПО: Autodesk, Ansys, Altair, Dassault...
 		Блоги, новости ПО: Fusion, Autocad, Inventor, FreeCad,
 		Новостные порталы ПО: isicad, engineering.com, habr,
 		Блоги, новости порталов, сообществ, хабов: GrabCad, SourceForge,
@@ -27,11 +31,10 @@
 		Поиск проектов с детальным устройством механизмов, техники, оборудования: GrabCad, AutodeskGallery,
 		Просмотр ютуба, видеокурсов:
 		Подписки в инстраграмм:
-		Чтение книг, документаций:
+		Чтение книг, норм, документаций:
 
 
 Ютуб
-
 	Fusion 360
 		https://www.youtube.com/c/AutodeskFusion360/videos
 	Interesting Engineering
@@ -47,8 +50,7 @@
 
 
 Блоги
-
-	Искать
+	Поиск
 		*CAD blog
 		*CAD блог
 		*CAD blog best
@@ -63,11 +65,9 @@
 		*CAE simulation блог расчеты
 		*Simulation engineers blog
 		*Simulation инженерные расчеты блог
-		
 	Подборки
 		https://blog.feedspot.com/cad_blogs/
 		https://www.tenlinks.com/cad/reference/blogs.htm
-		
 	Ссылки
 		https://www.autodesk.com/products/fusion-360/blog/
 		https://formlab.ru/blog
@@ -85,11 +85,11 @@
 		https://www.cenos-platform.com/blog
 		https://www.multiphysics.ru/stati/blog
 		https://www.selfcad.com/blog
+		https://3dvision.su/blog/
 
 
 Новости
-
-	Искать
+	Поиск
 		CAD news
 		CAD новости
 		CAE news
@@ -98,85 +98,28 @@
 		CAD software новости
 		CAE software news
 		CAE software новости
-	
 	Ссылки
 		http://isicad.ru/ru/
 		https://www.engineering.com/home
 		https://interestingengineering.com/
+		https://redshift.autodesk.com/
+		https://adsknews.autodesk.com/
 
 
-Хабы, базы, порталы, калькуляторы
-
-	Искать
-		*CAD materials library
-		CAD библиотека материалов
-		*Useful websites for CAD engineer
-		Полезные сайты для CAD инженера
-		Useful websites for CAD designer engineer
-		Полезны сайты для CAD инженера-конструктора
-		Useful resources for designer engineer
-		Полезные ресурсы для инженера-конструктора
-		Useful resources for CAD engineer
-		Полезные ресурсы для CAD инженера
-		Useful hubs for CAD engineer		
-		Полезные хабы для CAD инженера
-		Useful hubs for CAD designer engineer
-		Полезные хабы для CAD инженера-конструктора
-		Useful portals for CAD engineer
-		Полезные порталы для CAD инженера
-		Useful portals for CAD designer engineer
-		Полезные порталы для CAD инженера-конструктора
-		
-	Подборки
-		https://fractory.com/best-websites-for-mechanical-engineers/
-
-	Ссылки
-		http://matweb.com/
-		https://www.engineeringtoolbox.com/
-		https://www.engineersedge.com/
-		
-		https://mechanicalc.com/
-		https://www.invent.org/
-		https://www.instructables.com/
-		https://hackaday.io/
-		https://www.asme.org/
-		https://imechanica.org/
-		https://www.pointcad.ru/
-		https://learn.adafruit.com/
-		https://3dtoday.ru/
-
-
-Форумы
-
-	Искать
-		CAD forum
-		CAE forum
-		Forums for simulation engineers
-		Forums for mechanical engineer
-		CAD форум
-		CAE форум
-		Форумы для инженеров
-		
-	Ссылки
-		https://forums.autodesk.com/t5/fusion-360/ct-p/1234
-		https://cccp3d.ru/
-
-
-3D библиотеки
-		
-	Искать
+Библиотеки	
+	Поиск
 		CAD library
 		CAD библиотеки
 		3D library
 		3D библиотека
+		2D library
+		2D библиотека
 		CAD blocks
 		CAD блоки
 		Лучшие CAD библиотеки
 		Best CAD Libraries
-		
 	Подборки
 		https://pikabu.ru/story/poleznyie_saytyi_s_3d_modelyami_5570460
-		
 	Ссылки
 		https://grabcad.com/
 		https://www.mcmaster.com/
@@ -202,12 +145,64 @@
 		https://www.3dcontentcentral.com/
 
 
+Хабы, сообщества, порталы
+	Поиск	
+		*Useful websites for CAD engineer
+		Полезные сайты для CAD инженера
+		Useful websites for CAD designer engineer
+		Полезные сайты для CAD инженера-конструктора
+		Useful hubs for CAD engineer		
+		Полезные хабы для CAD инженера-конструктора
+		Useful portals for CAD engineer
+		Полезные порталы для CAD инженера
+		Useful portals for CAD designer engineer
+		Полезные порталы для CAD инженера-конструктора	
+	Ссылки
+		https://www.instructables.com/
+		https://hackaday.io/
+		https://3dtoday.ru/
+		https://learn.adafruit.com/
+		https://www.invent.org/
+
+
+Базы, библиотеки, калькуляторы
+	Поиск
+		*CAD materials library
+		CAD библиотека материалов
+		Useful resources for designer engineer
+		Полезные ресурсы для инженера-конструктора
+		Useful resources for CAD engineer
+		Полезные ресурсы для CAD инженера
+	Подборки
+		https://fractory.com/best-websites-for-mechanical-engineers/
+	Ссылки
+		http://matweb.com/
+		https://www.engineeringtoolbox.com/
+		https://www.engineersedge.com/	
+		https://mechanicalc.com/
+		https://www.asme.org/
+		https://imechanica.org/
+
+
+Форумы
+	Поиск
+		CAD forum
+		CAE forum
+		Forums for simulation engineers
+		Forums for mechanical engineer
+		CAD форум
+		CAE форум
+		Форумы для инженеров
+	Ссылки
+		https://forums.autodesk.com/t5/fusion-360/ct-p/1234
+		https://cccp3d.ru/
+
+
 Документация
-    Искать
+    Поиск
 
 
 Книги
-
 	Общее
 		Искать
 			FEA
@@ -217,13 +212,11 @@
 		Ссылки
 			https://bookboon.com/
 			https://www.autodesk.com/products/fusion-360/blog/5-books-every-engineer-should-read/
-
 	Потребительская техника
 		Искать
 			Книги по проектированию потребительских товаров и устройств
 			Books on the design of consumer goods and devices			
 		Ссылки
-	
 	Металлические детали
 		Искать
 			Книги по проектированию металлических деталей
@@ -234,40 +227,41 @@
 			Детали машин лучшие книги
 			Проектированию сложных сборок и механизмов книги		
 		Ссылки
-		
 	Уплотнители
 		Искать
 			Книги по проектированию уплотнителей
 			Книги по проектированию уплотнительных профилей		
 		Ссылки
-		
 	Пластиковые детали
 		Искать
 		Ссылки
 
 
 Курсы
-
-	Искать
+	Поиск
 		Courses for CAD Engineer Mechanical
 		Courses for CAE Engineer Mechanical
 		Courses for CAD Engineer Design
 		Courses for CAE Engineer Design
-	
 	Ссылки
 
 
 Конференции, выставки
-	
 	Искать
 		Вендоры ПО
 		Разработка ПО
+		Техника
 		Промышленные
 		Робототехника
 		3D печать
 	Ссылки
 		Autodesk University
 			https://www.autodesk.com/autodesk-university/
+
+
+Фонды
+	XPRIZE
+		https://www.xprize.org/
 
 
 Награды
@@ -280,13 +274,11 @@
 		https://www.productdesignaward.eu/
 
 
-Поиск интересных проектов
-
-    Готовые проекты и примеры с разных порталов
+Примеры проектов
+    Хабы
         GrabCad
         Autodesk Gallery
-
-    Готовые проекты на разных языках на GrabCad
+	Поиск
         Prosthesis
         Puzzle 3d
 		Robot vacuum cleaner
@@ -294,130 +286,121 @@
 		Quadrocopterer
 
 
-Компании, проекты, производства
-    
-	Дизайн
-		Подборки
-			https://formlab.ru/blog-page/167-rynok-uslug-promdizayna-rossii
+Производители оборудования
+	Haas
+		https://www.haascnc.com/
+	Mazak
+		https://www.mazak.com/
+	Mayku 
+		https://www.mayku.me/
+	Formlabs
+		https://formlabs.com/
+	Ultimaker
+		https://ultimaker.com/
 
-    Проекты
-		Tocabi
-			http://dyros.snu.ac.kr/avatar-xprize/tech/
-		PIX Moving
-			https://www.pixmoving.com/
-		KUHMUTE
-			https://www.kuhmute.com/
-		Kevin Baslé
-			https://www.ksblutherie.com/
-		Partial Hand Solutions
-			https://partialhandsolutions.com/
-		Korg
-			https://www.korg.com/us/
-			https://korg.berlin/
-		Lifefuels
-			https://www.lifefuelsplus.com/
-		Vyrus
-			https://vyrus.it/
-		Layershift	
-			https://layershift.xyz/
-		Tarform
-			https://www.tarform.com/
-		Return to Dark Tower
-			https://www.kickstarter.com/projects/restorationgames/return-to-dark-tower
-		Newlab
-			https://newlab.com/
-		Biolite
-			https://www.bioliteenergy.com/
-		COVID-19
-			https://covid19vent.com/
-		Nack Studio	
-			https://shop.nack.is/
-		Pirani
-			https://www.pirani.life/
-		Modbot
-			https://www.modbot.com/
-		Gowesty
-	        https://www.gowesty.com/
-		Beamlink
-			https://www.beamlink.io/
-		Noiseeng	
-			https://noiseengineering.us/
-		Vorticwatches	
-			https://vorticwatches.com/
-		Pembree
-			https://pembree.com/
-		Fuseproject
-			https://www.fuseproject.com/
-		Beneteau
-			https://www.beneteau-group.com/en/
-		Nyccnc	
-			https://www.nyccnc.com/
-		Spee3d
-			https://www.spee3d.com/
-		Garage221	
-			http://www.garage221.com/
-		3ditaly
-			https://www.3ditaly.it/		
-		Starlingcycles
-			https://www.starlingcycles.com/
-		Vertiball	
-			https://www.vertiball.com/
-		Macrofab
-			https://macrofab.com/
-		Xlam
-			https://xlam.co.za/
-		BBI Autosport
-			https://bbiautosport.com/
-		3Dconnexion
-			https://3dconnexion.com/us/
-		EDAG
-			https://www.edag-citybot.de/en/
-		Girl Gang Garage	
-			https://girlganggarage.com/
-		Dan Lee Boatbuilding
-			https://danleeboatbuilding.co.uk/
-			https://www.youtube.com/c/DanLeeBoatbuilding/videos
-		Mohonto
-			https://mohonto.life/
-		Pembree
-			https://pembree.com/
 
-	Производители оборудования
-		Haas
-			https://www.haascnc.com/
-		Mazak
-			https://www.mazak.com/
-		Mayku 
-			https://www.mayku.me/
-		Formlabs
-			https://formlabs.com/
-		Ultimaker
-			https://ultimaker.com/
+Производства
+	Xometry
+		https://www.xometry.com/
+	Next Intent
+		https://nextintent.com/
+	OSH Park
+		https://oshpark.com/
+	Advanced Circuits 
+		https://www.4pcb.com/
+	Euro Circuits
+		https://www.eurocircuits.com/
+	Hubs
+		https://www.hubs.com/
+	Protocase
+		https://www.protocase.com/
+	Fictiv 
+		https://www.fictiv.com/
 
-    Производства
-		Xometry
-			https://www.xometry.com/
-		Next Intent
-			https://nextintent.com/
-		OSH Park
-			https://oshpark.com/
-		Advanced Circuits 
-			https://www.4pcb.com/
-		Euro Circuits
-			https://www.eurocircuits.com/
-		Hubs
-			https://www.hubs.com/
-		Protocase
-			https://www.protocase.com/
-		Fictiv 
-			https://www.fictiv.com/
 
-	Фонды
-		XPRIZE
-			https://www.xprize.org/
+Продуктовые компании
+	Tocabi
+		http://dyros.snu.ac.kr/avatar-xprize/tech/
+	PIX Moving
+		https://www.pixmoving.com/
+	KUHMUTE
+		https://www.kuhmute.com/
+	Kevin Baslé
+		https://www.ksblutherie.com/
+	Partial Hand Solutions
+		https://partialhandsolutions.com/
+	Korg
+		https://www.korg.com/us/
+		https://korg.berlin/
+	Lifefuels
+		https://www.lifefuelsplus.com/
+	Vyrus
+		https://vyrus.it/
+	Layershift	
+		https://layershift.xyz/
+	Tarform
+		https://www.tarform.com/
+	Return to Dark Tower
+		https://www.kickstarter.com/projects/restorationgames/return-to-dark-tower
+	Newlab
+		https://newlab.com/
+	Biolite
+		https://www.bioliteenergy.com/
+	COVID-19
+		https://covid19vent.com/
+	Nack Studio	
+		https://shop.nack.is/
+	Pirani
+		https://www.pirani.life/
+	Modbot
+		https://www.modbot.com/
+	Gowesty
+		https://www.gowesty.com/
+	Beamlink
+		https://www.beamlink.io/
+	Noiseeng	
+		https://noiseengineering.us/
+	Vorticwatches	
+		https://vorticwatches.com/
+	Pembree
+		https://pembree.com/
+	Fuseproject
+		https://www.fuseproject.com/
+	Beneteau
+		https://www.beneteau-group.com/en/
+	Nyccnc	
+		https://www.nyccnc.com/
+	Spee3d
+		https://www.spee3d.com/
+	Garage221	
+		http://www.garage221.com/
+	3ditaly
+		https://www.3ditaly.it/		
+	Starlingcycles
+		https://www.starlingcycles.com/
+	Vertiball	
+		https://www.vertiball.com/
+	Macrofab
+		https://macrofab.com/
+	Xlam
+		https://xlam.co.za/
+	BBI Autosport
+		https://bbiautosport.com/
+	3Dconnexion
+		https://3dconnexion.com/us/
+	EDAG
+		https://www.edag-citybot.de/en/
+	Girl Gang Garage	
+		https://girlganggarage.com/
+	Dan Lee Boatbuilding
+		https://danleeboatbuilding.co.uk/
+		https://www.youtube.com/c/DanLeeBoatbuilding/videos
+	Mohonto
+		https://mohonto.life/
+	Pembree
+		https://pembree.com/
 
 
 Люди
-
 	Allan Williams
 		https://www.behance.net/allanwilliams

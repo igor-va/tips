@@ -12,8 +12,11 @@ Windows
 		Tab Suspender
 			https://chrome.google.com/webstore/detail/tab-suspender/fiabciakcmgepblmdkmemdbbkilneeeh?hl=en
 		McAfee
+	Организация проекта
+		Битрикс 24
 	Инженерное
 		AutoCad
+			SPDS
 		Fusion
 		Inventor
 		FreeCad

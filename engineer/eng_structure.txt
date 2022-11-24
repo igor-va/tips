@@ -15,21 +15,16 @@ Files in the root folder and subfolder
 
 
 Названия разрабатываемых деталей на сервере
+	Detail Name v?  # Профиль Крышка v2
 	Detail Name v? - Type  # Профиль Крышка v2 - Сечение
 	Project Name - Detail Name v? - Type  # Профиль зажимной - Профиль Крышка v2 - Сечение
-	Project Name - Date  # Поручень LED - 2021.05.05
-	Project Name v? - Date  # Поручень LED v2 - 2021.05.05
-	Project Name - Detail Name - Date  # Поручень LED - Крышка торцевая - 2021.05.05
-	Project Name - Detail Name v? - Date  # Поручень LED - Крышка торцевая v2 - 2021.05.05
-	Project Name v? - Detail Name - Date  # Поручень LED v9.2.2 - Крышка торцевая - 2021.05.05
-	Project Name v? - Detail Name v? - Date  # Поручень LED v9.2.2 - Крышка торцевая v2 - 2021.05.05
 
 
 Названия разрабатываемых деталей во фьюжн
 	Detail Name  # Крышка торцевая
 	Detail Name Ver1  # Крышка торцевая Ver1
-	Assembly  # Сборка
-	Assembly Ver1  # Сборка Ver1
+	Assembly Name  # Сборка
+	Assembly Name Ver1  # Сборка Ver1
 
 
 Файлы
@@ -37,32 +32,32 @@ Files in the root folder and subfolder
 		Исходники
 		Разработка
 			Типовые схемы
-			Кинематика
+			Кинематикаы
 		Версии
 		Библиотека
 		Сборка
 		Архив
 	- tech.xlsx
-		р - Разработка
-		п - Производство
-		о - Образец
-		з - Закупка
-		+ - Готово
+		Статус
+			р - Разработка
+			п - Производство
+			о - Образец
+			з - Закупка
+			+ - Готово
 
 
 Исходные данные
 	01 - Analogs
 		01 - Name Production
+			01 - Name system
 		02 - GrabCad
 			01 - Author - Project
 		03 - BimObject
 		04 - McMaster
-		
 	01 - Archive
+	01 - Source
 	01 - Source (Date)
 	01 - Source (Name)
-	01 - DWG
-	01 - DXF
 	01 - Working
 	01 - Task
 
@@ -101,14 +96,15 @@ Files in the root folder and subfolder
 	02 - Tools
 	02 - Version (1, A)
 	02 - Versions
-		2022.05.23 - v13
-		2022.05.23 - v13.1
+		2022.05.23 - v2
 	02 - Alternative
 		01 - 3D
 		01 - Analogs
 		01 - Archive
 		01 - Photo
 		01 - Source
+		01 - Source (Date)
+		01 - Source (Name)
 		01 - Fusion DWG
 		01 - Fusion DXF
 		01 - Working
@@ -119,6 +115,7 @@ Files in the root folder and subfolder
 		02 - DXF
 		02 - PDF
 		02 - Versions
+			2022.05.23 - v2
 		02 - Manufacture Request
 			2022.01.01
 		02 - Manufacture Response
@@ -126,6 +123,8 @@ Files in the root folder and subfolder
 		02 - Manufacture (Name)
 			2022.01.01 - Request
 			2022.01.02 - Response
+			2022.01.03 - Request
+			2022.01.04 - Response
 		02 - Manufacture Question
 			2022.01.01
 		
@@ -177,9 +176,6 @@ Files in the root folder and subfolder
 	03 - Prices
 	03 - Pay
 	03 - Packing
-	03 - Manufacture (Name)
-	03 - Manufacture Request
-	03 - Manufacture Response
 
 
 Анализ, проверка прочности, симуляция, кинематика
@@ -202,14 +198,14 @@ Files in the root folder and subfolder
 
 Согласование
 	05 - Agreed
-	05 - Checking
+	05 - Check
+	05 - Sample
 
 
 Материалы для менеджеров, покупателей, проектировщиков, монтажников, выставок
 	06 - Modules
 	06 - Office
 	06 - Library
-	06 - Typical Schemes
 	06 - Монтажные схемы
 	06 - Manual
 	06 - Manual Video
@@ -230,7 +226,7 @@ Files in the root folder and subfolder
 	06 - Images
 	06 - Renders
 	06 - Info
-	06 - Рекламный ролик
+	06 - Video
 		01 - 3D
 		01 - Analogs
 		01 - Archive

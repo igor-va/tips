@@ -270,11 +270,13 @@
 	Поиск
 		Стекляные конструкции
 			Aluminum profile
+			Aluminum glass
 			Shower
 			Hinge
 			Lock
 			Door hand
 			Canopy
+			Carriage
 			Carriage roller
 		Дверная механика
 			Доводчик
