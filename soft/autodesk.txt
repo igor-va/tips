@@ -56,7 +56,7 @@ Autocad
 		https://help.autodesk.com/view/ACD/2022/RUS/
 
 	Расширения
-		Искать
+		Поиск
 			Моментальное скругление всех углов у замкнутой полилинии на заданный радиус
 		
 		Расширение
@@ -124,6 +124,8 @@ Fusion
 				https://apps.autodesk.com/FUSION/en/Detail/Index?id=4600054964458767106&appLang=en&os=Win64
 			Xometry
 				https://apps.autodesk.com/FUSION/en/Detail/Index?id=5430166430880711212&appLang=en
+			Бэкап
+				https://blog.profusion360.ru/fusion360-backup
 
 	API
 		https://github.com/AutodeskAILab/Fusion360GalleryDataset
