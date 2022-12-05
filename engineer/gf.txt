@@ -177,7 +177,15 @@
 		https://promprof.ru/
 		https://alutech-group.com/
 		https://www.soberizavod.ru/
-		
+
+		Алютех
+        Schuco
+        Татпроф
+        AGS
+        Reynaers
+        NASA
+        KRAUSS
+	
 	Электроника	и электротехника
 		Digikey
 			https://www.digikey.com/
@@ -207,7 +215,7 @@
 		https://alvidprof.ru/
 		https://realit.ru/
 		https://petrokon-spb.ru/
-		
+
 	Уплотнители
 		StandartProf
 			https://standart-prof.ru/
@@ -219,11 +227,16 @@
 	Пластик литье
 		https://zaglushka.ru/
 		https://tmth.ru/
-			
+
 	Стекло
 		http://steklo-proekt.ru/
 		https://xn--80ahahgebkwp3o.xn--p1ai/
-		
+
+		Гардиан
+        Пилкинктон
+        Главербель
+        Асахи Груп
+
 	Дерево
 		https://treestar.su/
 

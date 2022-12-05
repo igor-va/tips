@@ -75,6 +75,7 @@
 		https://www.onshape.com/en/resource-center/innovation-blog/
 		https://magicdpd.ru/
 		https://fractory.com/engineering-blog/
+		https://www.hubs.com/blog/
 		https://blog.grabcad.com/
 		https://info.traceparts.com/blog/
 		https://ceetron.com/blog/
@@ -99,11 +100,11 @@
 		CAE software news
 		CAE software новости
 	Ссылки
-		http://isicad.ru/ru/
-		https://www.engineering.com/home
-		https://interestingengineering.com/
 		https://redshift.autodesk.com/
 		https://adsknews.autodesk.com/
+		http://isicad.ru/ru/
+		https://www.engineering.com/home
+		https://interestingengineering.com/	
 
 
 Библиотеки	
@@ -398,7 +399,9 @@
 	Mohonto
 		https://mohonto.life/
 	Pembree
-		https://pembree.com/
+		https://pembree.com/	
+	Triple Bottom Line
+		http://triplebottomline.cc/
 
 
 Люди
