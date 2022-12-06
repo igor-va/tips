@@ -1,11 +1,9 @@
 Software
-	Искать
+	Поиск
 		Best software companies
-	
 	Ссылки
 		https://www.thesoftwarereport.com/the-top-100-software-companies-of-2021/
 		https://www.g2.com/best-software-companies/top-companies
-	
 	Компании
 		Autodesk
 		Altair
@@ -15,7 +13,6 @@ Software
 		Adobe
 		Аскон
 		QForm
-
 	Изучать
 		Unigraphics NX
 		Catia
@@ -26,15 +23,13 @@ Software
 		PDM
 	
 
-Софт	
+Направления	
 	Финансы
 	3D графика
 	Музыка
-	История софта
 
 
 История софта
-
 	3D софт
 		Какие существуют компании разарботчики
 		Истории развития компаний разработчиков 3D программ
@@ -43,7 +38,6 @@ Software
 
 
 Операционные системы
-
 	Софт
 		Linux
 			https://www.linux.org/
@@ -53,33 +47,29 @@ Software
 
 
 Инженерное
-
-	Направления
-		Проектирование алюминиевых профилей
-		Оформление инструкций по сборке
-		Создание кинематических схем
-		Создание динамических сцен
-		Оптимизация формы
-		Generative Design
-		Прочностной расчет
-		Simulation
-		Электроника
-		Электромеханика
-		Игры для инженеров
-		Движки физики
-		Для стекла
-		Python
-
-	Искать
-		Useful software for an engineer
-		Useful software for CAD engineer
-		Software for Mechanical Engineers
-		Software for CAD Mechanical Engineers
-		Most Important Software for Mechanical Engineers
-		Software for simulation engineer
+	Общее
+		Направления
+			Проектирование алюминиевых профилей
+			Создание динамических сцен
+			Оптимизация формы
+			Generative Design
+			Прочностной расчет
+			Simulation
+			Электроника
+			Электромеханика
+			Игры для инженеров
+			Движки физики
+			Для стекла
+		Поиск
+			Useful software for an engineer
+			Useful software for CAD engineer
+			Software for Mechanical Engineers
+			Software for CAD Mechanical Engineers
+			Most Important Software for Mechanical Engineers
+			Software for simulation engineer
 
 	Оформление инструкций по сборке
-		Искать		
+		Поиск		
 			Software for creating assembly instructions
 			Free software for creating assembly instructions	
 			How to make the assembly instructions
@@ -127,7 +117,7 @@ Software
 				https://3dpowerguide.com/rus/
 	
 	Кинематика, движение, динамика
-		Искать
+		Поиск
 			Kinematics software
 			Free kinematics software
 			List kinematics software
@@ -178,7 +168,7 @@ Software
 			https://www.structuralglass.org/software
 
 	Simulation, physics
-		Искать
+		Поиск
 			Software simulation
 			Software simulation list
 			Software simulation kinematics
@@ -195,7 +185,7 @@ Software
 			https://en.wikipedia.org/wiki/List_of_finite_element_software_packages
 
 	Games
-		Искать
+		Поиск
 			Engineering games
 			Free engineering games
 			Games for engineer designer
@@ -203,7 +193,7 @@ Software
 			Игры для инженера
 
 	Python		
-		Искать
+		Поиск
 			python для инженера
 			python for engineer
 			python для инженера-конструктора
@@ -214,7 +204,7 @@ Software
 			python modules for mechanical engineer
 			
 	Алюминиевые профили
-		Искать
+		Поиск
 			Софт
 				*Software for creating aluminum profiles
 				*Free software for creating aluminum profiles
@@ -254,15 +244,22 @@ Software
 		Программы по управлению задачами
 		Программы по управлению проектами
 		Программы по управлению проектами для инженера
+	Фичи
+		Open source
+		Доступ для всех участников
+		По вертикали этапы, по горизонтали время
+		Назначение исполнителя
+		Скрывать/показывать этапы разных статусов
+		Отдельное окно приоритетных этапов из разных задач, чтобы выполнять вовремя самые приоритетные этапы из разных задач
+		Создание задач, подзадач и т.д.
 	Софт
 		ProjectLibre
 			https://www.projectlibre.com/
 
 
 Фото, видео
-
-    Искать
-    
+    Поиск
+		Поиск
     Софт
         Pixlr
             https://pixlr.com/
@@ -286,9 +283,8 @@ Software
 
 
 Браузеры
-   
-    Искать
-   
+    Поиск
+		Поиск
     Софт
         Brave
             https://brave.com/
@@ -299,10 +295,9 @@ Software
 
 
 Разработка
-    
-    Искать
-    
-    Софт
+	Поиск
+		Поиск
+	Софт
         Visual Studio Code
             https://code.visualstudio.com/
         Sublime Text
@@ -310,9 +305,8 @@ Software
 
 
 Антивирусы, защита, безопасность
-    
-    Искать
-    
+    Поиск
+		Поиск
     Софт
         VeraCrypt
             https://veracrypt.fr/
@@ -330,7 +324,6 @@ Software
 
 
 Разное
-
     Thunderbird
         https://www.thunderbird.net/en-US/
     ShareX
