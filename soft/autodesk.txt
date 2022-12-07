@@ -89,8 +89,10 @@ Fusion
 		Welding symbols ISO изучать в модуле Drawing
 
 	Документация
-		https://help.autodesk.com/view/fusion360/ENU/
-		
+		Лицензии
+			https://www.autodesk.com/products/fusion-360/blog/fusion-360-license-types/
+		Основное
+			https://help.autodesk.com/view/fusion360/ENU/
 		Параметризация
 			https://help.autodesk.com/view/fusion360/ENU/?guid=GUID-76272551-3275-46C4-AE4D-10D58B408C20
 
@@ -115,7 +117,6 @@ Fusion
 		Поиск
 			Для алюминиевых профилей
 			Для пластиковых деталей
-		
 		Расширения
 			Bommer
 				https://www.getbommer.com/

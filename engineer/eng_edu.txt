@@ -7,7 +7,6 @@
 		Хабы, сообщества, порталы
 		Базы, библиотеки, калькуляторы
 		Форумы
-		Документация
 		Книги
 		Курсы
 		Конференции, выставки
@@ -123,6 +122,7 @@
 		https://pikabu.ru/story/poleznyie_saytyi_s_3d_modelyami_5570460
 	Ссылки
 		https://grabcad.com/
+		https://gallery.autodesk.com/
 		https://www.mcmaster.com/
 		https://partsolutions.com/
 		https://b2b.partcommunity.com/community/
@@ -199,10 +199,6 @@
 		https://cccp3d.ru/
 
 
-Документация
-    Поиск
-
-
 Книги
 	Общее
 		Искать
@@ -273,18 +269,6 @@
 		Призы
 	European Product Design award
 		https://www.productdesignaward.eu/
-
-
-Примеры проектов
-    Хабы
-        GrabCad
-        Autodesk Gallery
-	Поиск
-        Prosthesis
-        Puzzle 3d
-		Robot vacuum cleaner
-		Drone
-		Quadrocopterer
 
 
 Производители оборудования
@@ -407,3 +391,69 @@
 Люди
 	Allan Williams
 		https://www.behance.net/allanwilliams
+
+
+Примеры проектов
+	Алюминиевые конструкции
+		Поиск
+			*Aluminum
+			*Aluminium 
+			*Aluminum profile
+			*Aluminium profile
+			*Aluminum glass
+			*Aluminium glass
+			Window
+			Window aluminum
+			Window aluminium
+		Ссылки
+			GÀ TÁM KÝ
+				https://grabcad.com/ga.tam.ky-1
+				https://grabcad.com/library/aluminium-profiles-2
+			Олег Покотило
+				https://grabcad.com/e82e3b1b32-1
+				https://grabcad.com/library/stained-glass-facades-1
+			Jeff Zhao
+				https://grabcad.com/jeff.zhao-5
+			pummuq
+				https://grabcad.com/pummuq/models
+				https://grabcad.com/library/aluminum-profile-for-windows-and-doors-1-1
+			Hans de Ridder
+				https://grabcad.com/hans.de.ridder-1
+				https://grabcad.com/library/dgu-1
+				https://grabcad.com/library/mechanical-glass-restraint-1
+			KJN Aluminium Profiles
+				https://grabcad.com/kjn.aluminium.profiles-1
+			Enes Hodzic
+				https://grabcad.com/enes.hodzic-4
+				https://grabcad.com/library/house-window-1
+				https://grabcad.com/library/house-window-2		
+	Фурнитура для стекла
+		Поиск
+			Shower glass
+			Hinge glass
+			Lock glass
+			Door hand glass
+			Canopy glass
+			Carriage glass
+			Carriage roller glass
+		Ссылки
+			Modulusiler
+				https://grabcad.com/modulusiler-2
+			Baltijos Brasta	
+				https://grabcad.com/baltijos.brasta-1
+			David Rasner
+				https://grabcad.com/david.rasner-1
+	Протезы
+        Поиск
+			Prosthesis
+	Робототехника
+		Robot vacuum cleaner
+		Drone
+		Quadrocopterer
+	Макеты
+		Поиск
+			Toy
+		Ссылки
+			dk
+				https://grabcad.com/dk
+			
