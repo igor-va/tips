@@ -1,0 +1,15 @@
+Python
+    Основное
+        https://www.python.org/
+        https://pypi.org/
+    Документация
+        https://docs.python.org/3/
+
+
+Библиотеки
+    Asyncio
+    Aiohttp
+    Threading
+    Django
+    
+    
