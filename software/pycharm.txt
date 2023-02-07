@@ -1,0 +1,9 @@
+# Links
+https://www.jetbrains.com/help/pycharm/quick-start-guide.html  # Help
+
+# Команды
+CTRL+/  # Закомментировать код
+Double Shift  # Search everywhere for classes, files, tool windows, actions, and settings
+Ctrl+F8  # Toggle the breakpoint
+Ctrl+Space  # Code completion 
+Ctrl+W  # Extend selection 

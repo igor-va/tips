@@ -1,15 +1,418 @@
-Python
+План обучения
+    Определение сферы и области деятельности
+    Добавление в избранное подходящие вакансии
+    Понимание перспективы развития
+    Понимание перспективы роста ЗП
+    Выписывание необходимых навыков
+    Изучение и получение навыков
+    Прохождение стажировки
+    Устройство на работу
+
+
+Области
+    Automation
+        Скрипты
+        Утилиты
+        Веб парсинг
+    Web Development
+        E-commerce решения
+        Proof of concept
+        Проекты с нуля
+        Большие приложения
+        DevOps
+    Data Science
+        Большие данные
+        Машинное обучение
+        Искусственный интеллект
+        Компьютерное зрение
+        Обработка изображений
+    Десктопные приложения
+
+
+Профессии
+    Общее
+        Поиск
+            Python
+                Что можно сделать при помощи Python
+                Python перспективы
+                Python области
+                Python профессии
+                Python перспективные профессии
+                Python должности
+                Python вакансии
+                Python технологии
+                Python навыки
+                Python требования
+                Python библиотеки
+                Python инструменты
+            IT
+                Перспективные международные профессии
+                Перспективные мировые профессии
+                Международные навыки IT
+                Перспективные профессии IT
+                Перспективные области IT
+                Перспективные профессии
+            Поиск работы
+                Поиск вакансий за границей
+                Как искать работу за за границей
+                Международные биржи по поиску работы
+        Описание
+        Задачи
+            Написание чистого, понятного кода
+            Разработка архитектуры, поддержка, развитие и оптимизация
+            Разработка новой функциональности и улучшение имеющейся
+            Доработка и сопровождение существующего кода
+            Проводить коллективный код-ревью (аргументировать, анализировать, дискутировать с коллегами)
+            Покрытие кода тестами
+            Написание документации
+            Ведение репозитория (версионирование, релизы, поддержка)                
+        Навыки
+            Английский
+        Курсы
+    Web Development
+        Backend Python
+            Поиск
+                *Backend Python профессия
+                *Backend Python перспективы
+                Backend Python задачи
+                Backend Python навыки
+                Backend Python курсы
+            Описание
+                Написание серверного кода
+            Задачи
+                Реализация сетевых клиентов и протоколов по документации
+                Проектирование и развитие архитектуры баз данных
+                Связкой backend и frontend - тесным взаимодействием с frontend-разработчиком
+            Навыки
+                https://www.youtube.com/watch?v=VR9EPKz8aXk
+            Курсы
+        QA Engineer
+        QA Automation Engineer
+            Поиск
+                *QA Automation Engineer профессия
+                *QA Automation Engineer Python профессия
+                *QA Automation Engineer перспективы
+                QA Automation Engineer задачи
+                QA Automation Engineer навыки
+                QA Automation Engineer курсы
+            Описание
+                Тестирование продукта
+            Задачи
+            Навыки
+                https://www.youtube.com/watch?v=k0LFk9yH98c
+            Курсы
+    Data Science
+        Data Engineer
+            Поиск
+                *Data Engineer профессия
+                *Data Engineer перспективы
+                Data Engineer задачи
+                Data Engineer навыки
+                Data Engineer курсы
+            Описание
+                Отвечает за сбор, перемещение, хранение и подготовку данных
+                Фокусируется на построение инфраструктуры и архитектуры данных
+            Задачи
+                https://www.youtube.com/watch?v=cjwcYVWUMtA
+            Навыки
+                https://www.youtube.com/watch?v=PquSZWX6qn0
+                https://www.youtube.com/watch?v=h9hHfc5mKDA
+            Курсы
+        Data Scientist
+            Поиск
+                *Data Scientist профессия
+                *Data Scientist перспективы
+                Data Scientist задачи
+                Data Scientist навыки
+                Data Scientist курсы
+            Описание
+                Специалист по обработке, анализу и хранению больших массивов данных
+            Задачи
+            Навыки
+            Курсы
+                https://www.youtube.com/watch?v=w-IdSp_mQuM
+        Machine Learning Researcher
+            Поиск
+            Описание
+            Задачи
+            Навыки
+        ML Engineer
+        Machine Learning Engineer
+            Поиск
+                *ML Engineer профессия
+                *ML Engineer перспективы
+                ML Engineer задачи
+                ML Engineer навыки
+                ML Engineer курсы
+            Описание
+                Создает, обучает и интегрирует модели машинного обучения в продукт
+            Задачи
+            Навыки
+        Архитектор данных
+            Описание
+                Отвечает за проектирование, создание, развертывание и управление архитектурой данных организации
+            Задачи
+            Навыки
+        Продуктовый аналитик
+            Описание
+                Помогает улучшить продукт на основе анализа повдения пользователей и продуктовых метрик
+            Задачи
+            Навыки
+        Маркетинговый аналитик
+            Описание
+                Оптимизирует стоимость и скорость привлечения пользователей за счет анализа рынка и кампаний
+            Задачи
+            Навыки
+        Бизнес аналитик
+            Описание
+                Анализирует бизнес-процессы и показатели компании для решения текущих проблем и развития
+            Задачи
+            Навыки
+        BI аналитик
+            Описание
+                Собирает и анализирует информацию, визуализирует ее в виде дашбордов и отчетов
+            Задачи
+            Навыки
+
+
+Теория Python
     Основное
         https://www.python.org/
         https://pypi.org/
+        https://peps.python.org/pep-0020/
     Документация
         https://docs.python.org/3/
+    Шпаргалки
+        https://github.com/gto76/python-cheatsheet
+    PEP
+        PEP 8
+            https://peps.python.org/pep-0008/
+    Теория
+        Типы данных
+            Изменяемые
+            Неизменяемые
+        Синтаксис
+            Цикл
+            Условный оператор
+        Функции
+        Виртуальное окружение
+
+
+Теория Общее
+    Алгоритмы
+    Алгоритмы на графах
+    Рекурсия
+    Микросервисные приложения
+    Многопоточность
+    Многопроцессность
+    Тестирование
+    Высоконагруженные и распределенные системы
+    REST API
+
+
+Принципы
+    ООП
+    SOLID
+    Паттерны 
+
+
+ОС
+    Linux
+        Понимание архитектуры 
 
 
 Библиотеки
+    Пример
+        Описание
+        Ссылки
     Asyncio
+        Описание
+            A library to write concurrent code using the async/await syntax
+        Ссылки
+            https://docs.python.org/3/library/asyncio.html
     Aiohttp
+        Описание
+            Asynchronous HTTP Client/Server for Asyncio and Python.
+        Ссылки
+            https://docs.aiohttp.org/en/stable/
     Threading
+        Описание
+            Threading in python is used to run multiple threads (tasks, function calls) at the same time
+            Note that this does not mean that they are executed on different CPUs
+            Python threads will NOT make your program faster if it already uses 100 % CPU time
+        Ссылки
+            https://docs.python.org/3/library/threading.html
     Django
+        Описание
+            Free and open-source, Python-based web framework that follows the model–template–views architectural pattern
+        Ссылки
+            https://www.djangoproject.com/
+    Django Rest Framework
+        Описание
+            Powerful and flexible toolkit for building Web APIs
+            Its main benefit is that it makes serialization much easier
+            Django REST framework is based on Django's class-based views, so it's an excellent option if you're familiar with Django
+        Ссылки
+            https://www.django-rest-framework.org/
+    Flask
+        Описание
+            Micro web framework written in Python
+            It is classified as a microframework because it does not require particular tools or libraries
+            It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions
+        Ссылки
+            https://flask.palletsprojects.com/en/2.2.x/
+    Pyramid
+        Описание
+            A lightweight Python web framework aimed at taking small web apps into big web apps
+        Ссылки
+            https://trypyramid.com/
+    Bottle 
+        Описание
+            A fast, simple and lightweight WSGI micro web-framework for Python
+        Ссылки
+            https://bottlepy.org/docs/dev/
+    Falcon
+        Описание
+            A high-performance web framework for building a REST API and micro-services in Python
+        Ссылки
+            https://falcon.readthedocs.io/en/stable/
+    Tornado
+        Описание
+            A scalable, non-blocking web server and web application framework written in Python
+        Ссылки
+            https://www.tornadoweb.org/en/stable/
+    Sanic
+        Описание
+            A Python 3.6+ async web server and web framework that's written to go fast
+            The project's goal is to provide a simple way to get up and running a highly performant HTTP server that is easy to build, to expand, and ultimately to scale
+        Ссылки
+            https://sanic.dev/en/
+    Pytest 
+        Описание
+            The pytest framework makes it easy to write small, readable tests
+            And can scale to support complex functional testing for applications and libraries
+        Ссылки
+            https://pytest.org/
+    Tox
+        Описание
+            Automate and standardize testing in Python
+        Ссылки
+            https://tox.wiki/en/latest/
+    Numpy
+        Описание
+            The fundamental package for scientific computing with Python
+        Ссылки
+            https://numpy.org/
+    Pandas
+        Описание
+            A fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language
+            In particular, it offers data structures and operations for manipulating numerical tables and time series
+        Ссылки
+            https://pandas.pydata.org/
+    Matplotlib
+        Описание
+            A plotting library for the Python programming language and its numerical mathematics extension NumPy
+        Ссылки
+            https://matplotlib.org/
+    Tensorflow
+        Описание
+            TensorFlow is a free and open-source software library for machine learning and artificial intelligence
+            It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks
+        Ссылки
+            https://www.tensorflow.org/
+    Keras
+        Описание
+            A deep learning API written in Python, running on top of the machine learning platform TensorFlow
+        Ссылки
+            https://keras.io/
+    PyTorch
+        Описание
+            A machine learning framework based on the Torch library, used for applications such as computer vision and natural language processing
+        Ссылки
+            https://pytorch.org/
+    PyQt
+        Описание
+            A Python binding of the cross-platform GUI toolkit Qt, implemented as a Python plug-in
+        Ссылки
+            https://riverbankcomputing.com/software/pyqt/intro
+            https://www.qt.io/qt-for-python
+    Dear pygui
+        Описание
+            Easy-to-use, dynamic, GPU-Accelerated, cross-platform graphical user interface toolkit(GUI) for Python
+        Ссылки
+            https://github.com/hoffstadt/DearPyGui
+            https://dearpygui.readthedocs.io/en/latest/
+
+
+Линтеры
+    flake8
+    pylint
+    mypy
+
+
+Базы данных
+    PostgresSQL
+    MySQL
+    Redis
+    MongoDB
+    Cassandra
+    ClickHouse
+    Google BigQuery 
+    SqlAlchemy
+    Amazon DynamoDB
+    MariaDB
+    Tarantool
+
+
+Инструменты
+    Git
+        Описание
+        Ссылки
+        Обучение
+            https://github.com/jlord/git-it-electron
+    SVN
+    Celery
+        Описание
+            Celery is an open source asynchronous task queue or job queue which is based on distributed message passing
+            While it supports scheduling, its focus is on operations in real time
+        Ссылки
+            https://docs.celeryq.dev/en/stable/
+    Docker
+        Описание
+            A set of platform as a service products that use OS-level virtualization to deliver software in packages called containers
+        Ссылки
+            https://www.docker.com/
+
+
+Системы обмена сообщениями
+    Kafka
+    Rabbitmq
+
+
+Сериализаторы
+    Marshmallow
+    Pydantic
+
+
+Распределенные системы координации
+    etcd
+    zookeeper
+
+
+Системы управления конфигурацией
+    ansible
+    chef
+    puppet
+
+
+Сетевые протоколы
+    TCP
+    UDP
+    HTTP
+    WebSocket
     
     
+Способы сериализации
+    struct
+    protobuf
+    json

@@ -1,0 +1,15 @@
+Arduino
+    Поиск
+        Arduino best projects
+		Arduino best projects 2022
+        Arduino обзор
+        Arduino python
+	Ссылки
+        https://www.arduino.cc/
+
+
+Micropython
+    Поиск
+        Micropython обзор
+    Ссылки
+        https://micropython.org/

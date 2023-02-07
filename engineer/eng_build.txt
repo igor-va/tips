@@ -9,6 +9,7 @@ Files in the root folder and subfolder
 	- develop.dwg  # Development file
 	- manual.dwg  # Assembly instructions
 	.pdf  # Various drawings for discussion
+    - plan.odt  # The procedure for doing work
 	- wiki.txt  # General technical information about the product or part being developed
 	- tech.xlsx  # Specification, equipment, weight, length, strength
 	- eng.docx  # Translations from Russian into English

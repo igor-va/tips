@@ -4,7 +4,7 @@
 		Блоги
 		Новости
 		Библиотеки
-		Хабы, сообщества, порталы
+		Хабы, сообщества
 		Базы, библиотеки, калькуляторы
 		Форумы
 		Книги
@@ -34,18 +34,24 @@
 
 
 Ютуб
-	Fusion 360
-		https://www.youtube.com/c/AutodeskFusion360/videos
-	Interesting Engineering
-		https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ/feed
-	How It’s Made
-		https://www.youtube.com/channel/UCELt4nocnWDEnYJmov4zqyA/videos
-	Engineering Explained
-		https://www.youtube.com/user/EngineeringExplained/videos?view=0&sort=da&flow=grid
-	만드는사람 [MANDLER]
-		https://www.youtube.com/channel/UCiYtB2kLBTcnvODuzAB0_WQ/videos
-	NYC CNC 
-		https://www.youtube.com/nyccnc/videos
+    Разное
+        Fusion 360
+            https://www.youtube.com/c/AutodeskFusion360/videos
+        Interesting Engineering
+            https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ/feed
+        How It’s Made
+            https://www.youtube.com/channel/UCELt4nocnWDEnYJmov4zqyA/videos
+        Engineering Explained
+            https://www.youtube.com/user/EngineeringExplained/videos?view=0&sort=da&flow=grid
+        만드는사람 [MANDLER]
+            https://www.youtube.com/channel/UCiYtB2kLBTcnvODuzAB0_WQ/videos
+        NYC CNC 
+            https://www.youtube.com/nyccnc/videos
+    Мейкеры
+        DIY Builder 
+            https://www.youtube.com/@DIYBuilder/videos
+        AlexGyver
+            https://www.youtube.com/@AlexGyverShow/videos
 
 
 Блоги
@@ -144,9 +150,11 @@
 		https://cadlab.io/
 		https://www.3dmodelspace.com/
 		https://www.3dcontentcentral.com/
+        https://cults3d.com/en
+        https://octopart.com/
 
 
-Хабы, сообщества, порталы
+Хабы, сообщества
 	Поиск	
 		*Useful websites for CAD engineer
 		Полезные сайты для CAD инженера
@@ -160,10 +168,13 @@
 		Полезные порталы для CAD инженера-конструктора	
 	Ссылки
 		https://www.instructables.com/
+        https://www.tinkercad.com/
 		https://hackaday.io/
+        https://www.hackster.io/
 		https://3dtoday.ru/
 		https://learn.adafruit.com/
 		https://www.invent.org/
+        https://www.thingiverse.com/
 
 
 Базы, библиотеки, калькуляторы
@@ -254,6 +265,8 @@
 	Ссылки
 		Autodesk University
 			https://www.autodesk.com/autodesk-university/
+        CES
+            https://www.ces.tech/
 
 
 Фонды

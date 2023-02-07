@@ -1,0 +1,113 @@
+Поставщики комплектующих
+	Общее
+        https://aliexpress.ru/
+        https://www.avito.ru/
+    
+    Метизы
+		https://svm24.ru/
+		https://www.optprommetiz.ru/
+		https://1001krep.ru/
+		https://metizi.com/
+		https://www.cki-com.ru/
+		https://smetiz.ru/
+		https://www.hjfasteners.com/
+	
+    Профили алюминиевые
+		https://www.rsi-llc.ru/
+		https://promprof.ru/
+		https://alutech-group.com/
+		https://www.soberizavod.ru/
+		Алютех
+        Schuco
+        Татпроф
+        AGS
+        Reynaers
+        NASA
+        KRAUSS
+	
+    Электроника	и электротехника
+		Digikey
+			https://www.digikey.com/
+		Arlight
+            https://arlight.ru/
+            https://arlight.su/
+            https://led-ted.ru/
+        Arduino
+            https://www.arduino.cc/
+    
+    Клейкие ленты
+        https://likk.ru/	
+	
+    Ручки
+		https://spec-detal.com/
+
+
+Производства
+	Метал
+		https://xn--80aceefmet7aofbr.xn--p1ai/
+		https://www.metalexspb.ru/
+		https://almazmetall55.ru/
+		https://stinox-systems.ru/	
+	
+    Алюминий
+		https://anodzavod.ru/
+		https://iplana.ru/
+		https://alvidprof.ru/
+		https://realit.ru/
+		https://petrokon-spb.ru/
+	
+    Уплотнители
+		StandartProf
+			https://standart-prof.ru/
+			http://rushose.ru/
+			https://rustpe.com/
+		Поликарбонатные профили
+			https://pcprofiles.ru/
+	
+    Пластик литье
+		https://zaglushka.ru/
+		https://tmth.ru/
+	
+    Стекло
+		http://steklo-proekt.ru/
+		https://xn--80ahahgebkwp3o.xn--p1ai/
+		Гардиан
+        Пилкинктон
+        Главербель
+        Асахи Груп
+	
+    Дерево
+		https://treestar.su/
+    
+    3D печать
+        Кубик
+            https://www.cubicprints.ru/
+        3D Mastery
+            https://3dmastery.ru/
+        Венби
+            https://venby.ru/
+
+
+Монтажники
+	https://galaxiv.ru/
+	https://www.skbekas.ru/
+	https://citiglass.ru/
+	https://www.privateglass.ru/
+
+
+Проектировщики
+	FormLab
+		https://formlab.ru
+		https://habr.com/ru/users/anvos/posts/
+
+
+Расчетчики
+	КБ 2.0
+		https://kb20.ru/
+
+
+Испытательные центры
+	ПГУПС "Механическая лаборатория имени профессора Н.А.Белелюбского"
+		http://mech-lab.ru/	
+	ГК "Лестницы и ограждения"
+		https://gklio.ru/
