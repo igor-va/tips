@@ -74,10 +74,14 @@
 		https://blog.feedspot.com/cad_blogs/
 		https://www.tenlinks.com/cad/reference/blogs.htm
 	Ссылки
-		https://www.autodesk.com/products/fusion-360/blog/
+        Софт
+            https://www.autodesk.com/products/fusion-360/blog/
+            https://www.onshape.com/en/resource-center/innovation-blog/
+            
+            
 		https://formlab.ru/blog
 		https://habr.com/ru/users/anvos/posts/
-		https://www.onshape.com/en/resource-center/innovation-blog/
+		
 		https://magicdpd.ru/
 		https://fractory.com/engineering-blog/
 		https://www.hubs.com/blog/
