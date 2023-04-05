@@ -76,26 +76,29 @@
 	Ссылки
         Софт
             https://www.autodesk.com/products/fusion-360/blog/
+            https://blogs.autodesk.com/inventor/
+            https://blogs.autodesk.com/autocad/
             https://www.onshape.com/en/resource-center/innovation-blog/
-            
-            
-		https://formlab.ru/blog
-		https://habr.com/ru/users/anvos/posts/
-		
-		https://magicdpd.ru/
-		https://fractory.com/engineering-blog/
-		https://www.hubs.com/blog/
-		https://blog.grabcad.com/
-		https://info.traceparts.com/blog/
-		https://ceetron.com/blog/
-		https://www.pointcad.ru/
-		https://www.nafems.org/blog/
-		https://onscale.com/blog/
-		https://blogs.3ds.com/simulia/
-		https://www.cenos-platform.com/blog
-		https://www.multiphysics.ru/stati/blog
-		https://www.selfcad.com/blog
-		https://3dvision.su/blog/
+            https://www.ansys.com/blog
+            https://blogs.solidworks.com/solidworksblog/
+            https://blogs.solidworks.com/tech/
+            https://blogs.3ds.com/simulia/
+            https://www.selfcad.com/blog
+        Разработка
+            https://blog.grabcad.com/     
+            https://formlab.ru/blog
+            https://habr.com/ru/users/anvos/posts/
+            https://www.hubs.com/blog/
+            https://info.traceparts.com/blog/
+            https://ceetron.com/blog/
+            https://www.cenos-platform.com/blog
+            https://3dvision.su/blog/
+		Симуляция
+            https://www.nafems.org/blog/
+            https://onscale.com/blog/
+            https://www.multiphysics.ru/stati/blog
+        Производство
+            https://fractory.com/engineering-blog/
 
 
 Новости
