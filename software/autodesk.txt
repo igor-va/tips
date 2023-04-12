@@ -65,43 +65,36 @@ Autocad
 
 Fusion
 
-	Ссылки, блоги, сайты
-		https://www.autodesk.com/products/fusion-360/overview
-		https://www.autodesk.com/products/fusion-360/blog/
-		https://www.youtube.com/c/AutodeskFusion360/videos
-		https://forums.autodesk.com/t5/fusion-360/ct-p/1234
-		https://commandmap.autodesk.com/v1/
-		https://ekinssolutions.com/
-		https://github.com/AutodeskAILab/Fusion360GalleryDataset
-		https://clintbrown.co.uk/
+	Ссылки
+        https://www.autodesk.com/products/fusion-360/overview
+        https://www.youtube.com/c/AutodeskFusion360/videos
+        https://forums.autodesk.com/t5/fusion-360/ct-p/1234
+        https://commandmap.autodesk.com/v1/
 
-	Изучать
-		Surface
-		Simulation
-		Generative Design
-		Manufacture CAM
-		Electronic
-		Интересные плагины и утилиты
-		Готовые и открытые библиотеки
-		Открытые проекты
+	Блоги
+        https://www.autodesk.com/products/fusion-360/blog/
+        https://ekinssolutions.com/  
+        https://clintbrown.co.uk/
+    
+    Изучение
+        Симуляция
+		Расширения
+		Открытые библиотеки
 		Интересные проекты с хорошей детализацией
 		Скрипты на GitHub
-		Welding symbols ISO изучать в модуле Drawing
 
 	Документация
-		Лицензии
-			https://www.autodesk.com/products/fusion-360/blog/fusion-360-license-types/
 		Основное
 			https://help.autodesk.com/view/fusion360/ENU/
+        Лицензии
+			https://www.autodesk.com/products/fusion-360/blog/fusion-360-license-types/
 		Параметризация
 			https://help.autodesk.com/view/fusion360/ENU/?guid=GUID-76272551-3275-46C4-AE4D-10D58B408C20
 
-	Инсайдеры, развитие
+	Развитие
 		https://www.autodesk.com/products/fusion-360/blog/top-5-ways-give-fusion-360-feedback/#comment-12585
 		https://www.autodeskproductresearch.com/h/s/6CKIEDLjXhM4xRqHfFdbwy
 		https://feedback.autodesk.com/key/Fusion360Insider
-
-	Roadmap
 		https://app.mural.co/t/autodesk2145/m/timerahart2/1475171276107/0945259b7c22117012173ea2be3c9151fec1f184
 	
 	Туториалы
@@ -115,8 +108,12 @@ Fusion
 	
 	Расширения
 		Поиск
-			Для алюминиевых профилей
-			Для пластиковых деталей
+			Cпецификации
+            Алюминиевые профили
+			Пластиковые детали
+            Сварные конструкции
+            Инструкции по сборке
+            Мебель
 		Расширения
 			Bommer
 				https://www.getbommer.com/
@@ -133,6 +130,7 @@ Fusion
 		https://github.com/AutodeskAILab/Fusion360GalleryDataset
 		https://forums.autodesk.com/t5/fusion-360-api-and-scripts/bd-p/22
 		https://help.autodesk.com/view/fusion360/ENU/?guid=GUID-A92A4B10-3781-4925-94C6-47DA85A4F65A
+        https://github.com/AutodeskAILab/Fusion360GalleryDataset
 	
 
 Inventor 

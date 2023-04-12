@@ -75,15 +75,22 @@
 		https://www.tenlinks.com/cad/reference/blogs.htm
 	Ссылки
         Софт
-            https://www.autodesk.com/products/fusion-360/blog/
-            https://blogs.autodesk.com/inventor/
-            https://blogs.autodesk.com/autocad/
-            https://www.onshape.com/en/resource-center/innovation-blog/
-            https://www.ansys.com/blog
-            https://blogs.solidworks.com/solidworksblog/
-            https://blogs.solidworks.com/tech/
-            https://blogs.3ds.com/simulia/
-            https://www.selfcad.com/blog
+            Autodesk
+                https://www.autodesk.com/products/fusion-360/blog/
+                https://blogs.autodesk.com/inventor/
+                https://blogs.autodesk.com/autocad/
+            Ansys
+                https://www.ansys.com/blog
+            Dassault Systemes
+                https://blogs.solidworks.com/solidworksblog/
+                https://blogs.solidworks.com/tech/
+                https://blogs.3ds.com/simulia/
+            Altair
+                
+            Onshape   
+                https://www.onshape.com/en/resource-center/innovation-blog/
+            Разное
+                https://www.selfcad.com/blog
         Разработка
             https://blog.grabcad.com/     
             https://formlab.ru/blog
