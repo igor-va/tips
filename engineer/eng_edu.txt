@@ -92,8 +92,9 @@
             Разное
                 https://www.selfcad.com/blog
         Разработка
-            https://blog.grabcad.com/     
             https://formlab.ru/blog
+            https://blog.grabcad.com/
+            https://www.stratasys.com/en/resources/blog/
             https://habr.com/ru/users/anvos/posts/
             https://www.hubs.com/blog/
             https://info.traceparts.com/blog/
