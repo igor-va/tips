@@ -1,6 +1,7 @@
  Ссылки
 	https://ru.wikipedia.org/wiki/Единая_система_конструкторской_документации
 	https://docs.cntd.ru/
+    http://dcs.cntd.ru/docs/
 	http://gk-drawing.ru/
 	http://robot.bmstu.ru/files/GOST/gost-eskd.html
 
@@ -14,6 +15,7 @@
 	Модули и плагины для софта
 		ЕСКД для autocad
 		ЕСКД для inventor
+        ЕСКД для solidworks
 		
 	Проекты по ЕСКД
 		Проект по ЕСКД
@@ -142,4 +144,7 @@
 7 - Правила выполнения схем
 
 
-8 - 
+8 - Правила выполнения документов при макетном методе проектирования
+
+
+9 - Прочие стандарты
