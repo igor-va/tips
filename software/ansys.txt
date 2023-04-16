@@ -13,3 +13,13 @@
 	Форумы, коммьюнити
 
 	Туториалы, обучение
+
+
+Mechanical
+	Ссылки
+        https://www.ansys.com/products/structures/ansys-mechanical
+
+
+Discovery
+	Ссылки
+		https://www.ansys.com/products/3d-design/ansys-discovery

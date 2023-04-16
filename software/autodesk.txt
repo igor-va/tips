@@ -64,7 +64,6 @@ Autocad
 
 
 Fusion
-
 	Ссылки
         https://www.autodesk.com/products/fusion-360/overview
         https://www.youtube.com/c/AutodeskFusion360/videos
