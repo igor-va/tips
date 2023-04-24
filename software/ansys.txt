@@ -18,6 +18,11 @@
 Mechanical
 	Ссылки
         https://www.ansys.com/products/structures/ansys-mechanical
+        
+        
+LS-DYNA
+    Ссылки
+        https://www.ansys.com/products/structures/ansys-ls-dyna
 
 
 Discovery
