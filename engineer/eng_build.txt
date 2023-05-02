@@ -161,6 +161,7 @@ Files in the root folder and subfolder
 			
 			02 - DWG
 			02 - PDF
+            02 - Parts
 			
 			03 - Result
 		
