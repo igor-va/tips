@@ -17,11 +17,13 @@ Windows
 	Инженерное
 		AutoCad
 			SPDS
-		Fusion
+		Fusion 360
 			Command Map
 		Inventor
+        SolidWorks
+        Ansys Discovery
 		FreeCad
-		LibreCAD	
+		LibreCAD
 		Blender
         Maya
         Gimp
