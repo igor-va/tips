@@ -81,23 +81,21 @@
                 https://blogs.autodesk.com/autocad/
             Ansys
                 https://www.ansys.com/blog
+            Altair
+                https://altair.com/newsroom
             Dassault Systemes
                 https://blogs.solidworks.com/solidworksblog/
                 https://blogs.solidworks.com/tech/
                 https://blogs.3ds.com/simulia/
-            Altair
-                
             PTC   
                 https://www.onshape.com/en/resource-center/innovation-blog/
             Разное
                 https://www.selfcad.com/blog
         Разработка
             https://formlab.ru/blog
-            https://blog.grabcad.com/
-            https://www.stratasys.com/en/resources/blog/
+            https://blog.grabcad.com/       
             https://habr.com/ru/users/anvos/posts/
             https://www.hubs.com/blog/
-            https://info.traceparts.com/blog/
             https://ceetron.com/blog/
             https://www.cenos-platform.com/blog
             https://3dvision.su/blog/
@@ -107,6 +105,10 @@
             https://www.multiphysics.ru/stati/blog
         Производство
             https://fractory.com/engineering-blog/
+            https://www.stratasys.com/en/resources/blog/
+        Поставщики
+            https://info.traceparts.com/blog/
+
 
 
 Новости

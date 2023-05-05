@@ -5,7 +5,11 @@
 
 	Новости, блоги
 		https://www.altair.com/newsroom/
-		
+		https://altair.com/newsroom/news-releases
+		https://altair.com/newsroom/executive-insights
+		https://altair.com/newsroom/articles
+		https://altair.com/newsroom/partner-perspectives
+		https://altair.com/newsroom/in-the-news/
 	Форумы, коммьюнити
 		
 	Туториалы, обучение
