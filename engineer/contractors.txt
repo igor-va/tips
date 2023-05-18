@@ -1,6 +1,166 @@
-Поставщики комплектующих
+Фурнитура для стекла
+    GF сайты
+        https://www.glassfurnitura.ru/
+        http://unica.glassfurnitura.ru/
+        https://www.dovodchik.com/
+        https://www.gf-russia.ru/
+        https://www.sadev.ru/
+        http://glas.alm.su/
+        
+    GF Конкуренты
+        Titan
+            https://furnitura-titan.ru/
+            http://titan5.ru/
+            http://msk-titan.ru/
+        ТБМ
+            https://www.tbm.ru/
+            
+        Арабелла
+            https://arabella-st.ru/
+            
+        ARP
+            https://arprus.com/
+            http://sadevrus.ru/ru/about.html
+        
+        ПерилаГлавСнаб
+            https://www.perilaglavsnab.ru/
+            
+        Glas Marte
+            https://www.glasmarte.at/en
+            
+        Фристайл
+            https://freestyle-tech.ru/
+
+	GCC
+		https://www.gccintw.com.tw/
+		https://drive.google.com/drive/folders/1tFkymRmB0-1qWirF_sFSwhd3TKNHvpol
+		https://drive.google.com/drive/folders/1wIJYBciCZSuZTpaWAZomCmsxxNcV4E0k
+		http://www.stanleyglass.com/
+		https://www.youtube.com/channel/UCdH6l2LUjhYhGEiR__fs2gw/featured
+		https://www.youtube.com/channel/UCCqmtTLa7zSGCPtO0tIYXIQ
+		https://www.youtube.com/c/LoQuECaLLaMoSLoSViDrIeRoS/videos
+	
+	Sadev
+		https://www.sadev.com/
+	
+	Q-Railing
+		https://www.q-railing.com/en-ru/
+		https://www.q-railing.com/en-ir/glass-railings/
+		
+	ERS
+		https://www.erssystem.com/
+		https://www.eryapimetal.com.tr/
+
+	Dorma
+		https://www.dormakaba.com/gb-en
+		https://www.dormakabagroup.com/en
+		https://www.dormakaba.com/us-en
+		https://www.dormakaba.com/ru-ru
+		https://glas-innovationen.com/en/products/
+	
+	Assa Abloy
+		https://www.assaabloyentrance.com/en/
+		https://www.assaabloyentrance.co.uk/en/
+		https://www.assaabloyopeningsolutions.ae/en/
+		https://www.assaabloyopeningsolutions.fr/en/
+		https://www.assaabloyglass.us/en/products/
+		https://www.assaabloyopeningsolutions.com.my/en/
+		
+	Entrematic
+		https://www.entrematic.com/en/
+		
+	Colcom
+		https://www.colcomgroup.it/
+	
+	Saheco
+		https://www.saheco.com/
+		
+	Fapim
+		https://www.fapim.it/en/
+		https://catalogo.fapim.it/#/home
+		https://www.e-fapim.ru/	
+	
+	Kin Long
+		https://kinlong.ru/
+		https://en.kinlong.com/
+		
+	Metalglas
+		https://www.metalglasbonomi.com/
+		https://www.metalglas.it/
+		https://www.mymetalglas.it/
+		https://metalglas.app/	
+		
+	SIMONSWERK
+		https://www.simonswerk.com/
+		https://www.simonswerk-group.com/
+		
+	EffEff
+		https://www.effeff.de/de/site/effeff/
+		
+	Ditec
+		https://www.ditecautomations.com/en/
+		
+	Abel
+		https://www.abelsystem.de/
+
+	Faraone
+		https://faraone.it/
+
+	D+H
+		https://www.dh-partner.ru/
+		https://www.dh-partner.com/en/start.html
+
+	Oubao
+		https://www.oubao.com/
+
+	Raising
+		http://www.raisingbalustrade.com/
+
+	Primabuilder
+		https://www.primabuilder.com/
+
+	Top Good
+		http://www.chinatopgood.com/
+
+	Irail
+		http://www.irailhardware.com/
+		
+	ABLinox
+		http://ablinox.com/
+
+	Exa
+		https://www.exaitaly.com/
+	
+	Kedao
+		http://www.kedao.net/en/
+
+	Schmelz
+		https://www.schmelz.com.tr/
+
+	Schueco
+		https://www.schueco.com/ru/
+		https://www.schueco.com/us/
+
+	Tesa
+		https://tesa.ru/
+
+	Cakir
+		https://www.cakiraluminyum.com/eng/
+
+	SteelPro
+		https://www.steelpro.fi/en/
+		
+	Qiwin
+		http://www.qiwin.com/
+    
+    Stinox
+        https://stinox-systems.ru/
+
+
+Комплектующие
 	Общее
         https://aliexpress.ru/
+        https://www.alibaba.com/
         https://www.avito.ru/
     
     Метизы
@@ -11,7 +171,6 @@
 		https://www.cki-com.ru/
 		https://smetiz.ru/
 		https://www.hjfasteners.com/
-	
     
     Профиль конструкционный
         https://www.rsi-llc.ru/
@@ -28,7 +187,7 @@
         NASA
         KRAUSS
 	
-    Электроника	и электротехника
+    Электроника
 		Digikey
 			https://www.digikey.com/
 		Arlight
@@ -37,15 +196,34 @@
             https://led-ted.ru/
         Arduino
             https://www.arduino.cc/
+        Cnlinko
+            https://www.cnlinko.com/
     
     ЧПУ
-        
+        https://cnc-tehnologi.ru/
+        https://purelogic.ru/
+        https://darxton.ru/ 
     
     Клейкие ленты
         https://likk.ru/	
 	
     Ручки
 		https://spec-detal.com/
+        
+    Уголки
+        Monticelli
+            https://www.monticelli.it/en/default.html
+
+
+Проектировщики
+	FormLab
+		https://formlab.ru
+		https://habr.com/ru/users/anvos/posts/
+
+
+Расчетчики
+	КБ 2.0
+		https://kb20.ru/
 
 
 Производства
@@ -53,7 +231,6 @@
 		https://xn--80aceefmet7aofbr.xn--p1ai/
 		https://www.metalexspb.ru/
 		https://almazmetall55.ru/
-		https://stinox-systems.ru/	
 	
     Алюминий
 		https://anodzavod.ru/
@@ -98,6 +275,13 @@
             https://venby.ru/
 
 
+Испытательные центры
+	ПГУПС "Механическая лаборатория имени профессора Н.А.Белелюбского"
+		http://mech-lab.ru/	
+	ГК "Лестницы и ограждения"
+		https://gklio.ru/
+
+
 Монтажники
 	https://galaxiv.ru/
 	https://www.skbekas.ru/
@@ -105,19 +289,4 @@
 	https://www.privateglass.ru/
 
 
-Проектировщики
-	FormLab
-		https://formlab.ru
-		https://habr.com/ru/users/anvos/posts/
 
-
-Расчетчики
-	КБ 2.0
-		https://kb20.ru/
-
-
-Испытательные центры
-	ПГУПС "Механическая лаборатория имени профессора Н.А.Белелюбского"
-		http://mech-lab.ru/	
-	ГК "Лестницы и ограждения"
-		https://gklio.ru/
