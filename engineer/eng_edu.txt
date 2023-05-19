@@ -139,8 +139,8 @@
 		2D библиотека
 		CAD blocks
 		CAD блоки
+        Best CAD Libraries
 		Лучшие CAD библиотеки
-		Best CAD Libraries
 	Подборки
 		https://pikabu.ru/story/poleznyie_saytyi_s_3d_modelyami_5570460
 	Ссылки
@@ -151,6 +151,7 @@
 		https://b2b.partcommunity.com/community/
 		https://www.traceparts.com/en
 		https://www.bimobject.com/en/
+        https://www.3dcontentcentral.com/
 
 		https://www.cadforum.cz/en/
 		https://cad-blocks.net/
@@ -166,7 +167,6 @@
 		https://library.io/
 		https://cadlab.io/
 		https://www.3dmodelspace.com/
-		https://www.3dcontentcentral.com/
         https://cults3d.com/en
         https://octopart.com/
 
