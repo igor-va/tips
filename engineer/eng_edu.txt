@@ -82,7 +82,7 @@
             Ansys
                 https://www.ansys.com/blog
             Altair
-                https://altair.com/newsroom
+                Altair
             Dassault Systemes
                 https://blogs.solidworks.com/solidworksblog/
                 https://blogs.solidworks.com/tech/
@@ -92,9 +92,11 @@
             Разное
                 https://www.selfcad.com/blog
         Разработка
-            https://formlab.ru/blog
+            Formlab
+                https://formlab.ru/blog
+                https://habr.com/ru/users/anvos/posts/
+
             https://blog.grabcad.com/       
-            https://habr.com/ru/users/anvos/posts/
             https://www.hubs.com/blog/
             https://ceetron.com/blog/
             https://www.cenos-platform.com/blog
@@ -110,7 +112,6 @@
             https://info.traceparts.com/blog/
 
 
-
 Новости
 	Поиск
 		CAD news
@@ -122,11 +123,16 @@
 		CAE software news
 		CAE software новости
 	Ссылки
-		https://redshift.autodesk.com/
-		https://adsknews.autodesk.com/
-		http://isicad.ru/ru/
-		https://www.engineering.com/home
-		https://interestingengineering.com/	
+        Софт
+            Autodesk
+                https://adsknews.autodesk.com/
+                https://redshift.autodesk.com/
+            Altair
+                https://altair.com/newsroom
+        Сайты
+            http://isicad.ru/ru/
+            https://www.engineering.com/home
+            https://interestingengineering.com/	
 
 
 Библиотеки	
@@ -205,12 +211,20 @@
 	Подборки
 		https://fractory.com/best-websites-for-mechanical-engineers/
 	Ссылки
-		http://matweb.com/
-		https://www.engineeringtoolbox.com/
-		https://www.engineersedge.com/	
-		https://mechanicalc.com/
-		https://www.asme.org/
-		https://imechanica.org/
+        Matweb
+            http://matweb.com/
+        Makersite
+            https://makersite.io/
+		Engineering ToolBox 
+            https://www.engineeringtoolbox.com/
+        Engineers edge
+            https://www.engineersedge.com/
+        Mechanicalc    
+            https://mechanicalc.com/
+        ASME
+            https://www.asme.org/
+        Imechanica
+            https://imechanica.org/
 
 
 Форумы

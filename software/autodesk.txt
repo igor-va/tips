@@ -69,19 +69,16 @@ Fusion
         https://www.youtube.com/c/AutodeskFusion360/videos
         https://forums.autodesk.com/t5/fusion-360/ct-p/1234
         https://commandmap.autodesk.com/v1/
-
 	Блоги
         https://www.autodesk.com/products/fusion-360/blog/
         https://ekinssolutions.com/  
-        https://clintbrown.co.uk/
-    
+        https://clintbrown.co.uk/ 
     Изучение
         Симуляция
 		Расширения
 		Открытые библиотеки
 		Интересные проекты с хорошей детализацией
 		Скрипты на GitHub
-
 	Документация
 		Основное
 			https://help.autodesk.com/view/fusion360/ENU/
@@ -89,22 +86,18 @@ Fusion
 			https://www.autodesk.com/products/fusion-360/blog/fusion-360-license-types/
 		Параметризация
 			https://help.autodesk.com/view/fusion360/ENU/?guid=GUID-76272551-3275-46C4-AE4D-10D58B408C20
-
 	Развитие
 		https://www.autodesk.com/products/fusion-360/blog/top-5-ways-give-fusion-360-feedback/#comment-12585
 		https://www.autodeskproductresearch.com/h/s/6CKIEDLjXhM4xRqHfFdbwy
 		https://feedback.autodesk.com/key/Fusion360Insider
-		https://app.mural.co/t/autodesk2145/m/timerahart2/1475171276107/0945259b7c22117012173ea2be3c9151fec1f184
-	
+		https://app.mural.co/t/autodesk2145/m/timerahart2/1475171276107/0945259b7c22117012173ea2be3c9151fec1f184	
 	Туториалы
 		https://help.autodesk.com/view/fusion360/ENU/courses/
-
 	Manufacture CAM
 		https://www.autodesk.com/products/fusion-360/blog/machining-fundamentals-toolpaths/
 		https://www.youtube.com/playlist?list=PLmA_xUT-8UlIgb8kWsg3L5OA2I9JxI1gc
 		https://cam.autodesk.com/machineslist
 		https://cam.autodesk.com/hsmtools
-	
 	Расширения
 		Поиск
 			Cпецификации
@@ -114,7 +107,9 @@ Fusion
             Инструкции по сборке
             Мебель
 		Расширения
-			Bommer
+            Бэкап
+				https://blog.profusion360.ru/fusion360-backup
+            Bommer
 				https://www.getbommer.com/
 				https://apps.autodesk.com/FUSION/en/Detail/Index?id=5433700426186506446&appLang=en&os=Win64
 			OpenBOM
@@ -122,9 +117,8 @@ Fusion
 				https://apps.autodesk.com/FUSION/en/Detail/Index?id=4600054964458767106&appLang=en&os=Win64
 			Xometry
 				https://apps.autodesk.com/FUSION/en/Detail/Index?id=5430166430880711212&appLang=en
-			Бэкап
-				https://blog.profusion360.ru/fusion360-backup
-
+            Makersite 
+                https://apps.autodesk.com/FUSION/en/Detail/Index?id=1537063973914260316&appLang=en&os=Win64
 	API
 		https://github.com/AutodeskAILab/Fusion360GalleryDataset
 		https://forums.autodesk.com/t5/fusion-360-api-and-scripts/bd-p/22
