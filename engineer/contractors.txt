@@ -232,7 +232,7 @@
 		https://www.metalexspb.ru/
 		https://almazmetall55.ru/
 	
-    Алюминий
+    Алюминий экструзия
         Петрокон
             https://petrokon-spb.ru/
         25 Микрон
@@ -250,12 +250,15 @@
 			http://rushose.ru/
 			https://rustpe.com/
     
-    Поликарбонат экструзия
-        https://pcprofiles.ru/
+    Пластик экструзия
+        Поликарбонатные профили
+            https://pcprofiles.ru/
 	
     Пластик литье
-		https://zaglushka.ru/
-		https://tmth.ru/
+        Заглушка
+            https://zaglushka.ru/
+		ТМ Технологии
+            https://tmth.ru/
 	
     Стекло
 		http://steklo-proekt.ru/
