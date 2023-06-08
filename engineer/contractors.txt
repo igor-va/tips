@@ -249,8 +249,9 @@
 			https://standart-prof.ru/
 			http://rushose.ru/
 			https://rustpe.com/
-		Поликарбонатные профили
-			https://pcprofiles.ru/
+    
+    Поликарбонат экструзия
+        https://pcprofiles.ru/
 	
     Пластик литье
 		https://zaglushka.ru/
