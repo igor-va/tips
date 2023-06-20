@@ -6,15 +6,22 @@
 
 
 Web утилиты
-    https://www.stroyteh.ru/converter/
-    https://www.translatorscafe.com/unit-converter/ru-RU/density/
-    http://steklodoka.ru/ves.html
-    https://cadsofttools.ru/pdf-to-dwg-online/
-    https://tools.pdf24.org/ru/
-    https://pdf.io/ru/unlock/
-    https://screenshot.guru/
-    https://www.manualslib.com/
-    https://www.pdfescape.com/windows/
+    Стекло
+        http://steklodoka.ru/ves.html
+        https://www.center-pss.ru/math/raschet-teplovogo-rashirenia-stekla.htm
+    Конвертер единиц
+        https://www.stroyteh.ru/converter/
+        https://www.translatorscafe.com/unit-converter/ru-RU/density/
+    Конвертер форматов
+        https://cadsofttools.ru/pdf-to-dwg-online/
+    PDF редактор
+        https://tools.pdf24.org/ru/
+        https://pdf.io/ru/unlock/
+        https://www.pdfescape.com/windows/
+    Скриншоты
+        https://screenshot.guru/
+    Инструкции
+        https://www.manualslib.com/
 
 
 Freecad
@@ -31,11 +38,9 @@ SolidWorks
 
 
 SolidWorks Composer
-	
 	Ссылки
 		https://www.youtube.com/user/SolidWorksComposer/videos
 		https://help.solidworks.com/2021/English/DSSWXComposerDoc/FrontmatterSWXComposer/DSSWXComposerDocHome.htm
-		
 	Изучать
 		Примеры
 		Выбор формата листа А4
