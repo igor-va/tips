@@ -69,15 +69,19 @@ Files in the root folder and subfolder
 		02 - Floor Guide
 		02 - Canopy
 		02 - End Cap
-			02 - End Cap Plastic
-			02 - End Cap Steel
 			02 - End Cap Aluminum
+            02 - End Cap Steel
+            02 - End Cap Plastic
 		02 - Profiles
 			02 - Profiles Aluminum
 			02 - Profiles Steel
 			02 - Profiles Plastic
 			02 - Profiles Seal
-		02 - Stainless Steel
+		02 - Bend
+            02 - Bend Aluminum
+            02 - Bend Steel
+        02 - Stainless Steel
+        02 - Steel
 		02 - Connector
 		02 - Corners
 		02 - Tube
