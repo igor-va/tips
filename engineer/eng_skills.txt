@@ -313,6 +313,7 @@
 	Welding
 	Additive manufacturing
 	Sheet metal
+    Waterjet Cutting
 	Electronics
 	Закаленное стекло
 	Литье пластика
