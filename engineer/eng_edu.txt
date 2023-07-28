@@ -95,9 +95,12 @@
             Formlab
                 https://formlab.ru/blog
                 https://habr.com/ru/users/anvos/posts/
-
-            https://blog.grabcad.com/       
-            https://www.hubs.com/blog/
+            GrabCad
+                https://blog.grabcad.com/       
+            Hubs
+                https://www.hubs.com/blog/
+            
+            https://www.protocase.com/blog/
             https://ceetron.com/blog/
             https://www.cenos-platform.com/blog
             https://3dvision.su/blog/

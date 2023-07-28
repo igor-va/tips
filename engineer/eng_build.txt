@@ -116,6 +116,7 @@ Files in the root folder and subfolder
 		
 		02 - 3D Models
 		02 - 3D Print
+        02 - G-Code
 		02 - DWG
 		02 - DXF
 		02 - PDF

@@ -41,7 +41,9 @@
 				https://formlab.ru/blog-page/199-razrabotke-korpusov
 				https://formlab.ru/faq
 				https://formlab.ru/blog-page/198-maket-prototip-seriynyy-obrazec-uchim-terminy
-			Конкуренты
+			Соединение
+                https://habr.com/ru/articles/723684/
+            Конкуренты
 				https://formlab.ru/blog-page/185-chto-takoe-konkurentosposobnost-kak-priobresti
 			Подрядчики
 				https://formlab.ru/blog-page/181-kak-vybrat-podryadchika-promdizayn
@@ -927,13 +929,16 @@ Tech
 						Межосевое =
 					Резьба для "Деталь"
                         Диаметр =
-						Длина = 
+						Длина =
                     Отверстие для "Деталь"
 						Диаметр =
+                        Зенковка =
 						Длина = 
-					Вырезы для "Деталь"
+					Вырез для "Деталь"
                         Диаметр =
 						Длина = 
+                        Ширина =
+                        Допуск = 
                     Зазор до "Деталь"
 						Сверху =
 						Сбоку =

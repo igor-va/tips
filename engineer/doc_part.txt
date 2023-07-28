@@ -463,6 +463,7 @@
 		Поиск
 	Ссылки
 		https://formlab.ru/kak_razrabotat_korpus_iz_metalla
+        https://www.stankoff.ru/blog/post/285
 		https://www.stankoff.ru/blog/post/336
 	Книги
 		Книги
