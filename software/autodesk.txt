@@ -69,7 +69,10 @@ Fusion
         https://www.youtube.com/c/AutodeskFusion360/videos
         https://forums.autodesk.com/t5/fusion-360/ct-p/1234
         https://commandmap.autodesk.com/v1/
-	Блоги
+	Браузер
+        https://fusion.online.autodesk.com/
+        https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/4GAYwrd9SV4MJlh68wUATv.html
+    Блоги
         https://www.autodesk.com/products/fusion-360/blog/
         https://ekinssolutions.com/  
         https://clintbrown.co.uk/ 

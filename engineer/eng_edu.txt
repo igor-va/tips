@@ -89,8 +89,6 @@
                 https://blogs.3ds.com/simulia/
             PTC   
                 https://www.onshape.com/en/resource-center/innovation-blog/
-            Разное
-                https://www.selfcad.com/blog
         Разработка
             Formlab
                 https://formlab.ru/blog
