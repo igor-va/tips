@@ -288,6 +288,7 @@
 	
 	Reverse Engineering
         https://www.autodesk.com/products/fusion-360/blog/how-reverse-engineering-can-aid-the-design-process/
+        https://formlab.ru/blog-page/604-legalnyy-sposob-kopirovat-importnye-izdeliya-chego-nachat-kuda-idti
 	Research and development (R&D)
 		https://www.autodesk.com/products/fusion-360/blog/what-is-research-and-development/
         
@@ -329,12 +330,15 @@
 
 
 Способы соединения деталей
-    Соединение метизами
-    Защёлки
-    Склейка
-    Ультразвуковая сварка
-    Сборка в паз (слайдер)
-    Установка внатяг
+    Ссылки
+        https://habr.com/ru/articles/723684/
+    Типы
+        Соединение метизами
+        Защёлки
+        Склейка
+        Ультразвуковая сварка
+        Сборка в паз (слайдер)
+        Установка внатяг
 
 
 Системы производства

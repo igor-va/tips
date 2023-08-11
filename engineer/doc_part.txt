@@ -239,11 +239,13 @@
 		FormLab Guide
 			https://docs.google.com/document/d/1dHkOx-EFE2ObTzDSNSHq_ZnL1X4a64T7Cc7f3nzTseQ/edit
 	Ссылки
-		Разное
-			https://www.hubs.com/
-			https://www.plasticsindustry.org/
-		Разработка корпуса
-			https://formlab.ru/kak_razrabotat_korpus_iz_plastika
+        https://www.plasticsindustry.org/
+        https://formlab.ru/kak_razrabotat_korpus_iz_plastika
+        https://formlab.ru/blog-page/763-kak-vybrat-metod-proizvodstva-plastikovogo-korpusa-8-sposobov
+        https://formlab.ru/blog-page/191-chto-takoe-lityo-davleniem
+        https://formlab.ru/blog-page/183-kak-paru-minut-samostoyatelno-rasschitat-cenu-korpusa
+        https://www.hubs.com/guides/injection-molding/
+        http://fab.cba.mit.edu/classes/S62.12/people/vernelle.noel/Plastic_Snap_fit_design.pdf
 	Нормы
 		Нормы
 	Экономика
@@ -465,6 +467,7 @@
 		https://formlab.ru/kak_razrabotat_korpus_iz_metalla
         https://www.stankoff.ru/blog/post/285
 		https://www.stankoff.ru/blog/post/336
+        https://www.protocase.com/blog/2017/02/16/electronic-enclosure-design-101/
 	Книги
 		Книги
 	Нормы
@@ -652,7 +655,7 @@
 			https://docs.cntd.ru/document/1200120589
 
 
-Сборка		
+Сборочный чертеж	
 	Оформление
 		Виды
 		Выноски

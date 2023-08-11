@@ -109,6 +109,7 @@
         Производство
             https://fractory.com/engineering-blog/
             https://www.stratasys.com/en/resources/blog/
+            https://www.fictiv.com/
         Поставщики
             https://info.traceparts.com/blog/
 
