@@ -1,4 +1,4 @@
-Windows 
+Софт 
 	Точки восстановления
 	Браузеры
 		Google
@@ -22,6 +22,7 @@ Windows
 		Inventor
         SolidWorks
         Ansys Discovery
+        Altair
 		FreeCad
 		LibreCAD
 		Blender
@@ -48,51 +49,10 @@ Windows
 		Libre Office
 		VLC Media Player
 		NumLock Calculator
+        Shutter
 	Защита данных
 		Avast
 	ОС
 		Advanced SystemCare
 		Aida
 
-
-Ubuntu
-	Точки восстановления
-	Браузеры
-		Google
-		FireFox
-		Tor
-	Приложения для браузеров
-		Google Translate
-		Adblock
-		Dark Reader
-		VPN
-		Tab Suspender
-			https://chrome.google.com/webstore/detail/tab-suspender/fiabciakcmgepblmdkmemdbbkilneeeh?hl=en
-	Инженерное
-		FreeCad
-		LibreCAD
-		Gimp
-		Blender
-	Программирование
-		Pycharm 2019.3.3  # Для Fusion API
-			https://www.jetbrains.com/pycharm/download/other.html
-		Notepad++
-		Python
-		GitBash
-		GitHub Desktop
-		GitKraken	
-	Хобби
-		DreamTime
-			https://www.dreamtime.tech/
-	Офисные пакеты и утилиты
-		Foxit Reader
-		Unreal Commander 
-		Double Commander
-		Q-Translate
-			https://quest-app.appspot.com/
-		Translatium
-		Calibre E-book
-		Libre Office
-		VLC Media Player
-		NumLock Calculator	
-		Shutter

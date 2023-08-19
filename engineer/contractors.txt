@@ -8,7 +8,6 @@
         https://zakaz.ist/plast
         https://formlab.ru/blog-page/167-rynok-uslug-promdizayna-rossii
         https://formlab.ru/blog-page/181-kak-vybrat-podryadchika-promdizayn
-
     Поставщики
         https://formlab.ru/blog-page/175-6-fatalnykh-oshibok
         https://formlab.ru/blog-page/176-6-finansovykh-prichin
@@ -187,6 +186,9 @@
 		https://www.cki-com.ru/
 		https://smetiz.ru/
 		https://www.hjfasteners.com/
+        
+        Pemnet
+            https://www.pemnet.com/eu/
     
     Профиль конструкционный
         https://www.rsi-llc.ru/
