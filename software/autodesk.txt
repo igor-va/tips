@@ -152,7 +152,7 @@ Prodsmart
 Forge 
 
 
-Netfabb 
+Netfabb
 
 
 Autocad Mechanical
@@ -170,8 +170,7 @@ Eagle
 
 
 Moldflow
-
-	Ссылки, болги, сайты
+	Ссылки
 		https://www.autodesk.com/products/moldflow/overview
 
 

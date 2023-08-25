@@ -491,10 +491,13 @@
         https://www.stankoff.ru/blog/post/285
 		https://www.stankoff.ru/blog/post/336
         https://www.protocase.com/blog/2017/02/16/electronic-enclosure-design-101/
+        https://geomiq.com/sheet-metal-design-guide/
+        https://get-it-made.co.uk/guides/sheet-metal-guide
 	Книги
 		Книги
 	Нормы
-		Нормы
+		ГОСТ 30893.1-2002
+            https://docs.cntd.ru/document/1200032262
     Оборудовние
         Оборудовние
     Материал
@@ -577,8 +580,11 @@
 
 Резка Метал
     Названия
-        Laser cutting
-        Waterjet Cutting
+        Laser Cutting
+        Water Jet Cutting
+        Plasma Cutting
+        Guillotining
+        Punching
 
 
 3D печать

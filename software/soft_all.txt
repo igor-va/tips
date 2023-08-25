@@ -47,10 +47,6 @@ SolidWorks Composer
 		Шаблон на все листы
 		Как вставить таблицу
 		Как экспортировать в PDF в хорошем качестве
-	
-
-Ansys
-	https://www.ansys.com/
 
 
 Salome

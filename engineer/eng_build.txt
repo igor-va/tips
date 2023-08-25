@@ -119,6 +119,7 @@ Files in the root folder and subfolder
         02 - G-Code
 		02 - DWG
 		02 - DXF
+        02 - STP
 		02 - PDF
 		02 - Versions
 			2022.05.23 - v2
