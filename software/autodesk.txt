@@ -1,31 +1,26 @@
 Ссылки
-
 	Основное
 		https://www.autodesk.com/
+        https://www.autodesk.org/
 		https://manage.autodesk.com/home
 		https://health.autodesk.com/
 		https://www.autodesk.com/solutions
 		https://www.autodesk.com/industry
 		https://www.autodesk.com/research/overview
 		https://viewer.autodesk.com/designviews
-	
 	Новости, блоги
 		https://adsknews.autodesk.com/
 		https://redshift.autodesk.com/
 		https://www.autodesk.com/blogs
-	
 	Форумы, коммьюнити, социальные сети
 		https://knowledge.autodesk.com/
 		https://forums.autodesk.com/
 		https://forums.autodesk.com/t5/russkiy/ct-p/5056
 		https://www.autodesk.com/social-media
-		
 	Туториалы, обучение
 		https://academy.autodesk.com/
-		
 	Разное
 		https://knowledge.autodesk.com/community/screencast
-
 	Autodesk University
 		https://www.autodesk.com/autodesk-university/
 		https://www.autodesk.com/autodesk-university/au-online?

@@ -208,16 +208,28 @@
             Долговечность
             Надежность
             Прочность
+            Ударопрочный
             Жёсткость
             Легкость
             Герметичность
-                https://formlab.ru/blog-page/163-stepen-zaschity-obolochki-ip
-                https://habr.com/ru/articles/586112/
-                https://habr.com/ru/articles/588578/
+                Поиск
+                    Способы герметизация корпусов для электроники
+                    Methods for sealing electronics cases
+                    Guide for design waterproof electronics
+                    Electronics sealed enclosure design guide
+                    Ways to assemble waterproof enclosure
+                Ссылки
+                    https://formlab.ru/blog-page/163-stepen-zaschity-obolochki-ip
+                    https://habr.com/ru/articles/586112/
+                    https://habr.com/ru/articles/588578/
+                    https://promwad.com/news/sealing-of-enclosures-part-1
+                    https://promwad.com/news/sealing-of-enclosures-part-2
+                    https://www.fictiv.com/articles/nothing-gets-in-waterproof-enclosure-design-101-and-ip68
             Водонепроницаемость
             Влагостойкость
             Пылезащищенность
             Воздухопроницаемость
+            Температурный режим
             Теплоизоляция
             Звукоизоляция
             Шумоизоляция

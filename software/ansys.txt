@@ -1,16 +1,13 @@
 Ссылки
 	Основное
 		https://www.ansys.com/
-	
 	Новости, блоги
 		https://www.ansys.com/news-center
 		https://www.ansys.com/news-center/press-releases
 		https://www.ansys.com/blog
 		https://www.ansys.com/advantage-magazine
 		https://www.ansys.com/company-information/ansys-success-stories
-		
 	Форумы, коммьюнити
-
 	Туториалы, обучение
 
 
@@ -28,6 +25,10 @@ Discovery
 	Ссылки
 		https://www.ansys.com/products/3d-design/ansys-discovery
         https://discoveryforum.ansys.com/
-        
     Туториалы
         https://discoveryforum.ansys.com/t/q5ga9j
+
+
+Rocky
+    Ссылки
+        https://www.ansys.com/products/fluids/ansys-rocky

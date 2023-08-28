@@ -38,20 +38,14 @@
 
 Блоги
 	Поиск
-		*CAD blog
-		*CAD блог
-		*CAD blog best
-		*CAD блоги лучшие
-		*CAD engineers blog
-		*CAD инженерный блог
-		*CAD software blog
-		*CAD блог программного обеспечения
-		*CAE blog
-		*CAE блог
-		*CAE simulation blog
-		*CAE simulation блог расчеты
-		*Simulation engineers blog
-		*Simulation инженерные расчеты блог
+		CAD blog
+		CAD blog best
+		CAD engineers blog
+		CAD software blog
+        CAD development blog
+		CAE blog
+		CAE simulation blog
+		Simulation engineers blog
 	Подборки
 		https://blog.feedspot.com/cad_blogs/
 		https://www.tenlinks.com/cad/reference/blogs.htm
@@ -79,33 +73,38 @@
                 https://blog.grabcad.com/       
             Hubs
                 https://www.hubs.com/blog/
-            
-            https://www.protocase.com/blog/
-            https://ceetron.com/blog/
-            https://www.cenos-platform.com/blog
-            https://3dvision.su/blog/
+            Get-It-Made
+                https://get-it-made.co.uk/insights
+                https://get-it-made.co.uk/technical-toolbox
+            Fictiv    
+                https://www.fictiv.com/articles
+                https://www.fictiv.com/teardowns
+                https://www.fictiv.com/case-studies
+            Protocase
+                https://www.protocase.com/blog/
 		Симуляция
-            https://www.nafems.org/blog/
-            https://onscale.com/blog/
-            https://www.multiphysics.ru/stati/blog
+            NAFEMS
+                https://www.nafems.org/blog/
+            Onscale
+                https://onscale.com/blog/
+            Multiphysics
+                https://www.multiphysics.ru/stati/blog
         Производство
-            https://fractory.com/engineering-blog/
-            https://www.stratasys.com/en/resources/blog/
-            https://www.fictiv.com/
+            Fractory
+                https://fractory.com/engineering-blog/
+            Stratasys
+                https://www.stratasys.com/en/resources/blog/
         Поставщики
-            https://info.traceparts.com/blog/
+            Traceparts
+                https://info.traceparts.com/blog/
 
 
 Новости
 	Поиск
 		CAD news
-		CAD новости
 		CAE news
-		CAE новости
 		CAD software news
-		CAD software новости
 		CAE software news
-		CAE software новости
 	Ссылки
         Софт
             Autodesk
