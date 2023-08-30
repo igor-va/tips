@@ -228,6 +228,7 @@
         Литье в песчанные формы
         Sand casting
         Investment casting
+        Aluminium Die Casting
     Материал
 		AISI 304 / 08x18Н10 
 		AISI 316 / 08х17н13м2
