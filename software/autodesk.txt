@@ -19,7 +19,7 @@
 		https://www.autodesk.com/social-media
 	Туториалы, обучение
 		https://academy.autodesk.com/
-	Разное
+	Разное`
 		https://knowledge.autodesk.com/community/screencast
 	Autodesk University
 		https://www.autodesk.com/autodesk-university/
@@ -89,7 +89,7 @@ Fusion
 		https://www.autodeskproductresearch.com/h/s/6CKIEDLjXhM4xRqHfFdbwy
 		https://feedback.autodesk.com/key/Fusion360Insider
 		https://app.mural.co/t/autodesk2145/m/timerahart2/1475171276107/0945259b7c22117012173ea2be3c9151fec1f184	
-	Туториалы
+	Обучение
 		https://help.autodesk.com/view/fusion360/ENU/courses/
 	Manufacture CAM
 		https://www.autodesk.com/products/fusion-360/blog/machining-fundamentals-toolpaths/

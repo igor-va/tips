@@ -110,6 +110,8 @@
             Autodesk
                 https://adsknews.autodesk.com/
                 https://redshift.autodesk.com/
+            Ansys
+                https://www.ansys.com/news-center
             Altair
                 https://altair.com/newsroom
         Сайты

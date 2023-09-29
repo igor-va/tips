@@ -1,31 +1,30 @@
-Сделать структуру папок разработок на английском и на русском
+Сделать структуру папок разработок на английском
 	Просматривать и выписывать все образующиеся папки на сервере и во фьюжн
 	Понять как правильно структурировать, должна быть логика
-	Добавлять перед названием папки цифру как обозначение категории
-	Названия папок на русском и английском
+	Добавлять перед названием папки цифру как обозначение категории 
+	Названия папок на английском
 
 
 Files in the root folder and subfolder
-	- develop.dwg  # Development file
-	- manual.dwg  # Assembly instructions
+	- develop.dwg  # DWG development file
+	- manual.dwg  # DWG assembly instructions file
 	.pdf  # Various drawings for discussion
-    - plan.odt  # The procedure for doing work
 	- wiki.txt  # General technical information about the product or part being developed
 	- tech.xlsx  # Specification, equipment, weight, length, strength
 	- eng.docx  # Translations from Russian into English
 
 
 Названия разрабатываемых деталей на сервере
-	Detail Name v?  # Профиль Крышка v2
-	Detail Name v? - Type  # Профиль Крышка v2 - Сечение
-	Project Name - Detail Name v? - Type  # Профиль зажимной - Профиль Крышка v2 - Сечение
+	Detail Name - R2  # Профиль Крышка - R2
+	Detail Name - R2 - Type  # Профиль Крышка - R2 - Сечение
+	Project Name - Detail Name R2 - Type  # Профиль зажимной - Профиль Крышка R2 - Сечение
 
 
 Названия разрабатываемых деталей во фьюжн
-	Detail Name  # Крышка торцевая
-	Detail Name Ver1  # Крышка торцевая Ver1
-	Assembly Name  # Сборка
-	Assembly Name Ver1  # Сборка Ver1
+	Detail  # Крышка торцевая
+	Subassembly - R2  # Подсборка - R2
+	Assembly - R2  # Сборка R2
+	Assembly - Subassembly - R2  # Сборка - Подсборка - R2
 
 
 Файлы
@@ -65,44 +64,58 @@ Files in the root folder and subfolder
 
 Проектные файлы 1
 	02 - Parts
-	02 - Part Name
-		02 - Floor Guide
-		02 - Canopy
-		02 - End Cap
-			02 - End Cap Aluminum
-            02 - End Cap Steel
-            02 - End Cap Plastic
-		02 - Profiles
-			02 - Profiles Aluminum
-			02 - Profiles Steel
-			02 - Profiles Plastic
-			02 - Profiles Seal
-		02 - Bend
-            02 - Bend Aluminum
+    02 - Technology
+		02 - Extrusion
+			02 - Extrusion Aluminium
+			02 - Extrusion Steel
+			02 - Extrusion Plastic
+			02 - Extrusion Seal
+        02 - Casting
+            02 - Casting Aluminium
+            02 - Casting Plastic
+        02 - Milling
+            02 - Milling Metal
+        02 - Turning
+            02 - Turning Metal
+        02 - Bend
+            02 - Bend Metal
+            02 - Bend Aluminium
             02 - Bend Steel
+        02 - 3D Print
+            02 - 3D Print FDM
+            02 - 3D Print SLA
+        02 - Painting
+    02 - Material
+        02 - Plastic
         02 - Stainless Steel
         02 - Steel
-		02 - Connector
+        02 - Seals
+        02 - Wood
+    02 - Part Name    
+        02 - Connector
 		02 - Corners
 		02 - Tube
-		02 - Seals
 		02 - Brushes
-		02 - Fasteners
 		02 - Panels
 		02 - Plate
 		02 - Accessories
-	02 - Part Number
-	02 - Article
-	02 - Plastic
-	02 - Metal
-	02 - Wood
-	02 - Electrical
-	02 - Electronics
-	02 - Tools
-	02 - Version (1, A)
-	02 - Versions
-		2022.05.23 - v2
-	02 - Alternative
+		02 - Part Name
+		02 - Floor Guide
+		02 - Canopy
+        02 - End Cap
+			02 - End Cap Aluminum
+            02 - End Cap Steel
+            02 - End Cap Plastic
+    02 - Part Number
+        02 - Article Number
+	02 - Сontractor 
+        02 - Сontractor Name
+        02 - Fasteners
+        02 - Electrical
+        02 - Electronics
+        02 - LED
+        02 - Tools
+	02 - Other
 		01 - 3D
 		01 - Analogs
 		01 - Archive
@@ -136,13 +149,13 @@ Files in the root folder and subfolder
         02 - Suppliers Name
 		
 		03 - Assembly
-		03 - Drawings
-		03 - Milling
-		03 - Painting
 		03 - Compare
 		03 - Prices
 		03 - Pay
 		03 - Packing
+        03 - Drawings
+            03 - Drawings R1
+            03 - Drawings R2
 
 		04 - Kinematics
 		04 - Strength
@@ -177,13 +190,13 @@ Files in the root folder and subfolder
 
 Проектные файлы 2
 	03 - Assembly
-	03 - Drawings
-	03 - Milling
-	03 - Painting
 	03 - Compare
 	03 - Prices
 	03 - Pay
 	03 - Packing
+    03 - Drawings
+        03 - Drawings R1
+        03 - Drawings R2
 
 
 Анализ, проверка прочности, симуляция, кинематика
