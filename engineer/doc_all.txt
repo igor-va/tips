@@ -1,5 +1,8 @@
 Ссылки
-	https://docs.cntd.ru/
+    Нормы
+        https://docs.cntd.ru/
+    Допуски
+        http://tekhnar.ru/dopuski-posadki/val-h7.html
 
 
 Упаковка
