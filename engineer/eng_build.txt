@@ -81,6 +81,10 @@ Files in the root folder and subfolder
             02 - Bend Metal
             02 - Bend Aluminium
             02 - Bend Steel
+        02 - Cut
+            02 - Cut Metal
+            02 - Cut Plastic
+            02 - Cut Wood
         02 - 3D Print
             02 - 3D Print FDM
             02 - 3D Print SLA
@@ -138,6 +142,7 @@ Files in the root folder and subfolder
 			2022.05.23 - v2
 		02 - Manufacture Request
 			02 - 2022.01.01
+            02 - Manufacture Request R1
 		02 - Manufacture Response
 			02 - 2022.01.01
 		02 - Manufacture (Name)
