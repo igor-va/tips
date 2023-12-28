@@ -138,8 +138,10 @@ Files in the root folder and subfolder
 		02 - DXF
         02 - STP
 		02 - PDF
-		02 - Versions
-			2022.05.23 - v2
+		02 - Version Name
+            02 - Version R1.1
+            02 - Version Name
+            2022.05.23 - v2
 		02 - Manufacture Request
 			02 - 2022.01.01
             02 - Manufacture Request R1
