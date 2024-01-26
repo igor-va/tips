@@ -119,7 +119,10 @@ Files in the root folder and subfolder
         02 - Electronics
         02 - LED
         02 - Tools
-	02 - Other
+	02 - Templates
+        02 - 3D Print
+        02 - Cut
+    02 - Other
 		01 - 3D
 		01 - Analogs
 		01 - Archive
@@ -160,6 +163,7 @@ Files in the root folder and subfolder
 		03 - Prices
 		03 - Pay
 		03 - Packing
+        03 - Documentation
         03 - Drawings
             03 - Drawings R1
             03 - Drawings R2
