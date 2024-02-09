@@ -226,6 +226,8 @@
             https://www.arduino.cc/
         Cnlinko
             https://www.cnlinko.com/
+        Giant4
+            https://giant4.ru/
     
     ЧПУ
         https://cnc-tehnologi.ru/
