@@ -24,6 +24,10 @@ Web утилиты
         https://www.manualslib.com/
 
 
+Калькуляторы
+    https://kalk.pro/
+
+
 Freecad
 	https://www.freecad.org/
 	https://www.freecadweb.org/

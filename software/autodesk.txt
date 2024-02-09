@@ -12,6 +12,7 @@
 		https://adsknews.autodesk.com/
 		https://redshift.autodesk.com/
 		https://www.autodesk.com/blogs
+        https://www.autodesk.com/design-make
 	Форумы, коммьюнити, социальные сети
 		https://knowledge.autodesk.com/
 		https://forums.autodesk.com/
@@ -71,6 +72,9 @@ Fusion
         https://www.autodesk.com/products/fusion-360/blog/
         https://ekinssolutions.com/  
         https://clintbrown.co.uk/ 
+    Проблемы
+        Autodesk Identity Manager
+            https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/7zbgTemIhA3ltRs4eACL0g.html
     Изучение
         Симуляция
 		Расширения
