@@ -180,6 +180,7 @@ Files in the root folder and subfolder
 		06 - Manual
 		06 - Manual Video
 		06 - Library
+        06 - Portfolio
 		06 - Images
 			01 - 3D
 			01 - Analogs
