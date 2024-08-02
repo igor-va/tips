@@ -14,7 +14,7 @@ unittest  # Framework built into the Python standard library (203)
 # pytest-html - отчет результатов тестов в формате html (226)
 https://pytest-html.readthedocs.io/en/latest/
 https://pypi.org/project/pytest-html/
---html=report.html
+pytest --html=report.html
 
 # pytest-cov - code coverage is a measurement of what percentage of the code under test is being tested by a test suite (pytest​​ ​​--cov=/path/to/code) (181)
 https://coverage.readthedocs.io/en/coverage-5.4/

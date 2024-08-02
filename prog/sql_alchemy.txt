@@ -1,4 +1,0 @@
-# ORM - object-relational mapping (объектно-реляционное отображение)
-
-# Links
-https://www.sqlalchemy.org/

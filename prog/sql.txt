@@ -1,0 +1,160 @@
+# Ссылки
+https://www.sqlalchemy.org/
+
+
+# Типы данных
+INTEGER (INT)
+    Пример: age INT
+    Этот тип данных используется для хранения целых чисел, например, возраста
+FLOAT и DOUBLE
+    Пример: price FLOAT или average_score DOUBLE
+    Эти типы данных используются для хранения чисел с плавающей точкой, таких как цены или средние оценки
+VARCHAR
+    Пример: first_name VARCHAR(50)
+    Этот тип данных предназначен для хранения текстовых строк переменной длины, таких как имена
+CHAR
+    Пример: gender CHAR(1)
+    CHAR также используется для хранения строк, но фиксированной длины. В этом примере, CHAR(1) будет использован 
+    для хранения одного символа (например, "M" или "F" для пола)
+DATE
+    Пример: birth_date DATE
+    Этот тип данных предназначен для хранения даты (год, месяц, день)
+TIME
+    Пример: appointment_time TIME
+    TIME используется для хранения времени (часы, минуты, секунды)
+DATETIME и TIMESTAMP
+    Пример: created_at DATETIME или updated_at TIMESTAMP
+    Эти типы данных используются для хранения даты и времени
+    DATETIME сохраняет фиксированную дату и время
+    TIMESTAMP может использоваться для отслеживания времени создания и обновления записей
+BOOLEAN
+    Пример: is_active BOOLEAN
+    BOOLEAN предназначен для хранения логических значений, таких как true или false
+ENUM
+    Пример: status ENUM('active', 'inactive', 'pending')
+    ENUM представляет собой перечисление значений и используется, 
+    когда столбец может иметь только одно из ограниченного множества значений.
+BLOB и TEXT
+    Пример: profile_picture BLOB или comments TEXT
+    BLOB (Binary Large Object) и TEXT используются для хранения больших объемов данных, 
+    таких как изображения (BLOB) и длинные тексты (TEXT).
+NULL
+    Это специальное значение в MySQL, которое указывает на отсутствие данных или неопределенное значение в столбце. 
+    Когда столбец имеет тип данных, который допускает NULL (например, VARCHAR, INT, DECIMAL, и т.д.) 
+    и в него не внесено конкретное значение, то это значение считается NULL. 
+    Это означает, что в ячейке столбца нет данных.
+Пустое значение (Empty Value)
+    Это может относиться к строкам VARCHAR или TEXT, где внутри столбца есть строка, 
+    но она пуста, т.е., не содержит символов. Это не то же самое, что NULL. 
+    В этом случае, столбец не содержит NULL, но содержит пустую строку.
+
+
+# Работа с базами данных
+SHOW DATABASES  # Получение списка всех доступных баз данных
+    SHOW DATABASES;
+CREATE DATABASE  # Создание новой базы данных
+    CREATE DATABASE mydb;
+DROP DATABASE  # Удаление существующей базы данных и всех её данных
+    DROP DATABASE mydb;
+USE  # Выбор базы данных, с которой вы хотите работать (активировать)
+    USE mydb;
+
+
+# Работа с таблицами
+SHOW TABLES  # Показывает таблицы внутри БД
+    SHOW TABLES;
+CREATE TABLE  # Создание новой таблицы
+    CREATE TABLE users (id INT AUTO_INCREMENT PRIMARY KEY, username VARCHAR(50) NOT NULL, email VARCHAR(100) UNIQUE, birthdate DATE);
+DROP TABLE  # Удаление таблицы и всех её данных
+    DROP TABLE users;
+DESCRIBE или DESC  # Получение информации о структуре таблицы
+    DESCRIBE users;
+INSERT INTO  # Вставка новых записей в таблицу
+    INSERT INTO users (username, email, birthdate) VALUES ('john_doe', 'john@example.com', '1990-05-15');
+DELETE  # Удаление записей из таблицы
+    DELETE FROM users WHERE id = 1;
+UPDATE  # Обновление данных в таблице
+    UPDATE users SET email = 'new_email@example.com' WHERE id = 2;
+ALTER TABLE  # Изменение структуры существующей таблицы
+    ALTER TABLE users ADD COLUMN phone_number VARCHAR(20);  # Добавление нового столбца
+    ALTER TABLE users MODIFY COLUMN phone_number INT;  # Изменение типа столбца
+    ALTER TABLE users DROP COLUMN birthdate;  # Удаление столбца
+    
+    
+# Работа с SELECT
+SELECT *  # Получение всех данных из таблицы
+    SELECT * FROM employees;
+SELECT DISTINCT  # Получение уникальных значений столбца
+    SELECT DISTINCT department FROM employees;
+SELECT * FROM LIMIT  # Получение первых нескольких записей из таблицы
+    SELECT * FROM employees LIMIT 3;
+SELECT field AS  # Переименование столбца в результате запроса
+    SELECT first_name AS "First Name", last_name AS "Last Name" FROM employees;
+SELECT FROM WHERE  # Получение данных с условием
+    SELECT * FROM employees WHERE department = 'HR';
+SELECT FROM WHERE AND  # Использование оператора AND для комбинирования условий
+    SELECT * FROM employees WHERE department = 'Finance' AND salary > 60000.00;
+SELECT FROM WHERE OR  # Использование оператора OR для комбинирования условий
+    SELECT * FROM employees WHERE department = 'HR' OR department = 'IT';
+LIKE _  # Поиск строк, где символ подчеркивания (_) заменяет один символ
+    SELECT * FROM employees WHERE last_name LIKE 'D_e';
+LIKE %  # Поиск строк с произвольными символами перед и/или после указанных символов
+    SELECT * FROM employees WHERE first_name LIKE 'J%';
+LIKE _g%  # Поиск строк, имеющий в середине "g", имеющий один символ перед "g" и любое количество после
+    SELECT * FROM employees WHERE last_name LIKE '_g%';
+BETWEEN  # Поиск значений в заданном диапазоне
+    SELECT * FROM employees WHERE salary BETWEEN 55000.00 AND 75000.00;
+IN  # Поиск значений, соответствующих списку значений
+    SELECT * FROM employees WHERE department IN ('HR', 'Finance');
+WHERE NOT  # Поиск значений, которые не соответствуют условию
+    SELECT * FROM employees WHERE NOT department = 'IT';
+WHERE (field > value) AND field = value  # Сложное условие с операторами AND и сравнениями
+    SELECT * FROM employees WHERE (salary > 60000.00) AND (department = 'Finance');
+ORDER BY ASC  # Сортировка результатов по возрастанию
+    SELECT * FROM employees ORDER BY salary ASC;
+ORDER BY DESC  # Сортировка результатов по убыванию
+    SELECT * FROM employees ORDER BY salary DESC;
+MIN/MAX  # Получение минимального и максимального значения из столбца
+    SELECT MIN(salary) AS "Min Salary", MAX(salary) AS "Max Salary" FROM employees;
+COUNT  # Подсчет количества записей
+    SELECT COUNT(*) AS "Total Employees" FROM employees;
+AVG  # Получение среднего значения из столбца
+    SELECT AVG(salary) AS "Average Salary" FROM employees;
+SUM  # Получение суммы значений из столбца
+    SELECT SUM(salary) AS "Sum Salary" FROM employees;
+
+
+# Работа с JOIN
+INNER JOIN  # Используется для объединения строк из двух таблиц на основе совпадающих значений в указанных столбцах
+    SELECT employees.first_name, employees.last_name, departments.department_name FROM employees INNER JOIN departments ON employees.department_id = departments.department_id;
+        Этот запрос объединяет данные из таблиц "employees" и "departments" по значению столбца "department_id"
+        В результате получается список имен сотрудников и названий департаментов, к которым они относятся
+LEFT JOIN  # Используется для объединения строк из левой таблицы со всеми совпадающими строками из правой таблицы
+    SELECT employees.first_name, employees.last_name, departments.department_name FROM employees LEFT JOIN departments ON employees.department_id = departments.department_id;
+        Этот запрос вернет список всех сотрудников и их департаментов
+        Если сотрудник не привязан к департаменту, его данные также будут включены в результат
+RIGHT JOIN  # Используется для объединения строк из правой таблицы со всеми совпадающими строками из левой таблицы
+    SELECT employees.first_name, employees.last_name, departments.department_name FROM employees RIGHT JOIN departments ON employees.department_id = departments.department_id;
+        Этот запрос вернет список всех департаментов и их сотрудников
+        Если департамент не имеет сотрудников, его данные также будут включены в результат
+
+
+# Работа с UNION
+UNION  # Используется для объединения результатов двух или более запросов в один набор результатов, удаляет дубликаты строк
+    SELECT first_name, last_name, department_id FROM employees UNION SELECT department_name AS first_name, NULL AS last_name, department_id FROM departments;
+        Этот запрос объединяет список сотрудников из таблицы "employees" с названиями департаментов из таблицы "departments"
+UNION ALL  # Используется для объединения результатов двух или более запросов в один набор результатов, но он сохраняет все строки, включая дубликаты
+    SELECT first_name, last_name, department_id FROM employees UNION ALL SELECT department_name AS first_name, NULL AS last_name, department_id FROM departments;
+        В этом запросе используется UNION ALL, поэтому дубликаты будут сохранены в результате
+HAVING  # Используется для фильтрации результатов агрегированных функций (например, COUNT, SUM, AVG) в GROUP BY
+    SELECT department_id, AVG(salary) AS avg_salary FROM employees GROUP BY department_id HAVING avg_salary > 60000;
+        Этот запрос сначала агрегирует данные по департаментам, а затем фильтрует результаты, оставляя только те департаменты, у которых средняя зарплата превышает 60000
+
+
+# Вложенные подзапросы
+SELECT department_name, (SELECT AVG(salary) FROM employees WHERE department_id = departments.department_id) AS avg_salary FROM departments WHERE department_name = 'HR';
+    Вложенные подзапросы позволяют выполнять запросы внутри других запросов
+    В этом запросе внутренний подзапрос (SELECT AVG(salary) FROM employees WHERE department_id = departments.department_id) вычисляет среднюю зарплату для каждого департамента, а внешний запрос выбирает только департамент "HR" и его среднюю зарплату.
+
+
+

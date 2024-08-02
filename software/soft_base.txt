@@ -37,6 +37,7 @@
 		GitBash
 		GitHub Desktop
 		GitKraken
+            https://www.gitkraken.com/
 	Хобби
 		DreamTime
 			https://www.dreamtime.tech/

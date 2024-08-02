@@ -38,10 +38,10 @@ pytest 0_pytest_intro/test_pytest_intro_1.py::TestClass::test_four  # Запус
 		   -k​​ ​​"exp1 and not exp2"  # Run all of the functions that have "exp1" in their name and not "exp2" 
 		   -k​​ ​​"exp1 or exp2"  # 
 -m "markexpr"  # Запуск маркированных тестов: pytest​​ ​​-v​​ ​​-m​​ ​​"run_these_please" (@pytest.mark.run_these_please)
-	       # test can have more than one marker, and a marker can be on multiple tests
-		 -m "mark1 and mark2"  # Only ran the test that had both markers
-		 -m "mark1 and not mark2"  # Tests that have mark1 but not mark2
-		 -m "mark1 or mark2"  # Tests with either, and so on
+			# test can have more than one marker, and a marker can be on multiple tests
+		-m "mark1 and mark2"  # Only ran the test that had both markers
+		-m "mark1 and not mark2"  # Tests that have mark1 but not mark2
+		-m "mark1 or mark2"  # Tests with either, and so on
 -x / –-exitfirst  # Stopping the entire test session immediately when a test fails
 --tb=style  # style: 'auto', 'long', 'short', 'no', 'line', 'native'
 		--tb=no  # Removes the traceback entirely, to hide the stack trace
@@ -98,46 +98,3 @@ def pytest_addoption(parser):	# Add a couple of options
                      help="some boolean option")
     parser.addoption("--foo", action="store", default="bar",
                      help="foo: bar or baz")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

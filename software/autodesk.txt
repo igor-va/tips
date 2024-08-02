@@ -173,6 +173,11 @@ Moldflow
 		https://www.autodesk.com/products/moldflow/overview
 
 
+PowerShape
+    Ссылки
+        https://www.autodesk.com/products/powershape/overview
+
+
 Maya
 
 
@@ -184,5 +189,3 @@ Alias
 
 Dynamo
 
-
-Simulation
