@@ -1,0 +1,53 @@
+Built-in
+
+    argparse - модуль для передачи параметров и параметризации скриптов
+        https://docs.python.org/3/library/argparse.html
+
+    json - модуль для работы с json данными
+        https://docs.python.org/3/library/json.html
+
+    subprocess - возможность запускать процессы программ из Python
+
+    sys - доступ к некоторым переменным окружения используемых интерпретатором
+
+    os - built-in library that provides a way to interact with the operating system
+
+    pathlib - working with file paths and directories
+
+    pdb - module debugger in the standard library
+
+    collections
+        https://docs.python.org/3/library/collections.html
+
+    logging - модуль для регистрации событий для приложений и библиотек
+        https://docs.python.org/3/library/logging.html
+
+    configparser - module works with the .ini file
+        https://docs.python.org/3/library/configparser.html
+    
+    pickle - serialization and de-serialization module
+    
+    datetime - work with dates and times
+
+    random - generate random numbers and sequences
+
+
+External
+
+    requests
+
+    paramiko - библиотека имплементирующая SSHv2, предоставляет клиент и сервер SSH
+
+    pyautogui - a cross-platform Graphical User Inteface (GUI) automation tool for Python
+
+    openpyxl - write and read data from Excel spreadsheet files
+
+    csv - package can be used to read and write data to and from CSV files
+
+    pandas - data manipulation library
+
+    numpy - library for performing numerical computations
+
+    faker - generating fake data such as names, addresses, phone numbers, dates and more
+
+

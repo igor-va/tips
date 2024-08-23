@@ -16,4 +16,7 @@ Exel
 	F2  # Погрузиться в конец ячейки 
 
 
-
+# Environment variables that hold the email server
+set MAIL_USERNAME=igorva.test@gmail.com
+set MAIL_PASSWORD=BigBomBam
+set FLASKY_ADMIN=igorva.test@gmail.com

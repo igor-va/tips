@@ -1,5 +1,48 @@
 # Links
 https://www.docker.com/
 
-
+# Paths
 C:\Users\Igor
+
+# Terminology
+Docker Image  # The docker image is a file or executable package comprised of everything needed to run
+                an application, including code, libraries, dependencies, and configuration files
+Docker Containers  # The actual runtime instance of docker images
+                    They are isolated environments that can run an application and its dependencies without 
+                    interfering with the host system or other containers running on the same system
+Docker Hub  # The cloud-based repository service where Docker images can be stored, managed, and shared with others
+Dockerfile  # The file without any extension that contains instructions for building a Docker image
+
+# Commands
+docker pull <image_name>  # This command downloads the specified Docker image from a Docker registry 
+                            (such as Docker Hub) and stores it on your local system
+docker build -t <image_name> .  # This command builds a Docker image from a Dockerfile located in the current
+                                    directory and tags it with the specified name
+docker run <image_name>  # This command runs a Docker container from the specified image
+    -d  # Run the container in detached mode, meaning it runs in the background and does not attach to the console
+    -p 4444:4444  # “-p 4444:4444” maps the container’s port 4444 to the host machine’s port 4444
+    -v /dev/shm:/dev/shm  # Mounts the shared memory directory on the host machine to the same directory inside the container, 
+                            which is required for Chrome to function properly in a containerized environment
+docker ps  # This command lists all running Docker containers
+    -a  # List all the containers including the ones that are stopped
+docker stop <container_id>  # This command stops a running Docker container
+docker rm <container_id>  # This command removes a stopped Docker container
+docker images  # This command lists all Docker images that are currently available on your system
+docker push <image_name>  # This command uploads a Docker image to a Docker registry
+docker start <container>  #
+docker stop <container>  #
+docker pause <container>  #
+docker unpause <container>  #
+docker kill <container>  #
+
+# Volume - a persistent data storage mechanism that allows a container to store and access data outside of its filesystem
+docker volume create
+docker volume ls
+docker volume rm
+docker volume inspect
+
+# Compose - is a tool that allows defining and running multi-container applications
+docker compose build  # Build project
+docker compose up  # This command starts the containers defined in the docker-compose.yaml file
+    --scale  # The nodes can be scaled up
+docker compose down  # Bring the container down

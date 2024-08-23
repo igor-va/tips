@@ -1,0 +1,123 @@
+# Plugins
+https://docs.pytest.org/en/latest/plugins.html
+pytest-json  # Отчет результатов тестов в формате json
+allure-pytest  # Для allure
+
+
+# С какими python модулями pytest может работать совместно
+pdb  # Module debugger in the standard library (​pytest​​ ​​​​--pdb)
+unittest.mock  # To swap out pieces of the system to isolate bits of our code under test from the rest of the system
+unittest  # Framework built into the Python standard library
+
+
+# pytest-html - отчет результатов тестов в формате html
+Links
+    https://pytest-html.readthedocs.io/en/latest/
+    https://pypi.org/project/pytest-html/
+Commands
+    pytest --html=report.html  # Save file in the current working directory
+    pytest --html=path/to/report.html  # Save file in the separate folder
+
+
+# pytest-xdist - parallel execution by distributing tests across multiple processors or machines
+Links
+    https://pypi.org/project/pytest-xdist/
+Commands
+    pytest -n 2  # numprocesses to run each test in a subprocess
+    pytest -n auto  # to automatically detect the number of CPUs on the system
+
+
+# pytest-cov - code coverage is a measurement of what percentage of the code under test is being tested by a test suite
+https://coverage.readthedocs.io/en/coverage-5.4/
+https://pytest-cov.readthedocs.io/en/latest/
+
+
+# mock & pytest-mock - thin-wrapper around the mock package for easier use with pytest
+https://docs.python.org/dev/library/unittest.mock.html
+https://pypi.org/project/pytest-mock/
+
+
+# tox - run your complete suite of tests in multiple environments
+https://tox.readthedocs.io/en/latest/
+
+
+# pytest-repeat - run tests more than once
+https://pypi.org/project/pytest-repeat/
+--count  # With the pytest-repeat plugin, you can use --count to run everything twice
+
+
+# pytest-timeout - it allows you pass a timeout period on the command line or mark individual tests with timeout periods in seconds
+https://pypi.org/project/pytest-timeout/
+​​--timeout=0.5  # Example
+
+
+# pytest-instafail - See Details of Failures and Errors as They Happen
+https://pypi.org/project/pytest-instafail/
+--instafail​​ 
+
+
+# pytest-sugar - Instafail + Colors + Progress Bar
+https://pypi.org/project/pytest-sugar/
+
+
+# pytest-emoji - allows you to replace all of the test status characters with emojis
+https://pypi.org/project/pytest-emoji/
+--emoji
+
+
+# pytest-pycodestyle - command-line tool can be used to check Python source code to see if it complies with PEP 8
+https://pypi.org/project/pytest-pycodestyle/
+
+
+# pytest-pep8
+https://pypi.org/project/pytest-pep8/
+
+
+# pytest-flake8 
+https://pypi.org/project/pytest-flake8/
+
+
+# pytest-selenium
+https://pypi.org/project/pytest-selenium/
+
+
+# pytest-django
+https://pypi.org/project/pytest-django/
+
+
+# pytest-flask
+https://pypi.org/project/pytest-flask/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,228 @@
+# Links
+https://www.python.org/
+
+
+# File structure
+requirements.txt  # List of packages and modules
+
+
+# Variables and Data Types
+a = 10  # <class 'int'>
+a = 'John'  # <class 'str'>
+a = str(10)  # <class 'str'>
+a = float(10)  # <class 'float'>
+a, b, c = 5, 6.4, "String"  # <class <'int'> <class <'float'> <class <'str'>
+
+
+# Prints
+print("{} {}".format("Value is", "String"))  # Value is String
+
+
+# Arithmetic operator
+a + b  # Addition
+a - b  # Subtraction
+a * b  # Multiplication
+a / b  # Division
+a % b  # Modulus
+a ** b  # Exponent
+a // b  # Floor division
+
+
+# Comparison operator
+5 == 5  # True
+5 != 5  # False
+5 > 1  # True
+5 < 10  # True
+5 >= 5  # True
+5 <= 5  # True
+
+
+# Assignment operator
+a = 15  # Assign
+x, y, z = 10, 5, 3  # Assign
+x += 3  # Add & assign
+x -= 3  # Subtract & assign
+x *= 3  # Multiple & assign
+y %= 3  # Modulus & assign
+z **= 3  # Exponent & assign
+z //= 3  # Floor division and assign
+
+
+# Logical, identity, and membership operator
+and, or, not  # Conditional statements
+is, is not  # Comparing objects
+in, not in  # Verifying if sequence is present in an object
+
+
+# Lists
+myStringList = ["One", "Two", "Three"]  # List with the same data types
+myList = [1, 2, "Mango", 8.4, "Apple"]  # List with different types of data
+myList[2]  # Print: Mango
+myList[-1]  # Print: Apple
+myList[1:3]  # Print: [2, 'Mango']
+myList[-3:-1]  # Print: ['Mango', 8.4]
+myList[::2]  # List in step 2
+myList.insert(15, "Orange")  # 'Orange' is inserted at index 15
+myList.append(19.5)  # Insert at the end
+myList[1] = "Grapes"  # 'Grapes' is inserted at index 1
+myList.remove(8.4)  # Remove the element 8.4
+
+
+# Tuples
+val = (6, 7, 88.67, "Tuple")  # Tuple with different types of data
+val[3]  # Print: Tuple
+
+
+# Sets
+mySet = {1, 2, 3, 4, 5}  # Creating a set from of integers
+mySet2 = {"apple", "banana", "cherry"}  # Creating a set from of words
+mySet = set([1, 2, 3, 4, 5, 5])  # Creating a set from a list of integers
+mySet2 = set(("apple", "banana", "cherry", "apple"))  # Creating a set from a tuple of strings
+mySet3 = set("hello")  # Creating a set from a string
+union_set = set1.union(set2)  # Union operation
+intersection_set = set2.intersection(set3)  # Intersection operation
+difference_set = set4.difference(set5)  # Difference operation
+symmetric_difference_set = set4.symmetric_difference(set5)  # Symmetric difference operation
+
+
+# Dictionaries
+employeeDetails = {1: "Employee", "EmployeeID": 12345, "first_name": "John", "age": 32}
+employeeDetails['EmployeeID']  # Print: 12345
+employeeDetails["age"] = 30  # Replace the key "age"
+employeeDetails["salary"] = 6050.99  # Add a new key-value pair
+del employeeDetails[1]  # Delete pair key "1"
+
+
+# IF-ELSE Condition
+a = 50
+b = 100
+c = 200
+if a > b:
+    print("a is greater than b")
+    if c >= b and c >= a:
+        print("c is greater than a and b")
+    else:
+        print("c is greater than a and b")
+elif a > c:
+    print("a is greater than c")
+elif a < c and a > b:
+    print("a is greater than b and less than c")
+elif c < b or a > c:
+    print("a is greater than c or c less than b")
+else:
+    print("Above all conditions are false")
+
+
+# WHILE Loop
+flag = True
+sum = 0
+while flag:
+    sum += 20
+    print(sum)
+    if sum >= 50:
+        flag = False
+    if sum == 3:
+        continue
+    if sum < 3:
+        break
+else:
+    print(sum)
+
+
+# FOR Loop
+myList = {"apple", "mango", "grapes", "orange"}
+for i in myList:
+    print(i)
+firstString = "car"
+for i in firstString:
+    print(i)
+for i in range(3):
+    print(i)
+
+
+# FOR ELSE loop
+myList = [1, 2, 3, 4, 5]
+searchValue = 6
+for item in myList:
+    if item == searchValue:
+        print("Item found!")
+            break
+else:
+    print("Item not found.")
+
+
+# Functions
+def addition_of_two_numbers(first_number, second_number):
+    result = first_number + second_number
+    return result
+
+
+# Modules
+import module
+from module import module
+from module.submodule import module
+from module import module as mod
+
+
+# Exceptions
+Exception  # Base class for all exceptions
+IndentationError  # Indentation is not specified properly
+ZeroDivisionError  # Raised when division by zero
+ArithmeticError  # Base class for all errors that occur for numeric calculation
+ValueError  # When function gets correct argument type, but incorrect value
+IndexError  # Access item out of range
+AttributeError  # When attribute assignment fails
+KeyError  # When the key in the dictionary is not found
+MemoryError  # When the program runs out of memory
+ImportError  # When the imported module is not found
+
+
+# Exception Handling
+def exceptions_handling_python(first_number, last_number):
+    try:
+        division_number = first_number / last_number
+    except ZeroDivisionError:
+        print('Division by 0 is not possible')
+    else:
+        print(division_number + "is the result")
+    finally:
+        print("Finally Block: will be executed always")
+    return number
+
+
+# Classes
+class Vehicle:
+    def __init__(self, company, model, door):
+        self.company = company
+        self.model = model
+        self.door = door
+        self.range = 350
+        self.remainingRange = 0
+    def plug_in_charge(self, after_charge):
+        if after_charge <= self.range:
+            self.remainingRange = after_charge
+        else:
+            print('Charge Done - Unplug')
+
+
+# Inheritance Classes
+class Animal:
+    def __init__(self, name):
+        self.name = name
+    def speak(self):
+        print(self.name + " is speaking.")
+class Dog(Animal):
+    def __init__(self, name):
+        super().__init__(name)
+    def speak(self):
+        print(self.name + " is speaking Bow.")
+class Cat(Animal):
+    def __init__(self, name):
+        super().__init__(name)
+    def speak(self):
+        print(self.name + " is speaking Meow.")
+
+
+# File
+with open('people.pickle', 'wb') as f:
+    pickle.dump(employee, f)

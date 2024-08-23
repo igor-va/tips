@@ -1,0 +1,66 @@
+# Links
+    Selenium
+        https://pypi.org/project/selenium/
+    Webdriver Manager
+        https://pypi.org/project/webdriver-manager/
+
+
+# Types of locators
+ID  # Locates elements matching search value with the id attribute of the object
+    driver.find_element(By.ID, 'login2').click()
+ClassName  # Locates elements matching the search value with the object’s class attribute
+    driver.find_element(By.CLASS_NAME, 'list-group')
+Name  # Locates elements matching search value with the Name attribute of the object
+    driver.find_element(By.NAME, 'login[username]').send_keys("admin")
+Link text  # Locates elements matching search value with the anchor tag “a” and the link text
+    driver.find_element(By.LINK_TEXT, 'Forgot Your Password?').click()
+Partial link text  # Locates elements matching search value with the anchor tag “a” and partially matches the text
+    driver.find_element(By.PARTIAL_LINK_TEXT, 'Pass').click()
+Tag Name  # Locates elements matching the search value with the tag name
+    driver.find_element(By.TAG_NAME, 'body').get_attribute('class')
+CSS Selector  # Locates elements matching the search value with CSS selector
+    ID  # CSS Selector with the id attribute, the “#” symbol is used between tagName and ID
+        tagName#Id" or "#Id" or tagName[id='idValue']
+            driver.find_element(By.CSS_SELECTOR, '#email').send_keys("admin")
+            driver.find_element(By.CSS_SELECTOR, 'input#email').send_keys("admin")
+            driver.find_element(By.CSS_SELECTOR, "input[id='email']").send_keys("admin")
+    CLASS  # CSS Selector with a class attribute, the “.” symbol is used for identifying elements
+        tagName.class" or ".className" or tagName[class='classValue']
+            driver.find_element(By.CSS_SELECTOR, "input[class='input-text']").send_keys("admin")
+            driver.find_element(By.CSS_SELECTOR, "input.input-text").send_keys("admin")
+            driver.find_element(By.CSS_SELECTOR, ".input-text").send_keys("admin")
+    ATTRIBUTE and MULTIPLE ATTRIBUTES
+        tagName[attributeName='attributeValue']
+            driver.find_element(By.CSS_SELECTOR, "input[type='email']").send_keys("adminadmin@gmail.com")
+        tagName[attribute1Name = attrubute1Value][attribute2Name = attrubute2Value]
+            driver.find_element(By.CSS_SELECTOR, "button[title='Subscribe'][type='submit']")
+    Relative CSS Selector  # Selectors provide a way to select elements that match a certain pattern or attribute value
+        ^=  # Selects elements that have an attribute value that starts with a specific string
+            input[name^="username"]  # Selects all input elements that have a name attribute starting with the string “username”
+        ~=  # Selects elements that have an attribute value that contains a specific word
+            div[class~="example"]  # Selects all div elements that have a class attribute containing the word “example”
+        $=  # Selects elements that have an attribute value that ends with a specific string
+            a[href$=".pdf"]  # Selects all elements that have an href attribute ending with the string “.pdf”
+        *=  # Selects elements that have an attribute value that contains a specific substring
+            img[alt*="cat"]  # Selects all img elements that have an alt attribute containing the substring “cat”
+XPath  # Locates elements using the XPath expression
+    Absolute XPath  # Elements are located navigating from the root node, <html> in a hierarchical order
+        /html/body/div[2]/footer/div/div[1]/div[2]/form/div[1]/div/label/input
+    Relative XPath  # The web elements are located by referring to the elements that need to be identified
+        //tagName[@attributeName = 'attributeValue']
+        //*[@attributeName = 'attributeValue']
+            //  # Defines the current directory or tag in HTML
+            tagName  # The current directory tag
+            @  # Element’s attribute to be selected is specified
+    XPath with logical operators and XPath Functions
+        AND
+            //tagName[@attributeName1='attributeValue1' and @attributeName2 = 'attributeValue2' and …]
+        OR
+            //tagName[@attributeName1='attributeValue1' or @attributeName2 = 'attributeValue2' or …]
+        text()
+            //tagName[text() = 'elementText']
+        contains()
+            //tagName[contains(@attributeName1,'partialAttributeValue1']
+            //tagName[contains(text(),'partialElementText']
+        starts-with()
+            //tagName[starts-with(@attributeName1,'partialStartStringOfAttributeValue1']

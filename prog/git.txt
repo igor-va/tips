@@ -2,6 +2,9 @@
 https://git-scm.com/
 https://learngitbranching.js.org/
 
+# Файловая структура
+.gitignore  # Перечень файлов, не включенные в проект
+
 # Начало работы
 git init  # Инициализация
 git add .  # Добавить все файлы

@@ -1,6 +1,66 @@
-# Паттерны
-Декоратор
-Итератор
-Генератор
-Фабрика
-Синглтон
+# Page Object Model (POM)
+Steps
+    Identify Application Pages
+        Identify the different pages of the application
+        Each page is required to have a separate page object class with all the elements on the page and element actions
+        Example "LoginPage": textbox for email and password, submit/sign in, sign up, and forgot password link
+    Define the Page Object Classes
+        Separate classes in the POM are used by the test code to identify
+        And interact with elements of the respective page without worrying about the underlying implementation
+        Page Object class should encapsulate the functionality and elements of a single page or feature
+        The Page Object class should contain methods that perform actions on the elements of the page
+    Implementation of Page Object Classes
+        Locator of all the elements of the page and actions performed on them are implemented
+        The "BasePage" serves as the foundation of all the other page classes
+        The "BasePage" class provides a centralized location of the basic common functionality all the web pages
+        The "BasePage" includes functionalities such as clicking, typing text, waiting for elements, finding and so on
+        All the page object class inherits from the "BasePage" class
+    Using the Page Object Class and Performing the Test
+        Write the test cases that make use of these page object classes to interact with the application
+Best Practices
+    Use the Page Factory pattern
+        Is a design pattern that can be used to create Page Object classes
+        Pattern uses annotations to identify the elements of the page and automatically initializes them
+        This makes it easier to create Page Object classes and reduces the amount of boilerplate code 
+    Use a WebDriver abstraction layer
+        Is a set of classes that encapsulate the functionality of the WebDriver API
+        Tests become more maintainable and readable, as the details of the WebDriver API are hidden from the tests
+    Use a Test Framework
+        Is a set of tools and libraries that can be used to create and run automated tests
+        Provide  support for test case management, reporting, and parallel test execution
+Folder structure
+    Configurations  # Folder contains test automation config files with access to variables, connections, credentials
+        config.ini  # File that contains application config info in key-value pairs the to add environment variables
+        file.json
+        file.yaml
+        TestData.py  # File is used to store URLs, credentials and so on
+    Locators  # Folder for contains locators
+        Home.py
+        Login.py
+    Logs  # Folder for storing logs
+        test.log
+    Pages  # Folder contains all the page object classes for each of the application pages
+        BasePage.py  # Foundation of all the other page classes
+        HomePage.py  # Page object class contains all the elements contained in the respective page and element actions
+        LoginPage.py
+    Reports  # Folder for storing test report
+        report.html
+    Screenshots  # Folder for storing screenshots
+        test_invalid_login.png  # Best practice to use the test name as the screenshot name
+        test_loginPageTitle.png
+    TestData  # Folder for storing driven testing with data source
+        CSV-Login.csv
+        DDT-Login.xlsx
+    Tests  # Folder contains Python files with all the test cases for the project
+        conftest.py  # Module used by pytest to define fixtures, plugins, and other configurations
+        pytest.ini  # Register custom marks
+        test_home.py  # Test file should follow the naming convention of the framework tests are implemented
+        test_login.py
+    Utilities  # Folder fo contains useful modules
+        faker.py
+        data.py
+    venv  # Folder virtual environment
+        Lib
+        Scripts
+    requirements.txt  # File with list a packages and modules
+    .gitignore  # List of files and folders not included in the project

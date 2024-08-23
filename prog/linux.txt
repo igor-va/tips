@@ -251,4 +251,8 @@ https://habr.com/ru/company/ruvds/blog/327530/
 https://github.com/TheMozg/awk-raycaster
 https://habr.com/ru/company/ruvds/blog/327754/
 
-
+# Environment variables that hold the email server
+export MAIL_USERNAME=igorva.test@gmail.com
+export MAIL_PASSWORD=BigBomBam
+export FLASKY_ADMIN=igorva.test@gmail.com
+~/.bashrc  # Path bash enviroment

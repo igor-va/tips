@@ -1,15 +1,25 @@
 # Links
 https://docs.pytest.org/en/latest/
 
+
+# File structure
+conftest.py  # Module used by pytest to define fixtures, plugins, and other configurations
+pytest.ini  # Register custom marks
+test_sample.py  # Test file with test functions
+
+
 # Instal pytest Tasks
+pip install pytest
 pip install ./tasks_proj/
 pip install --no-cache-dir ./tasks_proj/
 pip install -e ./tasks_proj/
 
+
 # Базовые понятия
-Создаем файлы с префиксом или окончанием test
-Создаем функции с префиксом test
-Создаем классы с префиксом Test
+Создаем файлы с префиксом или окончанием test  # test_sample.py, sample_test.py
+Создаем функции с префиксом test  # def test_fun1()
+Создаем классы с префиксом Test  # class TestClass()
+
 
 # Результаты тестов
 PASSED (.)  # Тест прошел успешно
@@ -19,6 +29,7 @@ xfail (x)  # Expected to fail
 XPASS (X)  # Expected to fail but passed
 ERROR (E)  # An exception happened outside of the test function, in either a fixture
 
+
 # Запуск отдельных файлов, функций, классов
 pytest 0_pytest_intro/  # Запуск тестов в конкретной директории
 pytest 0_pytest_intro/test_pytest_intro_1.py  # Запуск конкретного файла
@@ -26,48 +37,54 @@ pytest 0_pytest_intro/test_pytest_intro_1.py::test_one  # Запуск конк�
 pytest 0_pytest_intro/test_pytest_intro_1.py::TestClass  # Запуск конкретного класса
 pytest 0_pytest_intro/test_pytest_intro_1.py::TestClass::test_four  # Запуск конкретного классового метода
 
+
 # Опции
 -h / --help  # Посмотреть опции и параметры
 --version  # Shows the version of pytest and the directory where it’s installed
--v / --verbose  # More information: function names
+-v / --verbose  # Increase the verbosity of the output result: function names
 -q / --quiet  # Decreases the information reported
 --collect-only  # Показывает какие тесты будут запускаться
 --setup-show  # To see what’s running and when
--k "expression"  # Поиск тестовых функций для запуска: pytest​​ ​​-k​​ ​​"exp1 or exp2"​​
-		   -k​​ ​​"exp1"  # Run all of the functions that have "exp1" in their name
-		   -k​​ ​​"exp1 and not exp2"  # Run all of the functions that have "exp1" in their name and not "exp2" 
-		   -k​​ ​​"exp1 or exp2"  # 
+-k [expression]  # Поиск тестовых функций для запуска: pytest​​ ​​-k​​ ​​[exp1] or [exp2]
+   -k​​ ​​[exp1]  # Run all of the functions that have "exp1" in their name
+   -k​​ ​​[exp1] and not [exp2]  # Run all of the functions that have "exp1" in their name and not "exp2" 
+   -k​​ ​​[exp1] or [exp2]  # 
 -m "markexpr"  # Запуск маркированных тестов: pytest​​ ​​-v​​ ​​-m​​ ​​"run_these_please" (@pytest.mark.run_these_please)
-			# test can have more than one marker, and a marker can be on multiple tests
-		-m "mark1 and mark2"  # Only ran the test that had both markers
-		-m "mark1 and not mark2"  # Tests that have mark1 but not mark2
-		-m "mark1 or mark2"  # Tests with either, and so on
+                Test can have more than one marker, and a marker can be on multiple tests
+    -m [mark1] and [mark2]  # Only ran the test that had both markers
+    -m [mark1] and not [mark2]  # Tests that have [mark1] but not [mark2]
+    -m [mark1] or [mark2]  # Tests with either, and so on
+    -m not [mark1]  # Skip test [mark1]
+-- markers  # List of markers both default and added 
 -x / –-exitfirst  # Stopping the entire test session immediately when a test fails
 --tb=style  # style: 'auto', 'long', 'short', 'no', 'line', 'native'
-		--tb=no  # Removes the traceback entirely, to hide the stack trace
-		--tb=line  # Help to show a pattern in the failures
-		--tb=short  # Step up in verbose tracebacks
-		--tb=long  # Show you the most exhaustive, informative traceback possible
-		--tb=auto  # Show you the long version for the first and last tracebacks
-		--tb=native  # Show you the standard library traceback without any extra information
+    --tb=no  # Removes the traceback entirely, to hide the stack trace
+    --tb=line  # Help to show a pattern in the failures
+    --tb=short  # Step up in verbose tracebacks
+    --tb=long  # Show you the most exhaustive, informative traceback possible
+    --tb=auto  # Show you the long version for the first and last tracebacks
+    --tb=native  # Show you the standard library traceback without any extra information
 -–maxfail=num  # To specify how many failures are okay (num = integer)
--s  # Allows print statements
--–capture=method  # method: 'fd', 'sys', 'no', 'tee-sys'
+-s  # Allows print statements: stdout and stderr output from the test to the console
+-n  # Worker processes
+--capture=method  # method: 'fd', 'sys', 'no', 'tee-sys'
 --lf / --last-failed  # To run just the failing tests
--–ff / --failed-first  # First to run just the failing tests and then run the rest of the tests that passed last time
+--ff / --failed-first  # First to run just the failing tests and then run the rest of the tests that passed last time
 --l / -–showlocals  # Local variables and their values are displayed with tracebacks for failing tests
 --durations=N  # Show N slowest setup/test durations (N=0 for all)
 --cache-show  # Show cache contents, don't perform collection or tests (115)
 ​​--cache-clear​​  # Remove all cache contents at start of test run (115)
 --pdb  # Starts an interactive debugging session at the point of failure
 
-# Маркировка тестов @pytest.mark.
+
+# Маркировка тестов @pytest.mark
 @pytest.mark.skip()  # Skipping test
 @pytest.mark.skipif()  # Skipping test if the condition is satisfied
 @pytest.mark.xfail()  # Telling pytest to run a test function, but that we expect it to fail
 @pytest.mark.parametrize(argnames, argvalues)  # Parametrized testing
 						@pytest.mark.parametrize("x,y,expected", testdata)
 						def test_a(x, y, expected):
+
 
 # Fixtures
 @pytest.fixture()  # To tell pytest that a function is a fixture
@@ -78,19 +95,21 @@ conftest.py  # pytest will look in conftest.py files fixture (it should not be i
 		scope="class"  # C - Run once per test class
 		scope="module"  # M - Run once per module
 		scope="session"  # S - Run once per session
-@pytest.mark.usefixtures(’fixture1’, ’fixture2’)  # If you wanted a test to use a fixture, you put it in the parameter list (94)
-@pytest.fixture(autouse=True)  # Using autouse for fixtures that always get used (95)
-@pytest.fixture(name=​'name'​)  # The name of a fixture - Example: def test_everything(name): (97)
-@pytest.fixture(params=params)  # Parametrize fixtures (99 more)
+@pytest.mark.usefixtures(’fixture1’, ’fixture2’)  # If you wanted a test to use a fixture, you put it in the parameter list
+@pytest.fixture(autouse=True)  # Using autouse for fixtures that always get used
+@pytest.fixture(name=​'name'​)  # The name of a fixture - Example: def test_everything(name): 
+@pytest.fixture(params=params)  # Parametrize fixtures
+
 
 # Builtin Fixtures
-tmpdir  # Fixture is defined as function scope, you can’t use tmpdir to create folders or files that should stay in place longer than one test function (108)
-tmpdir_factory  # Resources created in session scope fixtures have a lifetime of the entire session (109)
-pytestconfig  # Control how pytest runs through CL arguments and options, configuration files, plugins, and the directory from which you launched pytest (112)
-capsys  # Allows you to retrieve stdout and stderr from some code, and it disables output capture temporarily (123)
-monkeypatch  # Return learn (125)
-doctest_namespace  # Return learn (129)
-recwarn  # Return learn (133)
+tmpdir  # Fixture is defined as function scope, you can’t use tmpdir to create folders or files that should stay in place longer than one test function
+tmpdir_factory  # Resources created in session scope fixtures have a lifetime of the entire session
+pytestconfig  # Control how pytest runs through CL arguments and options, configuration files, plugins, and the directory from which you launched pytest
+capsys  # Allows you to retrieve stdout and stderr from some code, and it disables output capture temporarily
+monkeypatch  # Return learn
+doctest_namespace  # Return learn
+recwarn  # Return learn
+
 
 # Hooks
 def pytest_addoption(parser):	# Add a couple of options
