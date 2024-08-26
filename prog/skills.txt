@@ -10,11 +10,16 @@
 
 
 Задачи
-    Видеоуроки
-        20. Работа с СУБД
-    Поочитать 
+    Selenium Doc
+        WebDriver
+        Test Practices
+    Книги 
         Selenium - Глава 9 "Фреймворки"
+        Selenium - Глава 12 "Docker / Grid"
         Лутц - Глава 23 "Пакеты модулей"
+    Поиск
+        Page Object паттерн
+        Page Object паттерн python
 
 
 Профессии

@@ -49,5 +49,7 @@ External
     numpy - library for performing numerical computations
 
     faker - generating fake data such as names, addresses, phone numbers, dates and more
+    
+    SQLAlchemy - The Python SQL Toolkit and Object Relational Mapper
 
 
