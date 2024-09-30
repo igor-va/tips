@@ -31,32 +31,34 @@ ERROR (E)  # An exception happened outside of the test function, in either a fix
 
 
 # Запуск отдельных файлов, функций, классов
+pytest  # Запуск всех тестов
 pytest 0_pytest_intro/  # Запуск тестов в конкретной директории
 pytest 0_pytest_intro/test_pytest_intro_1.py  # Запуск конкретного файла
 pytest 0_pytest_intro/test_pytest_intro_1.py::test_one  # Запуск конкретного теста
+pytest 0_pytest_intro/test_pytest_intro_1.py::test_one[x1,y2]  # Запуск конкретного теста с параметризацией
 pytest 0_pytest_intro/test_pytest_intro_1.py::TestClass  # Запуск конкретного класса
 pytest 0_pytest_intro/test_pytest_intro_1.py::TestClass::test_four  # Запуск конкретного классового метода
 
 
 # Опции
--h / --help  # Посмотреть опции и параметры
+-h, --help  # Посмотреть опции и параметры
 --version  # Shows the version of pytest and the directory where it’s installed
--v / --verbose  # Increase the verbosity of the output result: function names
--q / --quiet  # Decreases the information reported
+-v, --verbose  # Increase the verbosity of the output result: function names
+-q, --quiet  # Decreases the information reported
 --collect-only  # Показывает какие тесты будут запускаться
 --setup-show  # To see what’s running and when
 -k [expression]  # Поиск тестовых функций для запуска: pytest​​ ​​-k​​ ​​[exp1] or [exp2]
    -k​​ ​​[exp1]  # Run all of the functions that have "exp1" in their name
    -k​​ ​​[exp1] and not [exp2]  # Run all of the functions that have "exp1" in their name and not "exp2" 
    -k​​ ​​[exp1] or [exp2]  # 
--m "markexpr"  # Запуск маркированных тестов: pytest​​ ​​-v​​ ​​-m​​ ​​"run_these_please" (@pytest.mark.run_these_please)
+-m [markexpr]  # Запуск маркированных тестов: pytest​​ ​​-v​​ ​​-m​​ ​​"run_these_please" (@pytest.mark.run_these_please)
                 Test can have more than one marker, and a marker can be on multiple tests
     -m [mark1] and [mark2]  # Only ran the test that had both markers
     -m [mark1] and not [mark2]  # Tests that have [mark1] but not [mark2]
     -m [mark1] or [mark2]  # Tests with either, and so on
     -m not [mark1]  # Skip test [mark1]
 -- markers  # List of markers both default and added 
--x / –-exitfirst  # Stopping the entire test session immediately when a test fails
+-x, –-exitfirst  # Stopping the entire test session immediately when a test fails
 --tb=style  # style: 'auto', 'long', 'short', 'no', 'line', 'native'
     --tb=no  # Removes the traceback entirely, to hide the stack trace
     --tb=line  # Help to show a pattern in the failures
@@ -68,9 +70,9 @@ pytest 0_pytest_intro/test_pytest_intro_1.py::TestClass::test_four  # Запус
 -s  # Allows print statements: stdout and stderr output from the test to the console
 -n  # Worker processes
 --capture=method  # method: 'fd', 'sys', 'no', 'tee-sys'
---lf / --last-failed  # To run just the failing tests
---ff / --failed-first  # First to run just the failing tests and then run the rest of the tests that passed last time
---l / -–showlocals  # Local variables and their values are displayed with tracebacks for failing tests
+--lf, --last-failed  # To run just the failing tests
+--ff, --failed-first  # First to run just the failing tests and then run the rest of the tests that passed last time
+--l, -–showlocals  # Local variables and their values are displayed with tracebacks for failing tests
 --durations=N  # Show N slowest setup/test durations (N=0 for all)
 --cache-show  # Show cache contents, don't perform collection or tests (115)
 ​​--cache-clear​​  # Remove all cache contents at start of test run (115)
@@ -88,7 +90,6 @@ pytest 0_pytest_intro/test_pytest_intro_1.py::TestClass::test_four  # Запус
 
 # Fixtures
 @pytest.fixture()  # To tell pytest that a function is a fixture
-conftest.py  # pytest will look in conftest.py files fixture (it should not be imported by test files as python module)
 --fixtures filename.py  # To lists all the fixtures available for the test
 @pytest.fixture(scope=​'name'​)  # Specifying Fixture Scope
 		scope="function"  # F - Run once per test function
@@ -117,3 +118,8 @@ def pytest_addoption(parser):	# Add a couple of options
                      help="some boolean option")
     parser.addoption("--foo", action="store", default="bar",
                      help="foo: bar or baz")
+
+
+# Parameterization
+@pytest.mark.parametrize("x, y, res", [ (1, 2, 0.5), (5, -1, -5), ] )
+def test_devide(x, y, res) 

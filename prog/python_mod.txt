@@ -34,9 +34,9 @@ Built-in
 
 External
 
-    requests
+    requests - simple, yet elegant, HTTP library
 
-    paramiko - библиотека имплементирующая SSHv2, предоставляет клиент и сервер SSH
+    paramiko -  implementation of the SSHv2 protocol, providing both client and server functionality
 
     pyautogui - a cross-platform Graphical User Inteface (GUI) automation tool for Python
 

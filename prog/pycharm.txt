@@ -2,11 +2,13 @@
 https://www.jetbrains.com/help/pycharm/quick-start-guide.html  # Help
 
 
-# Команды
-CTRL+/  # Comment code
+# Commands
 Double Shift  # Search everywhere for classes, files, tool windows, actions, and settings
 Shift + F6  # Replacing the name in the entire project
+CTRL + /  # Comment code
 Ctrl + F8  # Toggle the breakpoint
-Ctrl + Space  # Code completion 
-Ctrl + W  # Extend selection
+Ctrl + Space  # Code completion
+Ctrl + Y  # Delete line
+Ctrl + W  # Extend selection, word to string, сlick several times
 Alt + LM  # Select a few mouse cursors
+Alt + Enter  # Context actions

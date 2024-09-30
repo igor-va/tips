@@ -1,4 +1,7 @@
 # Page Object Model (POM)
+Links
+    https://testengineer.ru/bolshoj-gajd-po-page-object-model/
+    https://habr.com/ru/companies/ozontech/articles/786000/
 Steps
     Identify Application Pages
         Identify the different pages of the application
@@ -40,6 +43,8 @@ Folder structure
     Logs  # Folder for storing logs
         test.log
     Pages  # Folder contains all the page object classes for each of the application pages
+        PageObjects  # Set of many times used object page
+        PageComponents  # Set of many times used components page
         BasePage.py  # Foundation of all the other page classes
         HomePage.py  # Page object class contains all the elements contained in the respective page and element actions
         LoginPage.py
@@ -54,6 +59,9 @@ Folder structure
     Tests  # Folder contains Python files with all the test cases for the project
         conftest.py  # Module used by pytest to define fixtures, plugins, and other configurations
         pytest.ini  # Register custom marks
+        pyproject.toml
+        tox.ini
+        setup.cfg
         test_home.py  # Test file should follow the naming convention of the framework tests are implemented
         test_login.py
     Utilities  # Folder fo contains useful modules
@@ -64,3 +72,9 @@ Folder structure
         Scripts
     requirements.txt  # File with list a packages and modules
     .gitignore  # List of files and folders not included in the project
+    docker-compose.yaml
+    Dockerfile
+    .dockerignore
+    configuration.py
+    db.py
+    

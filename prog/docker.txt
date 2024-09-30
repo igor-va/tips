@@ -1,6 +1,11 @@
 # Links
 https://www.docker.com/
 
+# Folder structure
+Dockerfile  # File without any extension that contains instructions for building a Docker image
+docker-compose.yaml  # File to configure all the application services, networks, and volumes for Docker Compose
+.dockerignore  #
+
 # Paths
 C:\Users\Igor
 
@@ -12,6 +17,7 @@ Docker Containers  # The actual runtime instance of docker images
                     interfering with the host system or other containers running on the same system
 Docker Hub  # The cloud-based repository service where Docker images can be stored, managed, and shared with others
 Dockerfile  # The file without any extension that contains instructions for building a Docker image
+Build  # Build refers to the process of creating a Docker image from a Dockerfile
 
 # Commands
 docker pull <image_name>  # This command downloads the specified Docker image from a Docker registry 

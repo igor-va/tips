@@ -1,3 +1,8 @@
 # Links
 http://allure.qatools.ru/
 https://docs.qameta.io/allure/
+
+
+# Commands
+allure serve [dirpath]  # Генерация отчета по директории [dirpath] и открытие в браузере
+allure generate [dirpath]  # Генерация отчета по директории [dirpath] как отдельный проект
