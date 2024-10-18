@@ -59,6 +59,7 @@ pytest 0_pytest_intro/test_pytest_intro_1.py::TestClass::test_four  # Запус
     -m not [mark1]  # Skip test [mark1]
 -- markers  # List of markers both default and added 
 -x, –-exitfirst  # Stopping the entire test session immediately when a test fails
+-–maxfail=num  # To specify how many failures are okay (num = integer)
 --tb=style  # style: 'auto', 'long', 'short', 'no', 'line', 'native'
     --tb=no  # Removes the traceback entirely, to hide the stack trace
     --tb=line  # Help to show a pattern in the failures
@@ -66,17 +67,18 @@ pytest 0_pytest_intro/test_pytest_intro_1.py::TestClass::test_four  # Запус
     --tb=long  # Show you the most exhaustive, informative traceback possible
     --tb=auto  # Show you the long version for the first and last tracebacks
     --tb=native  # Show you the standard library traceback without any extra information
--–maxfail=num  # To specify how many failures are okay (num = integer)
 -s  # Allows print statements: stdout and stderr output from the test to the console
 -n  # Worker processes
 --capture=method  # method: 'fd', 'sys', 'no', 'tee-sys'
 --lf, --last-failed  # To run just the failing tests
 --ff, --failed-first  # First to run just the failing tests and then run the rest of the tests that passed last time
+--nf, --new-first  # Run new tests first followed by the rest of the tests
 --l, -–showlocals  # Local variables and their values are displayed with tracebacks for failing tests
 --durations=N  # Show N slowest setup/test durations (N=0 for all)
---cache-show  # Show cache contents, don't perform collection or tests (115)
-​​--cache-clear​​  # Remove all cache contents at start of test run (115)
+--cache-show  # Show cache contents, don't perform collection or tests
+--cache-clear # Remove all cache contents at start of test run
 --pdb  # Starts an interactive debugging session at the point of failure
+--no-header  # Skipping the header
 
 
 # Маркировка тестов @pytest.mark

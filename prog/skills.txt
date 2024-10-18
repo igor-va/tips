@@ -10,24 +10,25 @@
 
 
 Задачи
-    Documentation
-        Selenium - WebDriver
-        Pytest
-    Ютуб
-        Jenkins
-        Devtools
-        Postman
-        Confluence
+    Тестовое
+        Выполнение
+            Zebomba
+            МК Групп
+        Готовое
+            NordCodes
+            Only
+            Удовика Сергей Сергеевич
+            Бюро Цифровых Технологий
+            Уно-Софт
+    Анкеты
+        DropsTab LTD
+        Яндекс Крауд
 
 
 Профессии
     Backend Python
         Поиск
-            *Backend Python профессия
-            *Backend Python перспективы
-            Backend Python задачи
-            Backend Python навыки
-            Backend Python курсы
+            Backend Python профессия
         Описание
             Написание серверного кода
         Задачи
@@ -37,13 +38,14 @@
         Навыки
             https://www.youtube.com/watch?v=VR9EPKz8aXk
         Курсы
-    QA Automation Engineer
+    QA Engineer
         Поиск
-            QA Automation Engineer профессия
-            QA Automation Engineer навыки
-            QA Automation Engineer курсы
+            QA Engineer профессия
         Описание
             Тестирование продукта
+        Направления
+            QA Manual Engineer
+            QA Automation Engineer
         Задачи
         Навыки
             https://www.youtube.com/watch?v=k0LFk9yH98c
@@ -59,8 +61,19 @@
             https://testbase.ru/
     Технический писатель
         Поиск
-    Системный аналитик
+        Описание
+        Направления
+    Аналитик
         Поиск
+        Описание
+        Направления
+            Системный аналитик
+            Продуктовый аналитик
+            Игровой аналитик
+    Специалист техподдержки
+        Поиск
+        Описание
+        Направления
 
 
 Теория

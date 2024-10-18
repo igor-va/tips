@@ -59,7 +59,6 @@ Folder structure
     Tests  # Folder contains Python files with all the test cases for the project
         conftest.py  # Module used by pytest to define fixtures, plugins, and other configurations
         pytest.ini  # Register custom marks
-        pyproject.toml
         tox.ini
         setup.cfg
         test_home.py  # Test file should follow the naming convention of the framework tests are implemented
@@ -77,4 +76,5 @@ Folder structure
     .dockerignore
     configuration.py
     db.py
+    pyproject.toml
     

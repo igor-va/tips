@@ -11,6 +11,11 @@ sudo pip install virtualenv  # Created utility virtualenv on Linux or macOS
 pip install virtualenv  # Created utility virtualenv on Windows (as admin shell)
 virtualenv venv  # Creates a virtual environment
 
+# For Windows
+python -m pip install --user virtualenv  # Create and activate a virtual environment
+python -m venv venv
+.\env\Scripts\activate
+
 # Links
 https://python-scripts.com/virtualenv
 https://virtualenv.pypa.io
@@ -25,11 +30,6 @@ export FLASKY_ADMIN=igorva.test@gmail.com
 set MAIL_USERNAME=igorva.test@gmail.com
 set MAIL_PASSWORD=BigBomBam
 set FLASKY_ADMIN=igorva.test@gmail.com
-
-# Package dependencies
-pip freeze > requirements.txt  # Generated automatically file by pip 
-pip install -r requirements.txt  # Build a perfect replica
-pip install -r requirements/dev.txt  # Build a perfect replica
 
 # Проверить какой python
 which python
