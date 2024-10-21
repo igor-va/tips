@@ -60,7 +60,7 @@ USE  # Выбор базы данных, с которой вы хотите р�
     USE mydb;
 
 
-# Работа с редактированием данных
+# Редактирование данных
 SHOW TABLES  # Показывает таблицы внутри БД
     SHOW TABLES;
 CREATE TABLE  # Создание новой таблицы
@@ -86,7 +86,7 @@ ALTER TABLE  # Изменение структуры существующей т
     ALTER TABLE users DROP COLUMN birthdate;  # Удаление столбца
     
     
-# Работа с получением данных
+# Получение данных
 SELECT  # Получение данных из таблицы
     SELECT * FROM table_name;  # Получение всех данных из таблицы
     SELECT column1, column2, ... FROM table_name;  # Получение конкретных столбцов из таблицы
@@ -173,39 +173,65 @@ SUM  # Получение суммы значений из столбца
 NULL  # Поле со значением NULL — это поле без значения
     SELECT column_names FROM table_name WHERE column_name IS NULL;
     SELECT column_names FROM table_name WHERE column_name IS NOT NULL;
+GROUP BY  # Группирует строки с одинаковыми значениями в итоговые строки
+    SELECT column_name(s) FROM table_name WHERE condition GROUP BY column_name(s) ORDER BY column_name(s);
+    SELECT COUNT(CustomerID), Country FROM Customers GROUP BY Country;
 
 
-# Работа с JOIN
+# Присоединение данных
 INNER JOIN  # Используется для объединения строк из двух таблиц на основе совпадающих значений в указанных столбцах
-    SELECT employees.first_name, employees.last_name, departments.department_name FROM employees INNER JOIN departments ON employees.department_id = departments.department_id;
-        Этот запрос объединяет данные из таблиц "employees" и "departments" по значению столбца "department_id"
-        В результате получается список имен сотрудников и названий департаментов, к которым они относятся
+    SELECT column1, column2, ... FROM table1 INNER JOIN table2 ON table1.column_name = table2.column_name;
+    SELECT ProductID, ProductName, CategoryName FROM Products INNER JOIN Categories ON Products.CategoryID = Categories.CategoryID;
+    SELECT Products.ProductID, Products.ProductName, Categories.CategoryName FROM Products INNER JOIN Categories ON Products.CategoryID = Categories.CategoryID;
+    SELECT Orders.OrderID, Customers.CustomerName, Shippers.ShipperName FROM ((Orders INNER JOIN Customers ON Orders.CustomerID = Customers.CustomerID) INNER JOIN Shippers ON Orders.ShipperID = Shippers.ShipperID);
 LEFT JOIN  # Используется для объединения строк из левой таблицы со всеми совпадающими строками из правой таблицы
-    SELECT employees.first_name, employees.last_name, departments.department_name FROM employees LEFT JOIN departments ON employees.department_id = departments.department_id;
-        Этот запрос вернет список всех сотрудников и их департаментов
-        Если сотрудник не привязан к департаменту, его данные также будут включены в результат
+    SELECT column1, column2, ... FROM table1 LEFT JOIN table2 ON table1.column_name = table2.column_name;
+    SELECT Customers.CustomerName, Orders.OrderID FROM Customers LEFT JOIN Orders ON Customers.CustomerID = Orders.CustomerID ORDER BY Customers.CustomerName;
 RIGHT JOIN  # Используется для объединения строк из правой таблицы со всеми совпадающими строками из левой таблицы
-    SELECT employees.first_name, employees.last_name, departments.department_name FROM employees RIGHT JOIN departments ON employees.department_id = departments.department_id;
-        Этот запрос вернет список всех департаментов и их сотрудников
-        Если департамент не имеет сотрудников, его данные также будут включены в результат
+    SELECT column1, column2, ... FROM table1 RIGHT JOIN table2 ON table1.column_name = table2.column_name;
+    SELECT Orders.OrderID, Employees.LastName, Employees.FirstName FROM Orders RIGHT JOIN Employees ON Orders.EmployeeID = Employees.EmployeeID ORDER BY Orders.OrderID;
+FULL JOIN  # Возвращает все записи, если есть совпадение в записях левой или правой таблицы
+    SELECT column1, column2, ... FROM table1 FULL OUTER JOIN table2 ON table1.column_name = table2.column_name WHERE condition;
+    SELECT Customers.CustomerName, Orders.OrderID FROM Customers FULL OUTER JOIN Orders ON Customers.CustomerID=Orders.CustomerID ORDER BY Customers.CustomerName;
+SELF JOIN  # Обычное объединение, но таблица объединяется сама с собой
+    SELECT column_name(s) FROM table1 T1, table1 T2 WHERE condition;
+    SELECT A.CustomerName AS CustomerName1, B.CustomerName AS CustomerName2, A.City FROM Customers A, Customers B WHERE A.CustomerID <> B.CustomerID AND A.City = B.City ORDER BY A.City;
 
 
-# Работа с UNION
+# Объединение данных
 UNION  # Используется для объединения результатов двух или более запросов в один набор результатов, удаляет дубликаты строк
-    SELECT first_name, last_name, department_id FROM employees UNION SELECT department_name AS first_name, NULL AS last_name, department_id FROM departments;
-        Этот запрос объединяет список сотрудников из таблицы "employees" с названиями департаментов из таблицы "departments"
+    SELECT column1, column2, ... FROM table1 UNION SELECT column1, column2, ... FROM table2;
+    SELECT City FROM Customers UNION SELECT City FROM Suppliers ORDER BY City;
+    SELECT City, Country FROM Customers WHERE Country='Germany' UNION SELECT City, Country FROM Suppliers WHERE Country='Germany' ORDER BY City;
 UNION ALL  # Используется для объединения результатов двух или более запросов в один набор результатов, но он сохраняет все строки, включая дубликаты
-    SELECT first_name, last_name, department_id FROM employees UNION ALL SELECT department_name AS first_name, NULL AS last_name, department_id FROM departments;
-        В этом запросе используется UNION ALL, поэтому дубликаты будут сохранены в результате
+    SELECT column1, column2, ... FROM table1 UNION ALL SELECT column1, column2, ... FROM table2;
+    SELECT City FROM Customers UNION ALL SELECT City FROM Suppliers ORDER BY City;
+    SELECT City, Country FROM Customers WHERE Country='Germany' UNION ALL SELECT City, Country FROM Suppliers WHERE Country='Germany' ORDER BY City;
 HAVING  # Используется для фильтрации результатов агрегированных функций (например, COUNT, SUM, AVG) в GROUP BY
-    SELECT department_id, AVG(salary) AS avg_salary FROM employees GROUP BY department_id HAVING avg_salary > 60000;
-        Этот запрос сначала агрегирует данные по департаментам, а затем фильтрует результаты, оставляя только те департаменты, у которых средняя зарплата превышает 60000
+    SELECT column_name(s) FROM table_name WHERE condition GROUP BY column_name(s) HAVING condition ORDER BY column_name(s);
+    SELECT COUNT(CustomerID), Country FROM Customers GROUP BY Country HAVING COUNT(CustomerID) > 5;
+    SELECT Employees.LastName, COUNT(Orders.OrderID) AS NumberOfOrders FROM (Orders INNER JOIN Employees ON Orders.EmployeeID = Employees.EmployeeID) GROUP BY LastName HAVING COUNT(Orders.OrderID) > 10;
 
 
-# Вложенные подзапросы
-SELECT department_name, (SELECT AVG(salary) FROM employees WHERE department_id = departments.department_id) AS avg_salary FROM departments WHERE department_name = 'HR';
-    Вложенные подзапросы позволяют выполнять запросы внутри других запросов
-    В этом запросе внутренний подзапрос (SELECT AVG(salary) FROM employees WHERE department_id = departments.department_id) вычисляет среднюю зарплату для каждого департамента, а внешний запрос выбирает только департамент "HR" и его среднюю зарплату.
-
-
-
+# Разное
+EXISTS  # Используется для проверки существования любой записи в подзапросе
+    SELECT column_name(s) FROM table_name WHERE EXISTS (SELECT column_name FROM table_name WHERE condition);
+    SELECT SupplierName FROM Suppliers WHERE EXISTS (SELECT ProductName FROM Products WHERE Products.SupplierID = Suppliers.supplierID AND Price < 20);
+ANY   # Означает, что условие будет истинным, если операция истинна для любого из значений в диапазоне
+    SELECT column_name(s) FROM table_name WHERE column_name operator ANY (SELECT column_name FROM table_name WHERE condition);
+ALL  # Означает, что условие будет истинным только в том случае, если операция истинна для всех значений в диапазоне
+    SELECT ALL column_name(s) FROM table_name WHERE condition;
+SELECT INTO  # Копирует данные из одной таблицы в новую таблицу
+    SELECT column1, column2, column3, ... INTO newtable [IN externaldb] FROM oldtable WHERE condition;
+    SELECT * INTO CustomersBackup2017 FROM Customers;
+    SELECT * INTO CustomersBackup2017 IN 'Backup.mdb' FROM Customers;
+    SELECT * INTO CustomersGermany FROM Customers WHERE Country = 'Germany';
+INSERT INTO SELECT  # Копирует данные из одной таблицы и вставляет их в другую таблицу
+    INSERT INTO table2 SELECT * FROM table1 WHERE condition;
+    INSERT INTO table2 (column1, column2, column3, ...) SELECT column1, column2, column3, ... FROM table1 WHERE condition;
+    INSERT INTO Customers (CustomerName, City, Country) SELECT SupplierName, City, Country FROM Suppliers;
+    INSERT INTO Customers (CustomerName, ContactName, Address, City, PostalCode, Country) SELECT SupplierName, ContactName, Address, City, PostalCode, Country FROM Suppliers;
+    INSERT INTO Customers (CustomerName, City, Country) SELECT SupplierName, City, Country FROM Suppliers WHERE Country='Germany';
+CASE  # Проходит через условия и возвращает значение, когда выполняется первое условие (подобно оператору if-then-else)
+    CASE WHEN condition1 THEN result1 WHEN condition2 THEN result2 WHEN conditionN THEN resultN ELSE result END;
+    SELECT CustomerName, City, Country FROM Customers ORDER BY (CASE WHEN City IS NULL THEN Country ELSE City END);
