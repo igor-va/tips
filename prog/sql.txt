@@ -29,7 +29,7 @@ DATETIME и TIMESTAMP
     TIMESTAMP может использоваться для отслеживания времени создания и обновления записей
 BOOLEAN
     Пример: is_active BOOLEAN
-    BOOLEAN предназначен для хранения логических значений, таких как true или false
+    BOOLEAN предназначен для хранения логических значений, таких как True или False
 ENUM
     Пример: status ENUM('active', 'inactive', 'pending')
     ENUM представляет собой перечисление значений и используется, 
@@ -53,20 +53,29 @@ NULL
 SHOW DATABASES  # Получение списка всех доступных баз данных
     SHOW DATABASES;
 CREATE DATABASE  # Создание новой базы данных
-    CREATE DATABASE mydb;
+    CREATE DATABASE databasename;
 DROP DATABASE  # Удаление существующей базы данных и всех её данных
-    DROP DATABASE mydb;
+    DROP DATABASE databasename;
 USE  # Выбор базы данных, с которой вы хотите работать (активировать)
-    USE mydb;
+    USE databasename;
+BACKUP DATABASE  # Создание полной резервной копии существующей базы данных
+    BACKUP DATABASE databasename TO DISK = 'filepath';
+    BACKUP DATABASE testDB TO DISK = 'D:\backups\testDB.bak';
+    BACKUP DATABASE databasename TO DISK = 'filepath' WITH DIFFERENTIAL;  # Копии частей БД, которые изменились с момента последнего полного резервного копирования БД
+    
 
-
-# Редактирование данных
+# Работа с таблицами
 SHOW TABLES  # Показывает таблицы внутри БД
     SHOW TABLES;
 CREATE TABLE  # Создание новой таблицы
-    CREATE TABLE users (id INT AUTO_INCREMENT PRIMARY KEY, username VARCHAR(50) NOT NULL, email VARCHAR(100) UNIQUE, birthdate DATE);
+    CREATE TABLE table_name (column1 datatype, column2 datatype, column3 datatype, ....);
+        CREATE TABLE users (id INT AUTO_INCREMENT PRIMARY KEY, username VARCHAR(50) NOT NULL, email VARCHAR(100) UNIQUE, birthdate DATE);
+    CREATE TABLE new_table_name AS SELECT column1, column2,... FROM existing_table_name WHERE ....;  # Создать таблицу, используя другую таблицу
+        CREATE TABLE TestTable AS SELECT customername, contactname FROM customers;
 DROP TABLE  # Удаление таблицы и всех её данных
-    DROP TABLE users;
+    DROP TABLE table_name;
+TRUNCATE TABLE  # Удаление данных внутри таблицы, но не самой таблицы
+    TRUNCATE TABLE table_name;
 DESCRIBE или DESC  # Получение информации о структуре таблицы
     DESCRIBE users;
 INSERT INTO  # Вставка новых записей в таблицу
@@ -81,10 +90,36 @@ UPDATE  # Обновление данных в таблице
     UPDATE table_name SET column1 = value1, column2 = value2, ... WHERE condition;
     UPDATE Customers SET ContactName = 'Alfred Schmidt', City= 'Frankfurt' WHERE CustomerID = 1;
 ALTER TABLE  # Изменение структуры существующей таблицы
-    ALTER TABLE users ADD COLUMN phone_number VARCHAR(20);  # Добавление нового столбца
+    ALTER TABLE table_name ADD column_name datatype;  # Добавление нового столбца
+        ALTER TABLE Customers ADD Email varchar(255);
+    ALTER TABLE table_name DROP COLUMN column_name;  # Удаление столбца
+        ALTER TABLE users DROP COLUMN birthdate;
+    ALTER TABLE table_name RENAME COLUMN old_name to new_name;  # Переименование столбца
     ALTER TABLE users MODIFY COLUMN phone_number INT;  # Изменение типа столбца
-    ALTER TABLE users DROP COLUMN birthdate;  # Удаление столбца
-    
+    ALTER TABLE Persons ALTER COLUMN DateOfBirth year;  # Изменение типа данных
+
+
+# SQL ограничения
+CREATE TABLE table_name (column1 datatype constraint, column2 datatype constraint, ...);  # Используются для указания правил для данных в таблице
+NOT NULL  # Поле всегда должно содержать значение
+    CREATE TABLE Persons (ID int NOT NULL, LastName varchar(255) NOT NULL, FirstName varchar(255) NOT NULL, Age int);
+UNIQUE  # Гарантирует, что все значения в столбце различны
+    CREATE TABLE Persons (ID int NOT NULL, LastName varchar(255) NOT NULL, FirstName varchar(255), Age int, UNIQUE (ID));
+PRIMARY KEY  # Однозначно идентифицирует каждую запись в таблице
+    CREATE TABLE Persons (ID int NOT NULL, LastName varchar(255) NOT NULL, FirstName varchar(255), Age int, PRIMARY KEY (ID));
+FOREIGN KEY  # Используется для предотвращения действий, которые могут разрушить связи между таблицами
+    CREATE TABLE Orders (OrderID int NOT NULL, OrderNumber int NOT NULL, PersonID int, PRIMARY KEY (OrderID), FOREIGN KEY (PersonID) REFERENCES Persons(PersonID));
+CHECK  # Используется для ограничения диапазона значений, которые можно поместить в столбец
+    CREATE TABLE Persons (ID int NOT NULL, LastName varchar(255) NOT NULL, FirstName varchar(255), Age int, CHECK (Age>=18));
+DEFAULT  # Используется для установки значения по умолчанию для столбца
+    CREATE TABLE Persons (ID int NOT NULL, LastName varchar(255) NOT NULL, FirstName varchar(255), Age int, City varchar(255) DEFAULT 'Sandnes');
+INDEX  # Используется для создания индексов в таблицах
+    CREATE INDEX index_name ON table_name (column1, column2, ...);
+    CREATE UNIQUE INDEX index_name ON table_name (column1, column2, ...);  # Дублирующиеся значения не допускаются
+AUTO INCREMENT  # Позволяет автоматически генерировать уникальный номер при вставке новой записи в таблицу
+    CREATE TABLE Persons (Personid int NOT NULL AUTO_INCREMENT, LastName varchar(255) NOT NULL, FirstName varchar(255), Age int, PRIMARY KEY (Personid));
+
+
     
 # Получение данных
 SELECT  # Получение данных из таблицы
@@ -137,6 +172,10 @@ LIKE  # Поиск строк для указанного шаблона в ст
         SELECT * FROM employees WHERE first_name LIKE 'J%';
     LIKE _g%  # Поиск строк, имеющий в середине "g", имеющий один символ перед "g" и любое количество после
         SELECT * FROM employees WHERE last_name LIKE '_g%';
+    LIKE []  # Возвращает результат, если любой из символов внутри совпадает
+        SELECT * FROM Customers WHERE CustomerName LIKE '[bsp]%';
+    LIKE -  # Позволяет указать диапазон символов внутри подстановочного знака
+        SELECT * FROM Customers WHERE CustomerName LIKE '[a-f]%';
 BETWEEN  # Поиск значений в заданном диапазоне
     SELECT column1, column2, ... FROM table_name WHERE column_name BETWEEN value1 AND value2;
     SELECT * FROM Products WHERE Price BETWEEN 10 AND 20;
