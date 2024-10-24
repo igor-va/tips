@@ -165,7 +165,7 @@ ORDER BY  # Сортировка результатов
     SELECT * FROM employees ORDER BY salary DESC;  # Сортировка результатов по убыванию
     SELECT * FROM Customers ORDER BY Country ASC, CustomerName DESC;
 LIKE  # Поиск строк для указанного шаблона в столбце
-    SELECT column1, column2, ... FROM table_name WHERE columnN LIKE pattern;
+    SELECT column1, column2, ... FROM table_name WHERE columnn LIKE pattern;
     LIKE _  # Поиск строк, где символ подчеркивания (_) заменяет только один символ
         SELECT * FROM employees WHERE last_name LIKE 'D_e';
     LIKE %  # Поиск строк с произвольными символами перед и/или после указанных символов
@@ -274,3 +274,25 @@ INSERT INTO SELECT  # Копирует данные из одной таблиц
 CASE  # Проходит через условия и возвращает значение, когда выполняется первое условие (подобно оператору if-then-else)
     CASE WHEN condition1 THEN result1 WHEN condition2 THEN result2 WHEN conditionN THEN resultN ELSE result END;
     SELECT CustomerName, City, Country FROM Customers ORDER BY (CASE WHEN City IS NULL THEN Country ELSE City END);
+DESCRIBE  # Узнать типы данных атрибутов в таблице
+    DESCRIBE table_name;
+    
+
+# Примеры вложенных запросов
+Какие компании организуют рейсы из Владивостока?
+    SELECT name
+    FROM Company
+    WHERE id IN (
+            SELECT company
+            FROM Trip
+            WHERE town_from = "Vladivostok"
+        );
+В какие города можно вылететь из Парижа и сколько времени это займет?
+    SELECT town_to,
+        TIME_FORMAT(TIMEDIFF(time_in, time_out), '%H:%i:%s') AS flight_time
+    FROM Trip
+    WHERE town_from = "Paris";
+Вывести полеты сделанные с 10:00 до 14:00 1 января 1900 года?
+    SELECT *
+    FROM Trip
+    WHERE time_out BETWEEN '1900-01-01-10-00-00' AND '1900-01-01-14-00-00';
