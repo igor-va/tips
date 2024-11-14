@@ -31,46 +31,49 @@ Best Practices
     Use a Test Framework
         Is a set of tools and libraries that can be used to create and run automated tests
         Provide  support for test case management, reporting, and parallel test execution
-Folder structure
-    Configurations  # Folder contains test automation config files with access to variables, connections, credentials
+Project structure
+    .github/  # Configurations GitHub
+        workflows/
+            auto-test.yml  
+    Configurations/  # Folder contains test automation config files with access to variables, connections, credentials
         config.ini  # File that contains application config info in key-value pairs the to add environment variables
         file.json
         file.yaml
         TestData.py  # File is used to store URLs, credentials and so on
-    Locators  # Folder for contains locators
+    Locators/  # Folder for contains locators
         Home.py
         Login.py
-    Logs  # Folder for storing logs
+    Logs/  # Folder for storing logs
         test.log
-    Pages  # Folder contains all the page object classes for each of the application pages
+    Pages/  # Folder contains all the page object classes for each of the application pages
         PageObjects  # Set of many times used object page
         PageComponents  # Set of many times used components page
         BasePage.py  # Foundation of all the other page classes
         HomePage.py  # Page object class contains all the elements contained in the respective page and element actions
         LoginPage.py
-    Reports  # Folder for storing test report
+    Reports/  # Folder for storing test report
         report.html
-    Screenshots  # Folder for storing screenshots
+    Screenshots/  # Folder for storing screenshots
         test_invalid_login.png  # Best practice to use the test name as the screenshot name
         test_loginPageTitle.png
-    TestData  # Folder for storing driven testing with data source
+    TestData/  # Folder for storing driven testing with data source
         CSV-Login.csv
         DDT-Login.xlsx
-    Tests  # Folder contains Python files with all the test cases for the project
+    Tests/  # Folder contains Python files with all the test cases for the project
         conftest.py  # Module used by pytest to define fixtures, plugins, and other configurations
-        pytest.ini  # Register custom marks
         tox.ini
         setup.cfg
         test_home.py  # Test file should follow the naming convention of the framework tests are implemented
         test_login.py
-    Utilities  # Folder fo contains useful modules
+    Utilities/  # Folder fo contains useful modules
         faker.py
         data.py
-    venv  # Folder virtual environment
+    venv/  # Folder virtual environment
         Lib
         Scripts
     requirements.txt  # File with list a packages and modules
     .gitignore  # List of files and folders not included in the project
+    pytest.ini  # Register custom marks
     docker-compose.yaml
     Dockerfile
     .dockerignore

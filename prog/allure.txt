@@ -4,5 +4,5 @@ https://docs.qameta.io/allure/
 
 
 # Commands
-allure serve [dirpath]  # Генерация отчета по директории [dirpath] и открытие в браузере
-allure generate [dirpath]  # Генерация отчета по директории [dirpath] как отдельный проект
+allure serve [AllureResults]  # Генерация отчета по директории [AllureResults] и открытие в браузере
+allure generate [AllureResults]  # Генерация отчета по директории [AllureResults] как отдельный проект

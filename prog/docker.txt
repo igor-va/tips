@@ -35,11 +35,10 @@ docker stop <container_id>  # This command stops a running Docker container
 docker rm <container_id>  # This command removes a stopped Docker container
 docker images  # This command lists all Docker images that are currently available on your system
 docker push <image_name>  # This command uploads a Docker image to a Docker registry
-docker start <container>  #
-docker stop <container>  #
-docker pause <container>  #
-docker unpause <container>  #
-docker kill <container>  #
+docker start <container_id>  #
+docker pause <container_id>  #
+docker unpause <container_id>  #
+docker kill <container_id>  #
 
 # Volume - a persistent data storage mechanism that allows a container to store and access data outside of its filesystem
 docker volume create
@@ -50,5 +49,6 @@ docker volume inspect
 # Compose - is a tool that allows defining and running multi-container applications
 docker compose build  # Build project
 docker compose up  # This command starts the containers defined in the docker-compose.yaml file
-    --scale  # The nodes can be scaled up
+    --scale chrome=3  # The nodes can be scaled up
+    -d  # Detached mode
 docker compose down  # Bring the container down

@@ -31,7 +31,7 @@ Commands
 Links
     https://pypi.org/project/allure-pytest/
 Commands
-    pytest --alluredir [dirpath]  # Генерация файлов в директорию [dirpath]
+    pytest --alluredir [AllureResults]  # Генерация файлов в директорию [AllureResults]
 
 # pytest-cov - code coverage is a measurement of what percentage of the code under test is being tested by a test suite
 https://coverage.readthedocs.io/en/coverage-5.4/
