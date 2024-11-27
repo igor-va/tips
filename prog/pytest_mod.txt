@@ -3,7 +3,6 @@ https://docs.pytest.org/en/latest/plugins.html
 pytest-json  # Отчет результатов тестов в формате json
 
 
-
 # С какими python модулями pytest может работать совместно
 pdb  # Module debugger in the standard library (​pytest​​ ​​​​--pdb)
 unittest.mock  # To swap out pieces of the system to isolate bits of our code under test from the rest of the system
@@ -32,6 +31,7 @@ Links
     https://pypi.org/project/allure-pytest/
 Commands
     pytest --alluredir [AllureResults]  # Генерация файлов в директорию [AllureResults]
+
 
 # pytest-cov - code coverage is a measurement of what percentage of the code under test is being tested by a test suite
 https://coverage.readthedocs.io/en/coverage-5.4/

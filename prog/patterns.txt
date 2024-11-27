@@ -74,10 +74,11 @@ Project structure
     requirements.txt  # File with list a packages and modules
     .gitignore  # List of files and folders not included in the project
     pytest.ini  # Register custom marks
+    pyproject.toml
     docker-compose.yaml
     Dockerfile
     .dockerignore
     configuration.py
     db.py
-    pyproject.toml
+    
     

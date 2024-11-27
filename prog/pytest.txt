@@ -59,7 +59,7 @@ pytest 0_pytest_intro/test_pytest_intro_1.py::TestClass::test_four  # Запус
     -m not [mark1]  # Skip test [mark1]
 -- markers  # List of markers both default and added 
 -x, –-exitfirst  # Stopping the entire test session immediately when a test fails
--–maxfail=num  # To specify how many failures are okay (num = integer)
+--maxfail=num  # To specify how many failures are okay (num = integer)
 --tb=style  # style: 'auto', 'long', 'short', 'no', 'line', 'native'
     --tb=no  # Removes the traceback entirely, to hide the stack trace
     --tb=line  # Help to show a pattern in the failures
@@ -82,17 +82,19 @@ pytest 0_pytest_intro/test_pytest_intro_1.py::TestClass::test_four  # Запус
 
 
 # Маркировка тестов @pytest.mark
+--markers  # List all markers
 @pytest.mark.skip()  # Skipping test
 @pytest.mark.skipif()  # Skipping test if the condition is satisfied
 @pytest.mark.xfail()  # Telling pytest to run a test function, but that we expect it to fail
+@pytest.mark.usefixtures()  # 
 @pytest.mark.parametrize(argnames, argvalues)  # Parametrized testing
 						@pytest.mark.parametrize("x,y,expected", testdata)
 						def test_a(x, y, expected):
 
 
 # Fixtures
-@pytest.fixture()  # To tell pytest that a function is a fixture
 --fixtures filename.py  # To lists all the fixtures available for the test
+@pytest.fixture()  # To tell pytest that a function is a fixture
 @pytest.fixture(scope=​'name'​)  # Specifying Fixture Scope
 		scope="function"  # F - Run once per test function
 		scope="class"  # C - Run once per test class
