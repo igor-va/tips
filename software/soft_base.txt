@@ -41,9 +41,7 @@
         MySQL
         Postman
         Docker
-	Хобби
-		DreamTime
-			https://www.dreamtime.tech/
+        Android Studio
 	Офисные пакеты и утилиты
 		Foxit Reader
 		Unreal Commander
