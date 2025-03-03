@@ -1,55 +1,62 @@
-Built-in
+# Built-in
+argparse - модуль для передачи параметров и параметризации скриптов
+    https://docs.python.org/3/library/argparse.html
 
-    argparse - модуль для передачи параметров и параметризации скриптов
-        https://docs.python.org/3/library/argparse.html
+json - модуль для работы с json данными
+    https://docs.python.org/3/library/json.html
 
-    json - модуль для работы с json данными
-        https://docs.python.org/3/library/json.html
+subprocess - возможность запускать процессы программ из Python
 
-    subprocess - возможность запускать процессы программ из Python
+sys - доступ к некоторым переменным окружения используемых интерпретатором
 
-    sys - доступ к некоторым переменным окружения используемых интерпретатором
+os - built-in library that provides a way to interact with the operating system
 
-    os - built-in library that provides a way to interact with the operating system
+pathlib - working with file paths and directories
 
-    pathlib - working with file paths and directories
+pdb - module debugger in the standard library
 
-    pdb - module debugger in the standard library
+collections
+    https://docs.python.org/3/library/collections.html
 
-    collections
-        https://docs.python.org/3/library/collections.html
+logging - модуль для регистрации событий для приложений и библиотек
+    https://docs.python.org/3/library/logging.html
 
-    logging - модуль для регистрации событий для приложений и библиотек
-        https://docs.python.org/3/library/logging.html
+configparser - module works with the .ini file
+    https://docs.python.org/3/library/configparser.html
 
-    configparser - module works with the .ini file
-        https://docs.python.org/3/library/configparser.html
-    
-    pickle - serialization and de-serialization module
-    
-    datetime - work with dates and times
+pickle - serialization and de-serialization module
 
-    random - generate random numbers and sequences
+datetime - work with dates and times
+
+random - generate random numbers and sequences
 
 
-External
+# External
+requests - simple, yet elegant, HTTP library
+    requests-oauthlib
 
-    requests - simple, yet elegant, HTTP library
+pytest - test framework
 
-    paramiko -  implementation of the SSHv2 protocol, providing both client and server functionality
+selenium - frontend test library
 
-    pyautogui - a cross-platform Graphical User Inteface (GUI) automation tool for Python
+paramiko - implementation of the SSHv2 protocol, providing both client and server functionality
 
-    openpyxl - write and read data from Excel spreadsheet files
+pyautogui - a cross-platform Graphical User Inteface (GUI) automation tool for Python
 
-    csv - package can be used to read and write data to and from CSV files
+openpyxl - write and read data from Excel spreadsheet files
 
-    pandas - data manipulation library
+csv - package can be used to read and write data to and from CSV files
 
-    numpy - library for performing numerical computations
+pandas - data manipulation library
 
-    faker - generating fake data such as names, addresses, phone numbers, dates and more
-    
-    SQLAlchemy - The Python SQL Toolkit and Object Relational Mapper
-    
-    pytest  - test framework
+numpy - library for performing numerical computations
+
+faker - generating fake data such as names, addresses, phone numbers, dates and more
+
+SQLAlchemy - The Python SQL Toolkit and Object Relational Mapper
+
+PyMySQL - MySQL connect
+
+python-dotenv  - .env file
+
+pydantic - Data validation using Python type hints

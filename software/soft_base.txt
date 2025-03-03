@@ -38,6 +38,9 @@
 		GitHub Desktop
 		GitKraken
             https://www.gitkraken.com/
+        MySQL
+        Postman
+        Docker
 	Хобби
 		DreamTime
 			https://www.dreamtime.tech/
@@ -51,6 +54,7 @@
 		VLC Media Player
 		NumLock Calculator
         Shutter
+        ShareX
 	Защита данных
 		Avast
 	ОС

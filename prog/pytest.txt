@@ -55,7 +55,7 @@ pytest 0_pytest_intro/test_pytest_intro_1.py::TestClass::test_four  # Запус
                 Test can have more than one marker, and a marker can be on multiple tests
     -m [mark1] and [mark2]  # Only ran the test that had both markers
     -m [mark1] and not [mark2]  # Tests that have [mark1] but not [mark2]
-    -m [mark1] or [mark2]  # Tests with either, and so on
+    -m [mark1] or [mark2]  # Tests with either, and so on, example:  pytest -m "tcid24 or tcid25 or tcid26"
     -m not [mark1]  # Skip test [mark1]
 -- markers  # List of markers both default and added 
 -x, –-exitfirst  # Stopping the entire test session immediately when a test fails

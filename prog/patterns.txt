@@ -79,6 +79,7 @@ Project structure
     Dockerfile
     .dockerignore
     configuration.py
+    .env  # Credentials
     db.py
     
     

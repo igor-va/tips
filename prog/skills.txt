@@ -10,50 +10,136 @@
 
 
 Задачи
-    Разное
-        Подтвердить навыки на hh
-    Тестовое
-        Выполнение
-        Готовое
-    Портфолио
-        Модули
-            Выполнение: Каталог
-            Общее: Корзина, Дом, Авторизация, Кабинет
-        Фичи
-            Docker + Grid
-            Скриншоты при падении тестов
-            Логирование
-        Аналоги
-            TestNest
+    Работа
+        Резюме
+            Улучшение резюме: hh, linkedin
+            Подтвердить на hh: Python теория, PostgreSQL
+        Расширить поиск должностей
+            Изучение IT должностей в известных компаниях
+            Изучение IT должностей на онлайн курсах
+        Расширить область площадок поиска работы
+            Headhunter, Linkedin, Avito
+        Тестовые
+            Текущее
+                Gabriella Parducho
+            Готовое
+    Портфолио3
+        UI
+            План
+                Выполнение: Каталог
+                Общее: Корзина, Дом, Авторизация, Кабинет
+            Задачи
+                Docker + Grid
+                Скриншоты при падении тестов
+                Логирование
+        API
+            План
+                Добавить тесты на новые ендпоинты WooCommerce
+                Добавить к классам и функциям комментарии, пояснения, возвраты и т.д.
+                Добавить allure на старые тесты
+            Задачи
+                Сделать заметку шаблон структуры папок для API
+            Код
+                Создать общий класс генерирующий тестовые данные
+                Данные нужно очищать после тестов
+    Практика
+        Тренажеры
+            LeetCode
+                Python задачи
+            W3Schools
+                XML / MySQL / PostgreSQL / MongoDB
+                Java / C / C++ / C# / JavaScript
+            QA Playground
+                Тестирование API
     Изучение
-        Теория
-            REST API тестирование
-            Backend тестирование
-            Тестирование gRPC сервисов
-            Знание LDAP, GraphQL, SOAP
-            Анализ логов веб-сервера
-            Работа с сетью (SSH, FTP, Socket)
-            Нагрузочное тестирование
         Софт
-            Git
-            MySQL / PostgreSQL
-            Postman
+            Appium
             Devtools
             Docker
-            Jenkins
-        Библиотеки
-            Python
-            Selenium
-            Pytest
-            Requests
-            Allure
-            SQLAlchemy
-            Selenoid
-            Playwright
-            Appium
+            CI/CD
+            RabbitMQ
+            Kibana
+        Теория 
+            QA
+                План тестирования / Тест-план / Стратегия тестирования
+                Жизненный цикл / Порядок / Этапы тестирования
+            Dev
+                Паттерны программирования
+                REST архитектура
+                SOAP протокол
+                Микросервисная архитектура
+        Курсы
+            Otus: Python QA Engineer
+            Yandex: Python QA Engineer
 
 
 Профессии
+    QA Engineer
+        Поиск
+            QA Engineer профессия
+            Python test books
+        Ссылки
+            https://testengineer.ru/
+            https://vladislaveremeev.gitbook.io/qa_bible
+            https://www.rstqb.org/ru/istqb-downloads.html
+            https://www.guru99.com/
+            https://testbase.ru/
+        Книги
+            Svyatoslav Kulikov - Software Testing - Base Course
+                https://svyatoslav.biz/software_testing_book/
+            Lee Copeland - A Practitioner's Guide to Software Test Design
+        Описание
+            Тестирование продукта
+        Направления
+            QA Manual Engineer
+            QA Automation Engineer
+            SDET / Software Development in Test
+        Навыки
+            Теория
+                Тестирование
+                    Типы тестирования
+                    Тестовая документация
+                    Метрики качества
+                Области
+                    Web / Mobile / Desktop тестирование
+                    UI / REST API / Backend / DataBase тестирование
+                    Тестирование производительности
+                    Тестирование на проникновение
+                Разное
+                    Знания SOAP, REST
+                    Знание LDAP, GraphQL, gRPC
+                    Чтение и анализ логов веб-сервера
+                    Базовая теория сети
+                    Работа с сетью (SSH, FTP, Socket)  
+                Методология
+                    Agile / Scrum / Kanban
+                    CI / CD
+            Софт
+                Linux
+                Pycharm
+                Android Studio / Xcode
+                SQL / MySQL / PostgreSQL
+                Postman / Swagger / Insomnia / SoapUI
+                Devtools / HTML / CSS
+                Docker / Kubernetes
+                Jenkins / TeamCity / GitLab CI/CD
+                Jira / Bugzilla
+                RabbitMQ / Kafka - брокеры сообщений
+                Charles / Fiddler - снифферы трафика
+                Kibana / Grafana / Prometheus - визуализация данных
+            Бибилиотеки
+                Python
+                Selenium
+                Pytest
+                Requests
+                Allure / Allure TestOps
+                SQLAlchemy
+                Selenoid
+                Playwright
+                Appium
+            Инструменты
+                Git
+                SSH
     Backend Python
         Поиск
             Backend Python профессия
@@ -66,281 +152,40 @@
         Навыки
             https://www.youtube.com/watch?v=VR9EPKz8aXk
         Курсы
-    QA Engineer
-        Поиск
-            QA Engineer профессия
-        Описание
-            Тестирование продукта
+    Технический писатель
         Направления
-            QA Manual Engineer
-            QA Automation Engineer
-        Задачи
-        Навыки
-            https://www.youtube.com/watch?v=k0LFk9yH98c
-        Курсы
-        Книги
-            https://svyatoslav.biz/software_testing_book/
-            https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Russian.pdf
-        Ссылки
-            https://testengineer.ru/
-            https://vladislaveremeev.gitbook.io/qa_bible
-            https://www.rstqb.org/ru/istqb-downloads.html
-            https://www.guru99.com/
-            https://testbase.ru/
+    Инженер техподдержки
+        Направления
+            Инженер технической поддержки IT
+            Technical Support Engineer IT
+            Специалист продуктовой поддержки
     Аналитик
-        Поиск
-        Описание
         Направления
             Системный аналитик
             Продуктовый аналитик
             Игровой аналитик
-    Технический писатель
-        Поиск
-        Описание
+    Системный администратор
         Направления
-    Специалист техподдержки
-        Поиск
-        Описание
+            Администратор Linux / Windows
+    DevOps
         Направления
 
 
-Теория
-    Общее
-        Алгоритмы
-        Алгоритмы на графах
-        Рекурсия
-        Микросервисные приложения
-        Многопоточность
-        Многопроцессность
-        Тестирование
-        Высоконагруженные и распределенные системы
-        REST API
-    Python
-        Основное
-            https://www.python.org/
-            https://pypi.org/
-            https://peps.python.org/pep-0020/
-        Документация
-            https://docs.python.org/3/
-        Шпаргалки
-            https://github.com/gto76/python-cheatsheet
-        PEP
-            PEP 8
-                https://peps.python.org/pep-0008/
-        Теория
-            Типы данных
-                Изменяемые
-                Неизменяемые
-            Синтаксис
-                Цикл
-                Условный оператор
-            Функции
-            Виртуальное окружение
-    Принципы
-        ООП
-        SOLID
-        Паттерны 
-
-
-Инструменты
-
-    ОС
-        Linux
-            Понимание архитектуры 
-
-
-    Библиотеки
-        Пример
-            Описание
-            Ссылки
-        Asyncio
-            Описание
-                A library to write concurrent code using the async/await syntax
-            Ссылки
-                https://docs.python.org/3/library/asyncio.html
-        Aiohttp
-            Описание
-                Asynchronous HTTP Client/Server for Asyncio and Python.
-            Ссылки
-                https://docs.aiohttp.org/en/stable/
-        Threading
-            Описание
-                Threading in python is used to run multiple threads (tasks, function calls) at the same time
-                Note that this does not mean that they are executed on different CPUs
-                Python threads will NOT make your program faster if it already uses 100 % CPU time
-            Ссылки
-                https://docs.python.org/3/library/threading.html
-        Django
-            Описание
-                Free and open-source, Python-based web framework that follows the model–template–views architectural pattern
-            Ссылки
-                https://www.djangoproject.com/
-        Django Rest Framework
-            Описание
-                Powerful and flexible toolkit for building Web APIs
-                Its main benefit is that it makes serialization much easier
-                Django REST framework is based on Django's class-based views, so it's an excellent option if you're familiar with Django
-            Ссылки
-                https://www.django-rest-framework.org/
-        Flask
-            Описание
-                Micro web framework written in Python
-                It is classified as a microframework because it does not require particular tools or libraries
-                It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions
-            Ссылки
-                https://flask.palletsprojects.com/en/2.2.x/
-        Pyramid
-            Описание
-                A lightweight Python web framework aimed at taking small web apps into big web apps
-            Ссылки
-                https://trypyramid.com/
-        Bottle 
-            Описание
-                A fast, simple and lightweight WSGI micro web-framework for Python
-            Ссылки
-                https://bottlepy.org/docs/dev/
-        Falcon
-            Описание
-                A high-performance web framework for building a REST API and micro-services in Python
-            Ссылки
-                https://falcon.readthedocs.io/en/stable/
-        Tornado
-            Описание
-                A scalable, non-blocking web server and web application framework written in Python
-            Ссылки
-                https://www.tornadoweb.org/en/stable/
-        Sanic
-            Описание
-                A Python 3.6+ async web server and web framework that's written to go fast
-                The project's goal is to provide a simple way to get up and running a highly performant HTTP server that is easy to build, to expand, and ultimately to scale
-            Ссылки
-                https://sanic.dev/en/
-        Pytest 
-            Описание
-                The pytest framework makes it easy to write small, readable tests
-                And can scale to support complex functional testing for applications and libraries
-            Ссылки
-                https://pytest.org/
-        Tox
-            Описание
-                Automate and standardize testing in Python
-            Ссылки
-                https://tox.wiki/en/latest/
-        Numpy
-            Описание
-                The fundamental package for scientific computing with Python
-            Ссылки
-                https://numpy.org/
-        Pandas
-            Описание
-                A fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language
-                In particular, it offers data structures and operations for manipulating numerical tables and time series
-            Ссылки
-                https://pandas.pydata.org/
-        Matplotlib
-            Описание
-                A plotting library for the Python programming language and its numerical mathematics extension NumPy
-            Ссылки
-                https://matplotlib.org/
-        Tensorflow
-            Описание
-                TensorFlow is a free and open-source software library for machine learning and artificial intelligence
-                It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks
-            Ссылки
-                https://www.tensorflow.org/
-        Keras
-            Описание
-                A deep learning API written in Python, running on top of the machine learning platform TensorFlow
-            Ссылки
-                https://keras.io/
-        PyTorch
-            Описание
-                A machine learning framework based on the Torch library, used for applications such as computer vision and natural language processing
-            Ссылки
-                https://pytorch.org/
-        PyQt
-            Описание
-                A Python binding of the cross-platform GUI toolkit Qt, implemented as a Python plug-in
-            Ссылки
-                https://riverbankcomputing.com/software/pyqt/intro
-                https://www.qt.io/qt-for-python
-        Dear pygui
-            Описание
-                Easy-to-use, dynamic, GPU-Accelerated, cross-platform graphical user interface toolkit(GUI) for Python
-            Ссылки
-                https://github.com/hoffstadt/DearPyGui
-                https://dearpygui.readthedocs.io/en/latest/
-
-
-    Линтеры
-        flake8
-        pylint
-        mypy
-
-
-    Базы данных
-        PostgresSQL
-        MySQL
-        Redis
-        MongoDB
-        Cassandra
-        ClickHouse
-        Google BigQuery 
-        SqlAlchemy
-        Amazon DynamoDB
-        MariaDB
-        Tarantool
-
-
-    Инструменты
-        Git
-            Описание
-            Ссылки
-            Обучение
-                https://github.com/jlord/git-it-electron
-        SVN
-        Celery
-            Описание
-                Celery is an open source asynchronous task queue or job queue which is based on distributed message passing
-                While it supports scheduling, its focus is on operations in real time
-            Ссылки
-                https://docs.celeryq.dev/en/stable/
-        Docker
-            Описание
-                A set of platform as a service products that use OS-level virtualization to deliver software in packages called containers
-            Ссылки
-                https://www.docker.com/
-
-
-    Системы обмена сообщениями
-        Kafka
-        Rabbitmq
-
-
-    Сериализаторы
-        Marshmallow
-        Pydantic
-
-
-    Распределенные системы координации
-        etcd
-        zookeeper
-
-
-    Системы управления конфигурацией
-        ansible
-        chef
-        puppet
-
-
-    Сетевые протоколы
-        TCP
-        UDP
-        HTTP
-        WebSocket
-        
-        
-    Способы сериализации
-        struct
-        protobuf
-        json
+Linkedin
+    План
+        Самые населенные регионы и страны
+        Поиск - qa engineer python
+    Вопросы
+        Где искать работу IT специалистам
+        Где искать работу QA Engineer
+        Где искать работу QA Engineer за границей
+    Поиск
+        Регионы
+            European Union
+            NAMER
+            Latin America
+        Страны
+            United States
+        Союзы
+            EMEA
+            APAC
